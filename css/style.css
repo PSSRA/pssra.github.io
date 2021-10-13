@@ -128,9 +128,9 @@ textarea {
 }
 
 .faq {
-  background: rgba(201, 53, 43, 0.5);
-  /* background: rgba(20, 28, 192, 0.5); -- doug blue */
+  background: rgb(0, 107, 53);
   text-align: left;
+  text: white;
 }
 
 .faq h3 {
@@ -142,14 +142,13 @@ textarea {
 }
 
 .prohibitions {
-  /* background: rgba(125, 125, 125, 0.3); */
   text-align: left;
 }
 
 .join {
   /* background: rgba(1, 93, 6, 0.5); -- doug green */
 
-  background: rgba(41, 183, 255, 0.5);
+  background: rgb(41, 183, 255);
   text-align: left;
 }
 
