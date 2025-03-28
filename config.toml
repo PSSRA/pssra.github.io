@@ -8,6 +8,8 @@ defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 
+og_image = "img/pssra-logo-200.png"
+
 
 [services.googleAnalytics]
 id = ''
