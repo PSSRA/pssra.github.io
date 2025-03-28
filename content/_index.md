@@ -28,7 +28,7 @@ We do not tolerate abusers, supporters of fascism/racism or other reactionary id
 You don't need to own a gun or have shooting experience -- we're happy to welcome new learners!
 
 ## Join us!
-Anyone age 21+ can contact us at {{< ico "mail" >}}[join@pugetsoundsra.org](mailto:join@pugetsoundsra.org) with your intent to join.
+Anyone age 21+ can contact us at {{< cloakemail "join@pugetsoundsra.org" >}}{{< ico "mail" >}} with your intent to join.
 
 Sorry, we do not provide recommendations for retailers or ranges in the area.
 
