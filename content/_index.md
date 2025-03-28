@@ -2,6 +2,8 @@
 date = '2025-03-27T20:25:49-07:00'
 draft = false
 title = 'Puget Sound Socialist Rifle Association'
+description = "A chapter of the Socialist Rifle Association, a 501(c)(4) nonprofit"
+featured_image = 'img/Rainier20200906.jpg'
 +++
 
 # Education and information for new shooters and experienced shooters alike.
