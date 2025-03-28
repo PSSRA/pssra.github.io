@@ -9,6 +9,8 @@ featured_image = 'img/Rainier20200906.jpg'
 # Education and information for new shooters and experienced shooters alike.
 A community of fellow learners, skilled instructors, and members across Washington State who can answer nearly any question you can think of.
 
+We are a national 501(c)(4) non-profit gun advocacy group dedicated to responsible gun use and community self-defense.
+
 # Monthly range days for our members to shoot, chat, and build community.
 Learn to shoot or refine your technique as part of a welcoming group. We hold range days open to all vetted members in several locations in Washington (Northwest, Central, and Eastern, plus the Olympic Peninsula), with members located all over the state. We also offer to members medical training, pepper spray and deescalation classes, a book club, and more.
 
@@ -20,6 +22,7 @@ You don't need to own a gun or have shooting experience - we're happy to welcome
 # Join us!
 Anyone age 21+ can contact us at [join@pugetsoundsra.org](mailto:join@pugetsoundsra.org) with your intent to join - it's that easy.
 
-Update January 2025: Due to increased interest, we have a significant intake backlog. Do reach out to register your interest, but please know that it may be a while before we are able to begin your membership. You can join [our parent organization](https://socialistra.org) at any time, but entry for national members into the Puget Sound chapter for local events is similarly backlogged.
-
 Sorry, we do not provide recommendations for retailers or ranges in the area.
+
+### Update [current as of March 2025]
+Due to increased interest, we have a significant intake backlog. Do reach out to register your interest, but please know that it may be a while before we are able to begin your membership. You can join [our parent organization](https://socialistra.org) at any time, but entry for national members into the Puget Sound chapter for local events is similarly backlogged.
