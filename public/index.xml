@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puget Sound Socialist Rifle Association on Puget Sound SRA</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:56335/</link>
     <description>Recent content in Puget Sound Socialist Rifle Association on Puget Sound SRA</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56335/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

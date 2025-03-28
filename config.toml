@@ -20,13 +20,7 @@ contentDir = "content"
 languageCode = 'en-US'
 weight = 1
 title = "Puget Sound SRA"
-# languageDirection = 'rtl' for Right-To-Left languages
 
-# [languages.fr]
-# contentDir = "content/fr"
-# languageCode = 'fr-FR'
-# weight = 2
-# title = "Ananke Fr"
 
 [sitemap]
 changefreq = "monthly"
@@ -36,9 +30,9 @@ filename = "sitemap.xml"
 [params]
 mainSections = ["post"]
 text_color = ""
-author = "Victor Hugo" # default author, override via `author` in a posts front matter
-favicon = ""
-site_logo = ""
+author = "Emma Goldman" # default author, override via `author` in a posts front matter
+favicon = "favicon.ico"
+site_logo = "img/pssra-logo-200.png"
 description = "The last theme you'll ever need. Maybe."
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 background_color_class = "bg-black"
@@ -48,13 +42,7 @@ featured_image_class = "cover bg-top"
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 3
 
-# [params.ananke.social.share]
-# networks = [
-#   "email",
-#   "facebook",
-#   "bluesky",
-#   "linkedin"
-# ]
+
 
 [params.ananke.social.follow]
 networks = [
@@ -72,27 +60,13 @@ username = "pugetsoundsra"
 
 [params.ananke.social.facebook]
 username = "SeattleSRA"
-# profilelink = "https://www.facebook.com/patrick.kollitsch"
+
 
 [params.ananke.social.twitter]
 username = "pugetsoundsra"
 
 
-# [params.ananke.social.linkedin]
-# username = "patrickkollitsch"
-
-
-
-# [params.ananke.social.wikipedia]
-# username = "Hugo_(software)"
-
-# [params.ananke.social.networks.wikipedia]
-# slug = "wikipedia"
-# label = "Wikipedia"
-# color = "#0645ad"
-# profile = "https://en.wikipedia.org/wiki/%s"
-# icon = "wikipedia-w"
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
