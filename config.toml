@@ -29,7 +29,7 @@ filename = "sitemap.xml"
 
 [params]
 mainSections = ["post"]
-text_color = ""
+text_color = "mid-gray"
 author = "Emma Goldman" # default author, override via `author` in a posts front matter
 favicon = "favicon.ico"
 site_logo = "img/pssra-logo-200.png"
@@ -42,6 +42,7 @@ featured_image_class = "cover bg-top"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-70"
 recent_posts_number = 3
+body_classes = "avenir bg-near-white"
 
 
 
