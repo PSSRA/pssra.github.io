@@ -15,7 +15,7 @@ While we are working through an intake backlog due to current events -- an unpre
 
 {{< box info >}}
 
-**PSSRA's intake and vetting**
+**PSSRA's intake and vetting** 
 
 has traditionally been "as fast as we can get people in"-- as soon as we get emails or other inquiries, we'd get folks signed up and in the pipeline for vetting (i.e., into our vetting-specific Discord server). Normal pace until November 2024 was, at most, 1-2 signups per week with one vetting session per month.
 
@@ -67,7 +67,7 @@ advocating for the working class to develop the means to engage in personal and
 community defense, is inherently socialist.
 
 
-MILITARY SERVICE
+#### MILITARY SERVICE
 
 If you are a military veteran or active duty service member, you are not
 necessarily disqualified from membership, but you must let us know via email or
@@ -75,7 +75,7 @@ DM our Vetting Chair with that information prior to your vetting session so we
 can follow up with a few questions about your service.
 
 
-FIREARMS PROHIBITIONS
+#### FIREARMS PROHIBITIONS
 
 In alignment with the Chapter's mission as a firearms education organization
 first and foremost, we are currently not admitting individuals for membership
@@ -85,8 +85,8 @@ government or the state of Washington.
 Potential members must be able to "pass" an ATF Form 4473; please see that form
 (link follows) for a full list and list of possible exceptions.
 
-The following list quotes directly from Form 4473 and does not reflect the
-attitudes of the Chapter or Organization.
+The following list quotes directly from Form 4473 and **does not reflect the
+attitudes of the Chapter or Organization.**
 
 Individuals are prohibited from membership in the Chapter if:
 * The individual has been convicted of or is under indictment for a felony, or
