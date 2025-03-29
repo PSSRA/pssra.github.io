@@ -20,7 +20,13 @@ We are a national 501(c)(4) non-profit gun advocacy group dedicated to responsib
 # Monthly range days for our members to shoot, chat, and build community.
 Learn to shoot or refine your technique as part of a welcoming group. We hold range days open to all vetted members in several locations in Washington (Northwest, Central, and Eastern, plus the Olympic Peninsula), with members located all over the state. We also offer members medical training, pepper spray and deescalation classes, a book club, and more.
 
-[![PSSRA Region Map](img/region_map.png)](https://www.google.com/maps/d/u/1/edit?mid=1ps18PYf4TV7bvqijVmQETWZpVliDUfE&usp=sharing)
+{{< figure
+  src="img/region_map.png"
+  alt="PSSRA Region Map"
+  link="https://www.google.com/maps/d/u/1/edit?mid=1ps18PYf4TV7bvqijVmQETWZpVliDUfE&usp=sharing"
+  caption="*PSSRA has regular in-person events in all five shaded regions*"
+  class="ma0"
+>}}
 
 # Join today - no experience or equipment required.
 We do not tolerate abusers, supporters of fascism/racism or other reactionary ideologies, or supporters of exclusionary social ideologies such as ableism or homophobia. We do not allow members to be active law enforcement officers or employed at domestic intelligence agencies. Because of Washington handgun and rifle laws we require that all members be age 21 or older. This is not a comprehensive list, but should give you a sense of what we're about.
