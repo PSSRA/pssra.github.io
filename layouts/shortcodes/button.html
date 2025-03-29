@@ -6,4 +6,4 @@
 {{ with .Get "relref" }}
   {{ $ref = relref $ . }}
 {{ end }}
-<a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} class="f3 fw7 bw2 grow no-underline br-pill ph4 pv3 mb2 dib white bg-moon-gray">{{- .Inner | safeHTML -}}</a>
+<a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} class="f3 fw7 grow no-underline br-pill ba bw1 ph4 pv3 mb2 shadow-hover dim dib navy">{{- .Inner | safeHTML -}}</a>
