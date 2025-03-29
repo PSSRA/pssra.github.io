@@ -5,7 +5,7 @@ theme = ["hugo-cloak-email", "hugo-shortcode-roneo-collection", "ananke"]
 resourceDir = "../resources"
 
 defaultContentLanguage = "en"
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 enableRobotsTXT = true
 
 og_image = "img/pssra-logo-200.png"
@@ -15,7 +15,7 @@ og_image = "img/pssra-logo-200.png"
 id = ''
 
 [pagination]
-pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+pagerSize = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [languages.en]
 contentDir = "content"
@@ -32,7 +32,7 @@ filename = "sitemap.xml"
 [params]
 mainSections = ["post"]
 text_color = "mid-gray"
-author = "Emma Goldman" # default author, override via `author` in a posts front matter
+author = "" # default author, override via `author` in a posts front matter
 favicon = "favicon.ico"
 site_logo = "img/pssra-logo-200.png"
 featured_image = "img/Rainier20200906.jpg"
