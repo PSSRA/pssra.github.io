@@ -1,5 +1,5 @@
 +++
-date = '2025-03-29T16:05:31-07:00'
+date = '2025-03-29T16:07:31-07:00'
 draft = false
 title = 'Membership Prohibitions'
 +++
@@ -51,29 +51,17 @@ can follow up with a few questions about your service.
 
 ## Firearms Prohibitions
 
-In alignment with the Chapter's mission as a firearms education organization
-first and foremost, we are currently not admitting individuals for membership
-who are legally prohibited from purchasing or possessing firearms by the federal
-government or the state of Washington.
+In alignment with the Chapter's mission as a firearms education organization first and foremost, we are currently not admitting individuals for membership who are legally prohibited from purchasing or possessing firearms by the federal government or the state of Washington.
 
-Potential members must be able to "pass" an ATF Form 4473; please see that form
-(link follows) for a full list and list of possible exceptions.
+Potential members must be able to "pass" an ATF Form 4473; please see that form (link follows) for a full list and list of possible exceptions.
 
-The following list quotes directly from Form 4473 and **does not reflect the
-attitudes of the Chapter or Organization.**
+The following list quotes directly from Form 4473 and **does not reflect the attitudes of the Chapter or Organization.**
 
 Individuals are prohibited from membership in the Chapter if:
-* The individual has been convicted of or is under indictment for a felony, or
-  or any other crime that could result in a prison sentence of a year or more
-* The individual is an unlawful user of, or addicted to, marijuana or any
-  depressant, stimulant, narcotic drug, or any other controlled substance.
-* The individual has ever been adjudicated as a mental defective OR has ever
-  been committed to a mental institution.
-* The individual has ever been discharged from the Armed Forces under
-  dishonorable conditions.
-* The individual is subject to a court order restraining them from harassing,
-  stalking, or threatening their child or an intimate partner or child of such
-  partner
+* The individual has been convicted of or is under indictment for a felony, or or any other crime that could result in a prison sentence of a year or more
+* The individual is an unlawful user of, or addicted to, marijuana or any depressant, stimulant, narcotic drug, or any other controlled substance.
+* The individual has ever been adjudicated as a mental defective OR has ever been committed to a mental institution.
+* The individual has ever been discharged from the Armed Forces under dishonorable conditions.
+* The individual is subject to a court order restraining them from harassing, stalking, or threatening their child or an intimate partner or child of such partner
 * The individual has ever been convicted in any court of a misdemeanor crime of
-* The individual is an alien illegally or unlawfully in the United States
-  domestic violence
+* The individual is an alien illegally or unlawfully in the United States domestic violence
