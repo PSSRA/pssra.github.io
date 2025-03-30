@@ -17,6 +17,10 @@ We are a national 501(c)(4) non-profit gun advocacy group dedicated to responsib
   Join now!
 {{< /button >}}
 
+{{< button relref="#donate-to-support-our-mission">}}
+  Donate to PSSRA
+{{< /button>}}
+
 # Monthly range days for our members to shoot, chat, and build community.
 Learn to shoot or refine your technique as part of a welcoming group. We hold range days open to all vetted members in several locations in Washington (Northwest, Central, and Eastern, plus the Olympic Peninsula), with members located all over the state. We also offer members medical training, pepper spray and deescalation classes, a book club, and more.
 
@@ -43,3 +47,16 @@ Sorry, we do not provide recommendations for retailers or ranges in the area.
 
 Due to increased interest, we have a significant intake backlog. Do reach out to register your interest, but please know that it may be a while before we are able to begin your membership. You can join [our parent organization](https://socialistra.org) at any time, but entry for national members into the Puget Sound chapter for local events is similarly backlogged.
 {{< /box >}}
+
+# Donate to support our mission
+
+If you're not in the area or otherwise not interested in membership for yourself, you can still help **support our mission of inclusive firearms education** by donating to us via our Open Collective account, which is run under the fiscal host of National SRA.
+
+{{< figure
+  src="https://opencollective.com/webpack/donate/button.png?color=blue"
+  link="https://opencollective.com/puget-sound-sra/donate"
+>}}
+
+Donations support member scholarships, classes from expert instructors, instructor travel reimbursement, and medical supplies. The chapter never purchases firearms, gun parts, or ammunition; more information on [valid uses of chapter funds can be found in the SRA bylaws](https://socialistra.org/bylaws/#subsection-four-valid-uses).
+
+**Please do not use this donation link to join as a member**; [reach out via email](#join-us) and we'll let you know how to join!
