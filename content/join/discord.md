@@ -1,6 +1,6 @@
 +++
 date = '2025-03-29T15:04:39-07:00'
-draft = true
+draft = false
 title = 'Discord?'
 +++
 
