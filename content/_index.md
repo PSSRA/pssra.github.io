@@ -16,10 +16,16 @@ We are a national 501(c)(4) non-profit gun advocacy group dedicated to responsib
 {{< button relref="#join-us" >}}
   Join now!
 {{< /button >}}
-&#8203;
+&#8203;&#8203;
 {{< button relref="#donate-to-support-our-mission">}}
   Donate to PSSRA
 {{< /button >}}
+
+{{< figure
+  src="img/target_600.jpg"
+  alt="PSSRA range day"
+  class="ma0"
+>}}
 
 # Monthly range days for our members to shoot, chat, and build community.
 Learn to shoot or refine your technique as part of a welcoming group. We hold range days open to all vetted members in several locations in Washington (Northwest, Central, and Eastern, plus the Olympic Peninsula), with members located all over the state. We also offer members medical training, pepper spray and deescalation classes, a book club, and more.
@@ -61,3 +67,9 @@ Donations support member scholarships, classes from expert instructors, instruct
 
 **Please do not use this donation link to join as a member**;  
 instead, [reach out via email](#join-us) and we'll let you know how to join!
+
+{{< figure
+  src="img/circle.jpg"
+  alt="PSSRA range day"
+  class="ma0"
+>}}
