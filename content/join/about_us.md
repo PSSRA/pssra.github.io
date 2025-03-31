@@ -3,7 +3,6 @@ date = '2025-03-29T16:08:16-07:00'
 draft = false
 title = 'About Us'
 tags = ['join info']
-featured_image = '../../img/instructing.jpg'
 +++
 
 
