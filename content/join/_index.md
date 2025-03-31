@@ -1,7 +1,7 @@
 +++
 date = '2025-03-29T16:05:14-07:00'
 draft = false
-title = 'Information before you join'
+title = 'Prospective member info'
 hidden = true
 featured_image = 'img/firing_line.jpg'
 +++
