@@ -13,7 +13,7 @@
           CurrentSection allows us to use the section title instead of inferring from the folder.
           https://gohugo.io/variables/page/#section-variables-and-methods
           */}}
-        {{ .CurrentSection.Title }}
+        <!-- {{ .CurrentSection.Title }} -->
       </aside>
       {{- partialCached "social/share.html" . . -}}
       <h1 class="f1 athelas mt3 mb1">
@@ -34,9 +34,9 @@
       {{ end }}
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       {{ if not .Date.IsZero }}
-      <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
+      <!-- <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
         {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-      </time>
+      </time> -->
       {{end}}
 
       {{/*

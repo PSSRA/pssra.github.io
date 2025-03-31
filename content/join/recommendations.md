@@ -7,6 +7,8 @@ tags = ['join info']
 
 PSSRA does not provide equipment recommendations to unvetted members. We are happy, however, to point to other creators and resources whose recommendations we generally agree with *as far as training and gear goes.*
 
+<!--more-->
+
 **Nothing here should be taken as a full-throated endorsement of the creator or their views.** In fact with almost all personalities and companies in the firearms space you are likely to find something questionable in their history (to say the least), but we don't consider that to be disqualifying in terms of gaining valuable knowledge.
 
 In other words, we consider purity tests for trainers and manufacturers to mostly be a fool's errand.

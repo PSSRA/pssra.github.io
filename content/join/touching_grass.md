@@ -5,7 +5,9 @@ title = 'Touching Grass'
 tags = ['join info']
 +++
 
-Our chapter's foremost goal with new members is to immediately provide an opportunity to "touch grass" and make it out to an in-person introductory class as soon as as they make it into the org. To that end, new members' experience in the chapter is heavily directed towards that goal, meeting other members in person, taking a class, and getting some live-fire experience with us. 
+Our chapter's foremost goal with new members is to immediately provide an opportunity to "touch grass" and make it out to an in-person introductory class as soon as as they make it into the org. To that end, new members' experience in the chapter is heavily directed towards that goal, meeting other members in person, taking a class, and getting some live-fire experience with us.
+
+<!--more-->
 
 Joining the chapter just to participate online doesn't align with our mission of providing accessible, inclusive, and high-quality firearms education.
 

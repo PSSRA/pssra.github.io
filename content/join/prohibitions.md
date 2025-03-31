@@ -7,10 +7,7 @@ tags = ['join info']
 
 The Puget Sound SRA has established guidelines for prospective members in line with the qualifications laid out [by national SRA in Article three, section three of their bylaws](https://socialistra.org/bylaws/#section-three-qualifications-for-membership). In addition, PSSRA has established qualifications necessary for basic functioning in line with our mission as a firearms education group (i.e., members must be legally allowed to possess firearms).
 
-Adherence to a socialist ideology is not a requirement for membership. However,
-it should be understood that the core purpose of the Chapter and Organization,
-advocating for the working class to develop the means to engage in personal and
-community defense, is inherently socialist.
+<!--more-->
 
 Individuals, *unless otherwise decided upon*, are prohibited from membership in
 the Chapter and/or Organization if:
@@ -40,6 +37,11 @@ the Chapter and/or Organization if:
 * The individual directly employs workers and the majority of whose income is
   derived from the labor of others, or through stocks, bonds, or other financial
   assets.
+
+Adherence to a socialist ideology is not a requirement for membership. However,
+it should be understood that the core purpose of the Chapter and Organization,
+advocating for the working class to develop the means to engage in personal and
+community defense, is inherently socialist.
 
 
 ## Military Service

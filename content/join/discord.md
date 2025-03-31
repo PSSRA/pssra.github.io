@@ -5,11 +5,15 @@ title = 'Discord?'
 tags = ['join info']
 +++
 
-PSSRA's primary communication platform is Discord. When you get into the vetting pipeline, you'll first be invited to join a Discord server with our vetting team and other prospective members waiting for vetting, and the vetting session will be held on Discord video chat. After successful vetting, you'll be invited to the main chapter Discord.
-
-(We do not have any public Discords.)
+PSSRA's primary communication platform is Discord. 
 
 We often get asked, *Why Discord? Why not something more secure?* The simple answer is: **it's secure enough for us.**
+
+<!--more-->
+
+When you get into the vetting pipeline, you'll first be invited to join a Discord server with our vetting team and other prospective members waiting for vetting, and the vetting session will be held on Discord video chat. After successful vetting, you'll be invited to the main chapter Discord.
+
+(Note: We do not have any public Discords.)
 
 Our use of Discord is the result of balancing ease of use and familiarity to many people with keeping things secure enough for our [threat model](https://ssd.eff.org/glossary/threat-model). Our largest vulnerability will always be the large number of people in the server, not surveillance from Discord or state actors.
 
