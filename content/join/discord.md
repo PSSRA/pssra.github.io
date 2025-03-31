@@ -5,7 +5,9 @@ title = 'Discord?'
 tags = ['join info']
 +++
 
-PSSRA's primary communication platform is Discord. When you get into the vetting pipeline, you'll first join a Discord server with our vetting team and other prospective members waiting for vetting, and the vetting session will be held on Discord video chat. After successful vetting, you'll be invited to the main chapter Discord.
+PSSRA's primary communication platform is Discord. When you get into the vetting pipeline, you'll first be invited to join a Discord server with our vetting team and other prospective members waiting for vetting, and the vetting session will be held on Discord video chat. After successful vetting, you'll be invited to the main chapter Discord.
+
+(We do not have any public Discords.)
 
 We often get asked, *Why Discord? Why not something more secure?* The simple answer is: **it's secure enough for us.**
 
