@@ -4,10 +4,11 @@ draft = false
 title = 'About Us'
 +++
 
+
 The Puget Sound chapter of the SRA is an organization focused on firearms education among comrades. We have some excellent instructors who run highly-inclusive classes for our members at many different levels of firearms familiarity, in several locations all over Washington. We also have more free-form range days, as well as occasional social events and an active Discord for vetted members. Finally, we also have members who regularly attend competitions to test their training against difficult shooting challenges, and help other interested members get into competitive shooting.
 
 {{< figure
-  src="/img/instructing.jpg"
+  src="../../img/instructing.jpg"
   alt="PSSRA range day"
   class="ma0"
 >}}
