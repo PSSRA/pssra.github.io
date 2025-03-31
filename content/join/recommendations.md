@@ -2,6 +2,7 @@
 date = '2025-03-29T16:04:39-07:00'
 draft = false
 title = 'Recommendations'
+tags = ['join info']
 +++
 
 PSSRA does not provide equipment recommendations to unvetted members. We are happy, however, to point to other creators and resources whose recommendations we generally agree with *as far as training and gear goes.*

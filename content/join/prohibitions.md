@@ -2,6 +2,7 @@
 date = '2025-03-29T16:07:31-07:00'
 draft = false
 title = 'Membership Prohibitions'
+tags = ['join info']
 +++
 
 The Puget Sound SRA has established guidelines for prospective members in line with the qualifications laid out [by national SRA in Article three, section three of their bylaws](https://socialistra.org/bylaws/#section-three-qualifications-for-membership). In addition, PSSRA has established qualifications necessary for basic functioning in line with our mission as a firearms education group (i.e., members must be legally allowed to possess firearms).

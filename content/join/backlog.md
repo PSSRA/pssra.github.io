@@ -2,6 +2,7 @@
 date = '2025-03-29T16:06:57-07:00'
 draft = false
 title = 'Intake/Vetting Backlog'
+tags = ['join info']
 +++
 
 While we are working through an intake backlog due to current events -- an unprecedented number of emails since November -- we are temporarily instituting a queue for bringing new folks into the intake/vetting process so that you're not waiting around for vetting forever.
