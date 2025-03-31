@@ -15,10 +15,8 @@ In other words, we consider purity tests for trainers and manufacturers to mostl
 - ["handfeel" not a good metric](https://www.instagram.com/p/C-WER3MScv3/)
 - [holosun optic](https://www.instagram.com/p/DCDDewOSQ_6/)
 
-[Firearms basics playlist by Kit Badger:](https://www.youtube.com/playlist?list=PLZWgLaVdTaF1BNgf1pXu2xLwy5KLjHxG7) Everything from "how a gun works" to dry fire drills and maintenance.
-
 [Practical Shooting Training by Stoeger and Park.](https://www.skyhorsepublishing.com/9781510779358/practical-shooting-training/) Indispensable for all levels of shooter wanting to improve. Do NOT skip the first section; the philosophy behind the training program is key.
 
 [Tessah Booth:](https://www.youtube.com/channel/UCr4V3j2Znf-ZlJ-bnENaQZg) especially good for information on concealed carry, concealment info tailored for smaller-framed people
 
-
+[Firearms basics playlist by Kit Badger:](https://www.youtube.com/playlist?list=PLZWgLaVdTaF1BNgf1pXu2xLwy5KLjHxG7) Everything from "how a gun works" to dry fire drills and maintenance.

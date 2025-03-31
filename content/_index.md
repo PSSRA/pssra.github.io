@@ -16,10 +16,10 @@ We are a national 501(c)(4) non-profit gun advocacy group dedicated to responsib
 {{< button relref="#join-us" >}}
   Join now!
 {{< /button >}}
-
+&#8203;
 {{< button relref="#donate-to-support-our-mission">}}
   Donate to PSSRA
-{{< /button>}}
+{{< /button >}}
 
 # Monthly range days for our members to shoot, chat, and build community.
 Learn to shoot or refine your technique as part of a welcoming group. We hold range days open to all vetted members in several locations in Washington (Northwest, Central, and Eastern, plus the Olympic Peninsula), with members located all over the state. We also offer members medical training, pepper spray and deescalation classes, a book club, and more.
@@ -35,7 +35,7 @@ Learn to shoot or refine your technique as part of a welcoming group. We hold ra
 # Join today - no experience or equipment required.
 We do not tolerate abusers, supporters of fascism/racism or other reactionary ideologies, or supporters of exclusionary social ideologies such as ableism or homophobia. We do not allow members to be active law enforcement officers or employed at domestic intelligence agencies. Because of Washington handgun and rifle laws we require that all members be age 21 or older. This is not a comprehensive list, but should give you a sense of what we're about.
 
-You don't need to own a gun or have shooting experience -- we're happy to welcome new learners!
+You don't need to own a gun or have shooting experience --- we're happy to welcome new learners!
 
 ## Join us!
 Anyone age 21+ can contact us at {{< cloakemail "join@pugetsoundsra.org" >}}{{< ico "mail" >}} with your intent to join.
@@ -50,7 +50,7 @@ Due to increased interest, we have a significant intake backlog. Do reach out to
 
 # Donate to support our mission
 
-If you're not in the area or otherwise not interested in membership for yourself, you can still help **support our mission of inclusive firearms education** by donating to us via our Open Collective account, which is run under the fiscal host of National SRA.
+If you're not in the area, or otherwise not interested in membership for yourself, you can still help **support our mission of inclusive firearms education** by donating to us via our Open Collective account, which is run under the fiscal host of National SRA, a 501(c)(4) nonprofit.
 
 {{< figure
   src="https://opencollective.com/webpack/donate/button.png?color=blue"
@@ -59,4 +59,5 @@ If you're not in the area or otherwise not interested in membership for yourself
 
 Donations support member scholarships, classes from expert instructors, instructor travel reimbursement, and medical supplies. The chapter never purchases firearms, gun parts, or ammunition; more information on [valid uses of chapter funds can be found in the SRA bylaws](https://socialistra.org/bylaws/#subsection-four-valid-uses).
 
-**Please do not use this donation link to join as a member**; [reach out via email](#join-us) and we'll let you know how to join!
+**Please do not use this donation link to join as a member**;  
+instead, [reach out via email](#join-us) and we'll let you know how to join!
