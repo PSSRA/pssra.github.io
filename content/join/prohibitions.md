@@ -66,5 +66,5 @@ Individuals are prohibited from membership in the Chapter if:
 * The individual has ever been adjudicated as a mental defective OR has ever been committed to a mental institution.
 * The individual has ever been discharged from the Armed Forces under dishonorable conditions.
 * The individual is subject to a court order restraining them from harassing, stalking, or threatening their child or an intimate partner or child of such partner
-* The individual has ever been convicted in any court of a misdemeanor crime of
-* The individual is an alien illegally or unlawfully in the United States domestic violence
+* The individual has ever been convicted in any court of a misdemeanor crime of domestic violence
+* The individual is an alien illegally or unlawfully in the United States
