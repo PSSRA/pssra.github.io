@@ -9,47 +9,26 @@ The Puget Sound SRA has established guidelines for prospective members in line w
 
 <!--more-->
 
-Individuals, *unless otherwise decided upon*, are prohibited from membership in
-the Chapter and/or Organization if:
+Individuals, *unless otherwise decided upon*, are prohibited from membership in the Chapter and/or Organization if:
 
-* The individual is under 21 years of age (due to state handgun and
-  semiautomatic rifle laws).
-* The individual possesses a recent and/or relevant history of expressing
-  sympathy or support for fascism, neoconfederatism, or other reactionary and/or
-  discriminatory ideologies.
-* The individual actively participates in exclusionary social ideologies,
-  including but not limited to: racism, sexism, homophobia, transphobia,
-  ableism, or religious discrimination.
-* The individual has a known history of perpetrating abuse and/or sexual
-  assault.
-* The individual has expressed clear intent or has clearly and repeatedly acted
-  to cause harm to the name or structure of the Chapter and/or Organization.
-* The individual has been expelled from other sympathetic or leftist
-  organizations for charges related to character or conduct.
-* The individual is a member of a militia or paramilitary organization, namely a
-  movement that shows express intent to use violence in an illegal manner.
-* The individual is currently employed, in a volunteer or paid capacity, as any
-  manner of law enforcement or peace officer.
-* The individual is currently employed, in a volunteer or paid capacity, as any
-  manner of domestic or foreign state or private intelligence agency, department
-  or organization. (This does not apply to individuals working for domestic
-  agencies not connected to intelligence gathering or espionage.)
-* The individual directly employs workers and the majority of whose income is
-  derived from the labor of others, or through stocks, bonds, or other financial
-  assets.
+* The individual is under 21 years of age (due to state handgun and semiautomatic rifle laws).
+  * This includes individuals under 21 years old participating as guests at any live-fire chapter events or classes.
+* The individual possesses a recent and/or relevant history of expressing sympathy or support for fascism, neoconfederatism, or other reactionary and/or discriminatory ideologies.
+* The individual actively participates in exclusionary social ideologies, including but not limited to: racism, sexism, homophobia, transphobia, ableism, or religious discrimination.
+* The individual has a known history of perpetrating abuse and/or sexual assault.
+* The individual has expressed clear intent or has clearly and repeatedly acted to cause harm to the name or structure of the Chapter and/or Organization.
+* The individual has been expelled from other sympathetic or leftist organizations for charges related to character or conduct.
+* The individual is a member of a militia or paramilitary organization, namely a movement that shows express intent to use violence in an illegal manner.
+* The individual is currently employed, in a volunteer or paid capacity, as any manner of law enforcement or peace officer.
+* The individual is currently employed, in a volunteer or paid capacity, as any manner of domestic or foreign state or private intelligence agency, department or organization. (This does not apply to individuals working for domestic agencies not connected to intelligence gathering or espionage.)
+* The individual directly employs workers and the majority of whose income is derived from the labor of others, or through stocks, bonds, or other financial assets.
 
-Adherence to a socialist ideology is not a requirement for membership. However,
-it should be understood that the core purpose of the Chapter and Organization,
-advocating for the working class to develop the means to engage in personal and
-community defense, is inherently socialist.
+Adherence to a socialist ideology is not a requirement for membership. However, it should be understood that the core purpose of the Chapter and Organization, advocating for the working class to develop the means to engage in personal and community defense, is inherently socialist.
 
 
 ## Military Service
 
-If you are a military veteran or active duty service member, you are not
-necessarily disqualified from membership, but you must let us know via email or
-DM our Vetting Chair with that information prior to your vetting session so we
-can follow up with a few questions about your service.
+If you are a military veteran or active duty service member, you are not necessarily disqualified from membership, but you must let us know via email or DM our Vetting Chair with that information prior to your vetting session so we can follow up with a few questions about your service.
 
 
 ## Firearms Prohibitions
