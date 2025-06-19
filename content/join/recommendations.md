@@ -15,6 +15,7 @@ In other words, we consider purity tests for trainers and manufacturers to mostl
 
 [Yellow Peril Tactical:](https://www.instagram.com/yellow_peril_tactical/) pay special attention to advice on practical shooting and beginner gear. Specifically:
 - [striker-fired 9mm](https://www.instagram.com/p/C-ECpE6yQ1z/)
+- [rundown of Glock models](https://www.instagram.com/p/DLBJObxJRdX/)
 - ["handfeel" not a good metric](https://www.instagram.com/p/C-WER3MScv3/)
 - [holosun optic](https://www.instagram.com/p/DCDDewOSQ_6/)
 
