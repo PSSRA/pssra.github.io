@@ -28,7 +28,11 @@ We are a national 501(c)(4) non-profit gun advocacy group dedicated to responsib
 >}}
 
 # Monthly range days for our members to shoot, chat, and build community.
-Learn to shoot or refine your technique as part of a welcoming group. We hold range days open to all vetted members in several locations in Washington (Northwest, Central, and Eastern, plus the Olympic Peninsula), with members located all over the state. We also offer members medical training, pepper spray and deescalation classes, a book club, and more.
+Learn to shoot or refine your technique as part of a welcoming group. We hold range days open to all vetted members in several locations in Washington (Northwest, Central, and Eastern, plus the Olympic Peninsula), with members located all over the state.
+
+Given the state of Washington gun laws, almost all of our firearms classes are pistol-focused.
+
+We also offer members medical training, pepper spray and deescalation classes, a book club, and more.
 
 {{< figure
   src="img/region_map.png"
