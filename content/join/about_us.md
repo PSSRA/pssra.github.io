@@ -12,6 +12,8 @@ The Puget Sound chapter of the SRA is an organization operating across Washingto
 
 We also have more free-form range days, as well as occasional social events and an active [Discord](discord) for vetted members. Finally, we also have members who regularly attend competitions to test their training against difficult shooting challenges, and help other interested members get into competitive shooting.
 
+We have regular in-person locations that are accessible by car within reasonable driving distance from most cities and large towns in Washington (though we sometimes offer that Clark County individuals may find the Portland chapter more convenient). Please ask via email if you'd like an estimate of your distance to our closest regular location!
+
 {{< figure
   src="../../img/instructing.jpg"
   alt="PSSRA range day"
@@ -27,4 +29,4 @@ Things that we DON'T do as an org include:
 
 Obviously, we believe that activities such as mutual aid are very much needed; members are encouraged to do this work outside of the PSSRA, and we don't have prohibitions about joining other organizations. Many members are able to find other groups via the PSSRA, but we do not participate as an organization in order to keep our focus on our mission of providing high-quality firearms training.
 
-We have regular in-person locations that are accessible by car within reasonable driving distance from most cities and large towns in Washington (though we sometimes offer that Clark County individuals may find the Portland chapter more convenient). Please ask via email if you'd like an estimate of your distance to our closest regular location!
+
