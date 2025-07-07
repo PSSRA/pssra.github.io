@@ -61,7 +61,7 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 - This server is **safe-for-work**.
 - No nudity or sexually explicit material.
 - Offending content will be removed and followed up with the poster.
-- Repeat violations will result in loss of "Toucher of Grass" role, posting privileges, or membership.
+- Repeat violations will result in loss of ["Toucher of Grass" role](https://www.pugetsoundsra.org/join/touching_grass/) (i.e. access to social channels), posting privileges, or membership.
 
 ## 3. 💻 Platform Discipline and Conduct
 ### 3.1. Behavior Expectations
