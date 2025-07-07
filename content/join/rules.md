@@ -16,22 +16,25 @@ We are a leftist, community-focused firearms education organization. These rules
   - Washington State law
   - Discord's Terms of Service
 - This includes, but is not limited to:
-  - Confessing to, detailing, or soliciting illegal acts (e.g., manufacturing firearms, import or sale of high-capacity magazines in WA)
+  - Confessing to, detailing, or soliciting illegal acts
+    - e.g., manufacturing firearms, import or sale of high-capacity magazines or assault weapons in WA, drug use (including cannabis)
   - Promoting criminal activity
-  - Buying/selling/trading firearm parts banned under HB 1240
+  - Buying/selling/trading firearms or parts (Discord ToS)
     - ❗ Exceptions: Accessories like holsters, slings, optics are allowed.
+- Oblique or veiled references to illegal activity ("in Minecraft" e.g.) will not be tolerated.
 
 ### 1.2. Violence and Threats
 - Do not make **direct threats of violence** toward **any specific, identifiable, living individuals**.
 - Do not post threats toward specific **organizations or bodies** (e.g., the DNC).
 - Expressions of systemic critique are permitted (e.g., landlords, slaveowners), but must not cross into incitement.
+- Veiled references to violence will not be tolerated.
 
-### 1.3. Avoid Time-Sensitive or "Direct Action" Content
-We, as a government recognized and leftist focused 501c providing firearms training for leftists, will greatly increase our risk if we end up being seen as associated with direct action.  We additionally try very hard to strictly focus on information directly related to our mission to allow our members to control their news and alert intake. Therefore, do **not** post:
+### 1.3. Avoid Time-Sensitive or "Direct Action" or News Content
+As a government recognized 501c4 non-profit organization providing firearms training for leftists, we will greatly increase our risk if we end up being perceived as associated with direct action. We additionally try very hard to strictly focus on information directly related to our mission to allow our members to control their news and alert intake. Therefore, do **not** post:
 - Live or time-sensitive reports about enforcement actions or government activity.
   - Could be construed as a call to action, reporting on these specifics is not in scope for our goals as an organization, and creates risk of us being associated with direct action
 - Current events **not directly related to firearms training or equipment**, i.e., almost all news posts.
-  - We believe in opting in to receive news, and it is usually not relevant to our goals of providing high quality firearms training
+  - We believe in "opting in" to receive news, and it is usually not relevant to our goals of providing high quality firearms training
 
 ### 1.4. Operational Security (OpSec)
 - Assume all communications are compromised.
@@ -58,7 +61,6 @@ We, as a government recognized and leftist focused 501c providing firearms train
 - No nudity or sexually explicit material.
 - Offending content will be removed and followed up with the poster.
 - Repeat violations will result in loss of "Toucher of Grass" role, posting privileges, or membership.
-
 
 ## 3. 💻 Platform Discipline and Conduct
 ### 3.1. Behavior Expectations
@@ -91,7 +93,7 @@ We, as a government recognized and leftist focused 501c providing firearms train
 ## 5. ℹ️ Membership and Admin Logistics
 ### 5.1. Server Information
 - This is the **official PSSRA Discord**.
-- No, we are **not** moving back to Slack or to Signal: https://www.pugetsoundsra.org/join/discord/
+- We are not moving to another platform, like back to Slack or to Signal: https://www.pugetsoundsra.org/join/discord/
 
 ### 5.2. Membership and Access
 - If you're not a vetted member, reach out: **join@pugetsoundsra.org**
@@ -104,4 +106,3 @@ We, as a government recognized and leftist focused 501c providing firearms train
 - Keep it respectful.
 - Keep it focused on firearms education.
 - If in doubt, ask an officer.
-
