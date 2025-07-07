@@ -39,7 +39,7 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 ### 1.4. Operational Security (OpSec)
 - Assume all communications are compromised.
 - Practice good digital security hygiene: https://ssd.eff.org
-  - Vetted members can also review https://wiki.pugetsoundsra.org/security
+  - Vetted members can also review [Message Discipline](https://wiki.pugetsoundsra.org/en/messageDiscipline) and [Basics of Security](https://wiki.pugetsoundsra.org/security) on the internal wiki.
 - Do not publish, comment, message, or post personally identifiable information about other users.
 - We also strongly discourage posting any personally identifiable information about yourself.
 
