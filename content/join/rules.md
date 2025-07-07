@@ -95,7 +95,8 @@ We, as a government recognized and leftist focused 501c providing firearms train
 
 ### 5.2. Membership and Access
 - If you're not a vetted member, reach out: **join@pugetsoundsra.org**
-- New member guide: [https://wiki.pugetsoundsra.org/newMemberResources](https://wiki.pugetsoundsra.org/newMemberResources) (requires you to be a vetted member of the Discord)
+- New member guide: [https://wiki.pugetsoundsra.org/newMemberResources](https://wiki.pugetsoundsra.org/newMemberResources)
+  - Wiki access requires you to be a vetted member of the Discord
 
 ## 6. ✅ Summary Guidelines
 - Think before you post.
