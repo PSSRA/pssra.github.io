@@ -12,12 +12,21 @@ The Puget Sound chapter of the SRA is an organization operating across Washingto
 
 We also have more free-form range days, as well as occasional social events and an active [Discord](discord) for vetted members. Finally, we also have members who regularly attend competitions to test their training against difficult shooting challenges, and help other interested members get into competitive shooting.
 
+We have regular in-person locations that are accessible by car within reasonable driving distance from most cities and large towns in Washington (though we sometimes offer that Clark County individuals may find the Portland chapter more convenient). Please ask via email if you'd like an estimate of your distance to our closest regular location!
+
 {{< figure
   src="../../img/instructing.jpg"
   alt="PSSRA range day"
   class="ma0"
 >}}
 
-What we DON'T do as an org is organize any kind of direct action, protesting as a group, or ever show up to events armed. We also don't generally do mutual aid or community outreach that isn't firearms education related. We don't have prohibitions on our members doing those things (joining the Discord after vetting is a great way to meet comrades in your area, and we try to help connect members with other orgs who do focus on mutual aid), but the organization does not take part. (We say this up front because some people come to us looking for that kind of activity.)
+Things that we DON'T do as an org include:
+* share breaking news or time-sensitive alerts on our Discord
+* organize any kind of direct action
+* protest as a group
+* ever show up to events armed
+* mutual aid or community outreach that isn't firearms education related
 
-We have regular in-person locations that are accessible by car within reasonable driving distance from most cities and large towns in Washington (though we sometimes offer that Clark County individuals may find the Portland chapter more convenient). Please ask via email if you'd like an estimate of your distance to our closest regular location!
+Obviously, we believe that activities such as mutual aid are very much needed; members are encouraged to do this work outside of the PSSRA, and we don't have prohibitions about joining other organizations. Many members are able to find other groups via the PSSRA, but we do not participate as an organization in order to keep our mission focused on providing high-quality firearms training.
+
+
