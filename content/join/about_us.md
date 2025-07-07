@@ -27,6 +27,6 @@ Things that we DON'T do as an org include:
 * ever show up to events armed
 * mutual aid or community outreach that isn't firearms education related
 
-Obviously, we believe that activities such as mutual aid are very much needed; members are encouraged to do this work outside of the PSSRA, and we don't have prohibitions about joining other organizations. Many members are able to find other groups via the PSSRA, but we do not participate as an organization in order to keep our focus on our mission of providing high-quality firearms training.
+Obviously, we believe that activities such as mutual aid are very much needed; members are encouraged to do this work outside of the PSSRA, and we don't have prohibitions about joining other organizations. Many members are able to find other groups via the PSSRA, but we do not participate as an organization in order to keep our mission focused on providing high-quality firearms training.
 
 
