@@ -1,6 +1,6 @@
 +++
 date = '2025-03-29T16:07:11-07:00'
-draft = true
+draft = false
 title = 'Discord Rules and Community Guidelines'
 tags = ['join info']
 +++
