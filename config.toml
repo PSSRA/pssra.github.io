@@ -15,7 +15,7 @@ og_image = "img/pssra-logo-200.png"
 id = ''
 
 [pagination]
-pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+pagerSize = 12
 
 [languages.en]
 contentDir = "content"

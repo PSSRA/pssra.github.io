@@ -1,5 +1,5 @@
 +++
-date = '2025-03-29T14:04:38-07:00'
+date = '2025-03-29T16:06:59-07:00'
 draft = false
 title = 'Rifle vs Pistol Training'
 tags = ['join info']
