@@ -43,6 +43,12 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 - Do not publish, comment, message, or post personally identifiable information about other users.
 - We also strongly discourage posting any personally identifiable information about yourself.
 
+### [1.5.](#1-5) Legal Advice Disclaimer {#1-5}
+- No one here can or should provide legal advice.
+- If someone does offer it, **you should not rely on it**.
+- Consult a qualified lawyer for your specific legal situation.
+- Linking to **reliable external resources** is welcome, but **avoid interpreting the law or applying it to individual circumstances**.
+
 ## 2. 🔒 Community Safety & Mental Health
 ### [2.1.](#2-1) Harassment and Abuse {#2-1}
 - No harassment, bullying, insults, or targeted attacks — public or private.
@@ -93,12 +99,12 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 
 ## 5. ℹ️ Membership and Admin Logistics
 ### [5.1.](#5-1) Server Information {#5-1}
-- This is the **official PSSRA Discord**.
-- We are not moving to another platform, like back to Slack or to Signal: https://www.pugetsoundsra.org/join/discord/
+- Discord is the single official platform for PSSRA communications; the PSSRA server was established Aug 2021.
+- We are not moving to another platform, like back to Slack or to Signal; [more info here](https://www.pugetsoundsra.org/join/discord/).
 
 ### [5.2.](#5-2) Membership and Access {#5-2}
 - If you're not a vetted member, reach out: **join@pugetsoundsra.org**
-- New member guide: [https://wiki.pugetsoundsra.org/newMemberResources](https://wiki.pugetsoundsra.org/newMemberResources)
+- New member guide [can be found on the wiki](https://wiki.pugetsoundsra.org/newMemberResources).
   - Wiki access requires you to be a vetted member of the Discord
 
 ## 6. ✅ Summary Guidelines
