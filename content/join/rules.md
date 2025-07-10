@@ -77,7 +77,13 @@ As a government recognized 501c4 non-profit organization providing firearms trai
   - Trolling
   - Flaming
   - Baiting
-  - Attention-seeking disruption
+  - [Sealioning](https://en.wikipedia.org/wiki/Sealioning)
+- Keep discussion focused and collaborative:
+  - Stay on topic and contribute constructively  
+  - Share personal thoughts when relevant, not to dominate or derail  
+  - Engage others with curiosity, not for attention or reaction
+- When in doubt, assume competence and good faith from fellow members. Treat disagreements as opportunities to ask questions and understand each other, not as evidence of ignorance or bad intent.
+- This helps maintain a space that's useful, welcoming, and aligned with our shared goals.
 
 ### [3.2.](#3-2) Identity and Language {#3-2}
 - No language or behavior (including usernames or aliases) that includes:
