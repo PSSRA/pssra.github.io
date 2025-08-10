@@ -22,6 +22,7 @@ Individuals, *unless otherwise decided upon*, are prohibited from membership in 
 * The individual is currently employed, in a volunteer or paid capacity, as any manner of law enforcement or peace officer.
 * The individual is currently employed, in a volunteer or paid capacity, as any manner of domestic or foreign state or private intelligence agency, department or organization. (This does not apply to individuals working for domestic agencies not connected to intelligence gathering or espionage.)
 * The individual directly employs workers and the majority of whose income is derived from the labor of others, or through stocks, bonds, or other financial assets.
+   * This does not include income through 401k, IRA, etc retirement investments for retired persons.
 
 Adherence to a socialist ideology is not a requirement for membership. However, it should be understood that the core purpose of the Chapter and Organization, advocating for the working class to develop the means to engage in personal and community defense, is inherently socialist.
 

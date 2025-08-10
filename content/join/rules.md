@@ -107,6 +107,9 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 ### [5.1.](#5-1) Server Information {#5-1}
 - Discord is the single official platform for PSSRA communications; the PSSRA server was established Aug 2021.
 - We are not moving to another platform, like back to Slack or to Signal; [more info here](https://www.pugetsoundsra.org/join/discord/).
+- Do not block chapter MWC Chairs on Discord (indicated by the `#MWC Chair` role and red stapler emoji next to their name).
+  - The Member Welfare Committee exists as an impartial arbiter of any interpersonal conflict or community guidelines violations in the chapter.
+  - Keeping the MWC Chairs unblocked helps them follow up and have full context on what's going on in the Discord server, and help resolve any disputes.
 
 ### [5.2.](#5-2) Membership and Access {#5-2}
 - If you're not a vetted member, reach out: **join@pugetsoundsra.org**
