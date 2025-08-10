@@ -37,7 +37,7 @@ We also offer members medical training, pepper spray and deescalation classes, a
 {{< figure
   src="img/county_region_map_labeled_500px.png"
   alt="PSSRA Region Map"
-  link="https://www.google.com/maps/d/u/1/edit?mid=1ps18PYf4TV7bvqijVmQETWZpVliDUfE&usp=sharing"
+  link="img/county_region_map_labeled_1000px.png"
   caption="*PSSRA has regular in-person events in all five shaded regions*"
   class="ma0"
 >}}
