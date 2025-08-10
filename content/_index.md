@@ -35,9 +35,9 @@ Given the state of Washington gun laws, almost all of our firearms classes are p
 We also offer members medical training, pepper spray and deescalation classes, a book club, and more.
 
 {{< figure
-  src="img/region_map.png"
+  src="img/county_region_map_labeled_500px.png"
   alt="PSSRA Region Map"
-  link="https://www.google.com/maps/d/u/1/edit?mid=1ps18PYf4TV7bvqijVmQETWZpVliDUfE&usp=sharing"
+  link="img/county_region_map_labeled_1000px.png"
   caption="*PSSRA has regular in-person events in all five shaded regions*"
   class="ma0"
 >}}
