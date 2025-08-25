@@ -17,6 +17,6 @@ November 2024, for obvious reasons, resulted in an explosion of interest. For th
 
 PSSRA's foremost goal with new members is to immediately provide an opportunity to ["touch grass"](touching_grass) and make it out to an in-person introductory class as soon as as they make it into the org. Ramping up vetting pace is both tough on our vetting committee, and leads to overloaded onboarding opportunities.
 
-Current ({{< currentdate >}}) wait time between initial contact and being ready to get folks into vetting is about two months, but because of a lot of interest in Jan-Feb 2025, this number will likely get bigger before it gets smaller.
+Current ({{< currentdate >}}) wait time between initial contact and being ready to get folks into vetting is up to one month.
 
 We appreciate your patience, and we will get everyone into the intake/vetting process as soon as possible!
