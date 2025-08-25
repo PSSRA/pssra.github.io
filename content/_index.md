@@ -48,7 +48,9 @@ We do not tolerate abusers, supporters of fascism/racism or other reactionary id
 You don't need to own a gun or have shooting experience --- we're happy to welcome new learners!
 
 ## Join us!
-Anyone age 21+ can [fill out our intake screener to register interest](https://pssra.getgrist.com/forms/n5CoA6f2R6WX4dgEUjVLSu/174). Please use pseudonyms / email addresses / etc not containing personal information (legal names, etc).
+Anyone age 21+ can [fill out our intake screener to register interest](https://pssra.getgrist.com/forms/n5CoA6f2R6WX4dgEUjVLSu/174).
+
+Please use pseudonyms / email addresses / etc not containing personal information (legal names, etc).
 
 {{< figure
   src="img/screener.png"
