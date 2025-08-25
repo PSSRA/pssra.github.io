@@ -48,14 +48,23 @@ We do not tolerate abusers, supporters of fascism/racism or other reactionary id
 You don't need to own a gun or have shooting experience --- we're happy to welcome new learners!
 
 ## Join us!
-Anyone age 21+ can contact us at {{< cloakemail "join@pugetsoundsra.org" >}}{{< ico "mail" >}} with your intent to join.
+Anyone age 21+ can [fill out our intake screener to register interest](https://pssra.getgrist.com/forms/n5CoA6f2R6WX4dgEUjVLSu/174). Please use pseudonyms / email addresses / etc not containing personal information (legal names, etc).
+
+{{< figure
+  src="img/screener.png"
+  alt="Screenshot of screener form"
+  link="https://pssra.getgrist.com/forms/n5CoA6f2R6WX4dgEUjVLSu/174"
+  class="ma0"
+>}}
+
+If you have any additional questions, you can also contact us at {{< cloakemail "join@pugetsoundsra.org" >}}{{< ico "mail" >}}.
 
 Sorry, we do not provide recommendations for retailers or ranges in the area.
 
 {{< box info >}}
 **Update (current as of {{< currentdate >}})**
 
-Due to increased interest, we have a significant intake backlog. Do reach out to register your interest, but please know that it may be a while before we are able to begin your membership. You can join [our parent organization](https://socialistra.org) at any time, but entry for national members into the Puget Sound chapter for local events is similarly backlogged.
+Due to increased interest, we have an intake backlog. Please fill out our screener to register your interest, but please know that there may be a delay before we are able to begin your membership. You can join [our parent organization](https://socialistra.org) at any time, but entry for national members into the Puget Sound chapter for local events is similarly backlogged.
 {{< /box >}}
 
 # Donate to support our mission
