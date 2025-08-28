@@ -88,6 +88,7 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 ### [3.2.](#3-2) Identity and Language {#3-2}
 - No language or behavior (including usernames or aliases) that includes:
   - Homophobia, transphobia, racism, sexism, ableism, or other reactionary ideologies.
+  - Even unintentional harm counts; if someone points out a harmful comment, take it seriously and adjust.
 - Respect pronouns, gender identities, and self-expression.
 
 ## 4. ⚒️ Political Orientation and Discourse
@@ -141,7 +142,7 @@ This is a simplified, high-priority summary of our full [Rules and Community Gui
 - **No bigotry**: Racism, sexism, transphobia, ableism--- none of it belongs here. Even unintentional harm counts; if someone points out a harmful comment, take it seriously and adjust.
 - **Respect boundaries**: Don’t post identifiable information about others. Disengage from arguments when requested.
 - **No trolling**: Not even ironic or "just asking questions" types.
-- **Get help when needed**: Contact leadership or the Member Welfare Committee chairs in [#support-get-help-here](https://discord.com/channels/872960353053585458/1393365334286667928)
+- **Get help when needed**: Contact leadership or the Member Welfare Committee chairs in [`#support-get-help-here`](https://discord.com/channels/872960353053585458/1393365334286667928)
 
 ## ✅ Do
 - Focus on **firearms training and education**.
