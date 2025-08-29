@@ -88,6 +88,7 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 ### [3.2.](#3-2) Identity and Language {#3-2}
 - No language or behavior (including usernames or aliases) that includes:
   - Homophobia, transphobia, racism, sexism, ableism, or other reactionary ideologies.
+  - Even unintentional harm counts; if someone points out a harmful comment, take it seriously and adjust.
 - Respect pronouns, gender identities, and self-expression.
 
 ## 4. ⚒️ Political Orientation and Discourse
@@ -122,3 +123,33 @@ As a government recognized 501c4 non-profit organization providing firearms trai
 - Keep it respectful.
 - Keep it focused on firearms education.
 - If in doubt, ask an officer.
+
+
+# :comlove: Quick Guide to Server Rules
+
+This is a simplified, high-priority summary of our full [Rules and Community Guidelines](https://www.pugetsoundsra.org/join/rules/). It’s designed to be clear, quick, and easy to parse.
+
+## 🚫 Absolutely Not Allowed
+- **Illegal or banned stuff**: No talk or jokes about illegal acts. That includes drugs, gun laws, or "in Minecraft" type comments.
+- **Violence and threats**: No threats toward real people, groups, or institutions. No hinting or joking either.
+- **Selling/trading guns or parts**: Strictly not allowed. Accessories like slings or holsters are fine.
+- **News and live reports**: Don’t post time-sensitive news or "direct action" content. We're not a dispatch channel.
+- **Bad OpSec**: Assume everything here could be seen publicly. Practice good digital hygiene.
+- **Sexual or otherwise NSFW content**
+
+## 💬 Conduct and Communication
+- **Assume good faith**: If you're confused, ask. If someone’s wrong, correct kindly.
+- **No bigotry**: Racism, sexism, transphobia, ableism--- none of it belongs here. Even unintentional harm counts; if someone points out a harmful comment, take it seriously and adjust.
+- **Respect boundaries**: Don’t post identifiable information about others. Disengage from arguments when requested.
+- **No trolling**: Not even ironic or "just asking questions" types.
+- **Get help when needed**: Contact leadership or the Member Welfare Committee chairs in [`#support-get-help-here`](https://discord.com/channels/872960353053585458/1393365334286667928)
+
+## ✅ Do
+- Focus on **firearms training and education**.
+- Use **content warnings** for sensitive topics.
+- Keep things **safe, respectful, and on-topic**.
+
+This is not a full list; see [the complete Rules and Community Guidelines](https://www.pugetsoundsra.org/join/rules/) for more. If you're ever unsure, ask an Officer.
+
+
+
