@@ -61,6 +61,10 @@ Please use pseudonyms / email addresses / etc not containing personal informatio
 
 If you have any additional questions, you can also contact us at {{< cloakemail "join@pugetsoundsra.org" >}}{{< ico "mail" >}}.
 
+**PSSRA is committed to making firearms education accessible to all members.**
+If you have physical, financial, or other accessibility needs, we'll work with you to find training options that fit.
+[Read our full accessibility statement here.](join/accessibility)
+
 Sorry, we do not provide recommendations for retailers or ranges in the area.
 
 {{< box info >}}
