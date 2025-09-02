@@ -8,7 +8,7 @@ tags = ['join info']
 
 PSSRA is committed to making our firearms education accessible to all members.
 
-We know that training sometimes involves barriers, whether physical, financial, or logistical, and we work with members to reduce or remove them.
+We know that training sometimes involves barriers, whether disability-related, financial, or logistical, and we work with members to reduce or remove them.
 
 <!--more-->
 
