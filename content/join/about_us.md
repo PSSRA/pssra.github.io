@@ -10,7 +10,7 @@ The Puget Sound chapter of the SRA is an organization operating across Washingto
 
 <!--more-->
 
-We also have more free-form range days, as well as occasional social events and an active [Discord](discord) for vetted members. Finally, we also have members who regularly attend competitions to test their training against difficult shooting challenges, and help other interested members get into competitive shooting.
+We also have more free-form range days and an active [Discord](discord) for vetted members. Finally, we also have members who regularly attend competitions to test their training against difficult shooting challenges, and help other interested members get into competitive shooting.
 
 We have regular in-person locations that are accessible by car within reasonable driving distance from most cities and large towns in Washington (though we sometimes offer that Clark County individuals may find the Portland chapter more convenient). Please ask via email if you'd like an estimate of your distance to our closest regular location!
 
