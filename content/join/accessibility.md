@@ -22,7 +22,7 @@ We know that training sometimes involves barriers, whether disability-related, f
 Here are some ways we may be able to adjust training:
 - Alternative training locations or online modules
 - Modified or paced physical activities
-- Working around equipment and consumable-supply costs/needs
+- Helping to mitigate up-front costs for equipment and consumable supplies
 - One-on-one coaching when group sessions are a barrier
 
 This list is not exhaustive; tell us what you need, and we'll work with you.
