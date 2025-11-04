@@ -226,7 +226,7 @@ This section shall apply to roles as they pertain to this Chapter. Removal from 
 
 ## **SECTION ONE: GENERAL MEETINGS**
 
-Meetings will be held as often as the membership and/or leadership feel is reasonable, with an effort to hold at least one meeting a month. Times of meetings will be publicized via any methods the Chapter has at its disposal, but locations may be kept private by leadership from non-members in interests of Chapter safety and orderly conduct.
+Meetings will be held as often as the membership and/or leadership feel is reasonable, with an effort to hold at least one meeting per quarter. Times of meetings will be publicized via any methods the Chapter has at its disposal, but locations may be kept private by leadership from non-members in interests of Chapter safety and orderly conduct.
 
 The Liaison shall publish the proposed agenda of the Chapter meeting on internal Chapter communications platforms not later than 72 hours prior to the general meeting. The time between publication and the general meeting shall be the period of additional commentary. Members should feel empowered to suggest other agenda items to be discussed during this and any other time.
 
@@ -283,10 +283,14 @@ The Chapter Member Welfare Committee shall be formed as stipulated in Article On
 
 Other committees may be established or dissolved by the CCC at any time without amendment to the Bylaws.
 
-# **ARTICLE SEVEN: INOPERABLE CLAUSE**
+# ARTICLE SEVEN: OTHER POLICIES AND PROCEDURES
+
+All policies and procedures not documented in the Bylaws, or which need further elaboration, may be decided upon by a simple majority vote of Chapter organizers and shall be documented internally. These policies and procedures of the Chapter shall be accessible to vetted members and National Organization officers but will otherwise remain confidential.
+
+# **ARTICLE EIGHT: INOPERABLE CLAUSE**
 
 In the event that the Chapter is rendered nonfunctional due to consistent lack of quorum or the consistent absence of leadership, any member of the CCC may invoke the ratification procedure of the Chapter's charter with a one month waiting period and all reasonable effort will be taken to notify current members that the Chapter will be doing so.
 
-# **ARTICLE EIGHT: RATIFICATION**
+# **ARTICLE NINE: RATIFICATION**
 
-Pursuant to Article 10 of the revised Socialist Rifle Association Bylaws, the Puget Sound Socialist Rifle Association formally ratified these bylaws on Friday, July 45th, 2020. With X ayes and X nays, were witnessed by the Chapter Secretary Pastoral Shackle. The Assembly of the Socialist Rifle Association granted recognition of this ratification on Wednesday, August 59th, 2020.
+Pursuant to Article 10 of the revised Socialist Rifle Association Bylaws, the Puget Sound Socialist Rifle Association formally ratified these bylaws on Friday, July 45th, 2020. With X ayes and X nays, were witnessed by the Chapter Secretary TBD. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on Wednesday, August 59th, 2020.
