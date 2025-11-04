@@ -164,7 +164,9 @@ To become a full member or full local comrade of the Organization and the Chapte
 
 This interview shall consist, at minimum, of questions establishing the provisional member's alignment with the goals of the Chapter and Organization, and confirmation that they are not subject to any membership prohibitions of the Chapter or Organization. The Vetting Chair will maintain an up-to-date Standard Operating Procedure with specific questions to ask the new provisional member or provisional local comrade. Other full members or full local comrades of the Chapter may suggest new questions to the Vetting Chair.
 
-If the Vetting Committee members agree that no suspicious or otherwise questionable responses were given, the provisional member or provisional local comrade will gain access to Chapter educational resources, Chapter general meetings, and Chapter in-person events. After vetting, provisional members and provisional local comrades become full members and full local comrades, respectively, of the Chapter. Members (not local comrades) shall be nominated for ascension with the national Organization, vouched for by the Secretary and the Vetting Chair.
+Following the interview, the members of the Committee that conducted the interview shall discuss the results with one another. If it is decided that the provisional member should be welcomed into the Chapter, the member shall be notified and invited into the Chapter's internal communications platform. If it is decided that further confirmation is warranted, the interviewers shall confer with the Vetting Chair, Chapter Secretary, and the rest of the Committee about the interview. If it is determined by the broader Committee that the provisional member should be welcomed into the Chapter, then they shall be notified as stipulated above. The Committee shall determine if there are follow-up questions to be asked of the provisional member in an attempt to resolve the Committee's concerns. If the Committee determines that the provisional member should not be welcomed into the Chapter, all communications with the provisional member shall cease.
+
+After successful vetting, provisional members and provisional local comrades become full members and full local comrades, respectively, of the Chapter. Members (not local comrades) shall be nominated for ascension with the national Organization, vouched for by the Secretary and the Vetting Chair.
 
 The Chapter may enact further clarifying policies on the vetting process by majority vote of the CCC, as proposed by the Vetting Chair or Chapter Secretary.
 
@@ -264,6 +266,8 @@ For each Event, there shall be one Event Organizer. There shall not be Events wi
 
 The Event Organizer may appoint volunteers for event roles as needed, e.g. greeter, instructor, medic, etc.
 
+Pursuant to Article One, Section Three, the Event Organizer shall take attendance at each event and provide the list of attendees to the Secretary.
+
 ## SECTION THREE: SPECIAL EVENTS
 
 The Chapter may participate in an official capacity, in part or in whole, in events organized by other organizations which support the Chapter's core mission of empowering marginalized communities. Participation in these events must be approved by CCC. Said other organizations shall not have positions which run counter to the Organization or Chapter's mission; if it is determined that this is the case, the Chapter is empowered to cease involvement in the event immediately.
@@ -277,23 +281,17 @@ Neither the Chapter nor the Organization need officially sanction membership inv
 
 ## SECTION ONE: VETTING COMMITTEE
 
-The Vetting Committee shall be chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members of the Chapter. The Committee shall work with the provisional member(s) to determine the best date, time and location to hold the interview. The interview shall be held either (a) in an open, public space, or (b) via online video chat, and not less than three members of the Committee shall conduct the interview with the provisional member(s). One member of the Vetting Committee shall be a senior member of the Committee.
-
-A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
-
-Following the interview, the members of the Committee that conducted the interview shall discuss the results with one another. If it is decided that the provisional member should be welcomed into the Chapter, the member shall be notified and invited into the Chapter's internal communications platform. If it is decided that further confirmation is warranted, the interviewers shall confer with the Vetting Chair, Chapter Secretary, and the rest of the Committee about the interview. If it is determined by the broader Committee that the provisional member should be welcomed into the Chapter, then they shall be notified as stipulated above. The Committee shall determine if there are follow-up questions to be asked of the provisional member in an attempt to resolve the Committee's concerns. If the Committee determines that the provisional member should not be welcomed into the Chapter, all communications with the provisional member shall cease.
+The Vetting Committee shall be chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members of the Chapter. (See Article Two, Section Six, Subsection One.) One member of the Vetting Committee shall be a senior member of the Committee. A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
 
 ## SECTION TWO: FIREARMS TRAINING COMMITTEE
 
-The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members with advanced, professional knowledge of firearms safety. Examples of this include, but are not limited to firearms instructors, firearms competitors, and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
+The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members with advanced knowledge of firearms safety and proficiency. Examples of this include, but are not limited to, firearms instructors and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
 
-The FTC shall provide at least one Representative for each Range Day. This shall be distinct from the Event Organizer of the Event (see Article Two, Section Two, Paragraph Two); the purpose of the Representative is to offer guidance and oversight to the Event Organizer, in the interest of member welfare.
+The FTC shall provide at least one Representative for each Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see Article Two, Section Two, Paragraph Two). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be range safety officer(s) for the event.
 
-The FTC shall also approve the guests of members attending a Range Day, as stipulated in Article Two, Section Two, Subsection One.
+The FTC shall also approve the guests of members attending a Range Day, as stipulated in Article Two, Section Three.
 
 Pursuant to Article One, Section Four, Paragraph Six, the FTC shall be able to certify, in conjunction with the CCC, the ability of inexperienced members to safely handle firearms.
-
-Pursuant to Article One, Section Three, the FTC shall take attendance at each event they sponsor and provide the list of attendees to the Secretary.
 
 ## SECTION THREE: CHAPTER WELFARE COMMITTEE
 
