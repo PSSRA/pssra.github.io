@@ -220,8 +220,6 @@ If the individual is being charged with a violation of their office or the bylaw
 
 This section shall apply to roles as they pertain to this Chapter. Removal from any nationally elected position shall follow the Bylaws of the Organization.
 
-⚠️ pastoral note: this is as far as my edits got
-
 # ARTICLE FIVE: MEETINGS
 
 ## SECTION ONE: GENERAL MEETINGS
