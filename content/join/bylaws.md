@@ -210,7 +210,7 @@ Chapter liaison, secretary, and treasurer must, at time of taking office, be mem
 
 Chapter liaison, secretary, and treasurer shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to step into the role. Elections shall be held within 30 days if more than one member wishes to take on the role at any time following the one year mark of the prior election for that role.
 
-If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members may themselves call for an election to become permanent, or other members may call for an election to replace them in the role, at any time.
+If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time.
 
 ## SECTION TWO: LIAISON
 
@@ -234,7 +234,7 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 
 ## SECTION FIVE: OTHER LEADERSHIP ROLES
 
-Regional administrators, CMWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be National members or Local Comrades of the Chapter. They may be appointed or elected, and if elected, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+Regional administrators, CMWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
 ## SECTION SIX: REMOVAL
 
@@ -250,7 +250,7 @@ This section shall apply to roles as they pertain to this Chapter. Removal from 
 
 ## SECTION ONE: GENERAL MEETINGS
 
-Meetings will be held as often as the membership and/or leadership feel is reasonable, with an effort to hold at least one meeting per quarter. Times of meetings will be publicized via any methods the Chapter has at its disposal, but locations may be kept private by leadership from non-members in interests of Chapter safety and orderly conduct.
+Meetings will be held as often as the membership and/or CCC feel is reasonable, with an effort to hold at least one meeting per quarter. Times of meetings will be publicized via any methods the Chapter has at its disposal, but locations may be kept private by leadership from non-members in interests of Chapter safety and orderly conduct.
 
 The Liaison shall publish the proposed agenda of the Chapter meeting on internal Chapter communications platforms not later than 72 hours prior to the general meeting. The time between publication and the general meeting shall be the period of additional commentary. Members should feel empowered to suggest other agenda items to be discussed during this and any other time.
 
@@ -301,7 +301,7 @@ Other committees may be established or dissolved by the CCC at any time without 
 
 # ARTICLE SEVEN: OTHER POLICIES AND PROCEDURES
 
-All policies and procedures not documented in the Bylaws, or which need further elaboration, may be decided upon by a simple majority vote of CCC and shall be documented internally. These policies and procedures of the Chapter shall be accessible to vetted members and National Organization officers but will otherwise remain confidential.
+All policies and procedures not documented in the Bylaws, or which need further elaboration, may be decided upon by a simple majority vote of CCC and shall be documented internally. These policies and procedures of the Chapter shall be accessible to full members and the Governing Body of the Organization and its officers but will otherwise remain confidential.
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE
 
