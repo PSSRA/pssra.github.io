@@ -182,11 +182,11 @@ Chapter local comrades must maintain direct donations to the Chapter as determin
 
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
 
-Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter MWC with majority approval from CCC after a discussion period of no less than 48 hours.
+Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter Welfare Committee with majority approval from CCC after a discussion period of no less than 48 hours. Under emergency circumstances, including but not limited to threat to well-being of members, the Organization, or the Chapter, the CWC may remove access to Chapter resources during this discussion period.
 
 Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events.
 
-If a national member is expelled from the chapter, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
+If a national member is expelled from the chapter for disciplinary reasons, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
 ## SECTION SEVEN: VOTING
 
