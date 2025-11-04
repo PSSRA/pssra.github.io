@@ -11,7 +11,7 @@ hidden = true
 
 ## SECTION ZERO: DEFINITIONS AND SUPREMACY
 
-The Puget Sound Socialist Rifle Association is a chapter of the Socialist Rifle Association. References to the Socialist Rifle Association or "Organization" are to the national umbrella organization, whereas references to the Chapter refer to the Socialist Rifle Association of Wichita. This Chapter recognizes the supremacy of the Socialist Rifle Association bylaws, as ratified by the Membership of Socialist Rifle Association, and pledges to act in accordance with the Bylaws of the Socialist Rifle Association.
+The Puget Sound Socialist Rifle Association is a chapter of the Socialist Rifle Association. References to the Socialist Rifle Association or "Organization" are to the national umbrella organization, whereas references to the Chapter refer to the Puget Sound Socialist Rifle Association. This Chapter recognizes the supremacy of the Socialist Rifle Association bylaws, as ratified by the Membership of Socialist Rifle Association, and pledges to act in accordance with the Bylaws of the Socialist Rifle Association.
 
 Unless otherwise specified, language referencing membership shall be interpreted to mean dues-paying or recognized dues waived members of the SRA within the jurisdiction of the chapter, or Local Comrades of the chapter.
 
@@ -19,11 +19,11 @@ Unless otherwise specified, language referencing membership shall be interpreted
 
 ## SECTION ONE: STATEMENT OF INTENT
 
-The Puget Sound Socialist Rifle Association (henceforth The Chapter) promotes and advocates for the right of the poor and working class, people of color, trans and queer people, indigenous peoples, and non-men to self defense and community defense. The Chapter seeks to provide a positive, leftist space for the discussion of firearms and other means of self and community defense. The Chapter additionally seeks to provide members with the ability to learn other valuable skills, such as first aid, radio operation, disaster response, and community advocacy. The Chapter will conduct itself ethically and in compliance with all applicable local, state, and federal laws. The Chapter will not advocate for or participate in offensive violence or acts of riot. The Chapter will always strive to be a positive and ethical force in the community to promote socialistic change and inclusiveness.
+The Puget Sound Socialist Rifle Association (henceforth The Chapter) promotes and advocates for the right of the poor and working class, people of color, trans and queer people, indigenous peoples, and non-men to self defense and community defense. The Chapter seeks to provide a positive, leftist space for the discussion of firearms and other means of self and community defense. The Chapter will conduct itself ethically and in compliance with all applicable local, state, and federal laws. The Chapter will not advocate for or participate in offensive violence or acts of riot. The Chapter will always strive to be a positive and ethical force in the community to promote socialistic change and inclusiveness.
 
 ## SECTION TWO: POINTS OF UNITY
 
-We are working class and poor people dedicated to educating our class in the safe use of firearms for personal and community self-defense as well as encouraging and enabling education of all manner of skills related to community defense such as disaster relief, medicine, and agriculture. We are a multi-tendency association of Social Democrats, Communists, and Anarchists, etc. united by class, for our class. We respect one another's political stances and differences, especially when we disagree.
+We are working class and poor people dedicated to educating in the safe use of firearms for personal and community self-defense as well as encouraging and enabling education of all manner of skills related to community defense. We are a multi-tendency leftist association of Socialists, Communists, Anarchists, etc., united by class, for our class. We respect one another's political stances and differences, especially when we disagree.
 
 We are dedicated to Liberation and Freedom of ALL people and therefore oppose all forms of oppression and exploitation.
 
