@@ -5,7 +5,7 @@ title = 'PSSRA Bylaws'
 hidden = true
 +++ -->
 
-**BYLAWS OF THE PUGET SOUND SOCIALIST RIFLE ASSOCIATION
+BYLAWS OF THE PUGET SOUND SOCIALIST RIFLE ASSOCIATION
 
 *Amended through \[Insert Date Here\]*
 
@@ -129,7 +129,7 @@ Members are expected to act as responsible stewards of the environment and the l
 
 ## SECTION FOUR: REPORTING PROCESS
 
-Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Member Welfare Committee (hereafter referred to as the CMWC). Following the conclusion of the investigation, the CMWC shall present a recommendation to the membership of restorative action. The membership shall come to a consensus whether to execute the CMWC's recommendation, or shall come to a consensus on a different recommendation, which the CMWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC, they have the right to speak directly and privately to the National Member Welfare Council.
+Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Member Welfare Committee (hereafter referred to as the CMWC). The CCC may appoint an ongoing CMWC Chair (or multiple co-chairs) to collect reports and assemble and facilitate the committee. Following the conclusion of the investigation, the CMWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CMWC's recommendation, or shall come to a consensus on a different recommendation, which the CMWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CMWC Chair(s), they have the right to speak directly and privately to the National Member Welfare Council.
 
 ## SECTION FIVE: DISCIPLINARY MEASURES
 
@@ -164,13 +164,13 @@ The CCC may elect to gate some non-educational Chapter resources and discussion 
 
 The Chapter may enact further clarifying policies on the exploratory interview process by majority vote of the membership, as proposed by the Vetting Chair and Vetting Committee.
 
-A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group. Expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter MWC with a discussion period with chapter leadership of no less than 48 hours; or expulsion may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears or removal from National roster.
+A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group. Expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter MWC with majority approval from CCC after a discussion period of no less than 48 hours with chapter leadership; or expulsion may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears or removal from National roster.
 
 If a national member is expelled from the chapter, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
 ## SECTION SEVEN: VOTING
 
-Voting may take place for (a) installation of chapter officers, or (b) amendments to chapter bylaws. Votes may take place publicly or confidentially. All votes concerning leadership will be held confidentially. It is at the discretion of the leadership on how to hold a vote, however any member can request a confidential vote for any reason, at which time the leadership will provide a mechanism for it.
+Voting may take place for (a) installation or removal of chapter officers, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All votes concerning leadership will be held confidentially. It is at the discretion of the leadership on how to hold a vote, however any member can request a confidential vote for any reason, at which time the leadership will provide a mechanism for it.
 
 There shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
@@ -269,7 +269,7 @@ Pursuant to Article One, Section Three, the FTC shall take attendance at each ev
 
 ## SECTION THREE: CHAPTER MEMBER WELFARE COMMITTEE
 
-The Chapter Member Welfare Committee shall be formed as stipulated in Article One, Section Four. The CCC may appoint a CMWC chair (or multiple co-chairs) tasked with fielding CMWC reports and coordinating formation of CMWC as needed. Asids from the CMWC chair(s), the committee shall be dissolved when it is determined by the CMWC or the affected person that the situation is stable.
+The Chapter Member Welfare Committee shall be formed as stipulated in Article One, Section Four. The CCC may appoint a CMWC chair (or multiple co-chairs) tasked with fielding CMWC reports and coordinating formation of CMWC as needed. Aside from the CMWC chair(s), the committee shall be dissolved when it is determined by the CMWC or the affected person that the situation is stable.
 
 ## SECTION FOUR: OTHER COMMITTEES
 
