@@ -238,7 +238,11 @@ Regional administrators, CWC Chair(s), and facilitators of committees not enumer
 
 ## SECTION SIX: REMOVAL
 
-Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by 1) a petition from one fifth of vetted membership, 2) a vote of no confidence from the Governing Body of the Organization, or 3) removal by the Welfare Council of the Organization.
+Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
+
+1. a petition from one fifth of vetted membership,
+2. a vote of no confidence from the Governing Body of the Organization, or 
+3. removal by the Welfare Council of the Organization.
 
 If the individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the membership.
 
