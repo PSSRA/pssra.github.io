@@ -91,7 +91,7 @@ The Chapter encourages confidential reporting of all perceived incidents of misc
 
 Any individual found to be an abuser or to have engaged in harassment or expressed racist, sexist, fascist, reactionary, or exclusionary social ideologies outside of the organization will be considered for expulsion from the organization.
 
-When any member is expelled from the organization, announcement of membership termination of said member will be announced for security reasons. This announcement will be made on approval of any other involved members at the earliest opportunity.
+When any member is expelled from the organization for misconduct, announcement of membership termination of said member will be announced for security reasons. This announcement will be made on approval of any other involved members at the earliest opportunity.
 
 ### SUBSECTION TWO: USE OF MIND-ALTERING SUBSTANCES
 
