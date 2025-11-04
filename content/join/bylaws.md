@@ -287,11 +287,13 @@ The Vetting Committee shall be chaired by the Chapter Vetting Chair and overseen
 
 The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members with advanced knowledge of firearms safety and proficiency. Examples of this include, but are not limited to, firearms instructors and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
 
-The FTC shall provide at least one Representative for each Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see Article Two, Section Two, Paragraph Two). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be range safety officer(s) for the event.
+The FTC shall provide at least one Representative for each Chapter Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see Article Five, Section Two). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be range safety officer(s) for the event.
 
-The FTC shall also approve the guests of members attending a Range Day, as stipulated in Article Two, Section Three.
+The FTC representative(s) are responsible for monitoring for unsafe behavior at firearms classes and range days, and shall be tasked with preventing unsafe behavior and removing unsafe individuals to the best of their ability.
 
-Pursuant to Article One, Section Four, Paragraph Six, the FTC shall be able to certify, in conjunction with the CCC, the ability of inexperienced members to safely handle firearms.
+The FTC shall approve the guests of members attending a Range Day, as stipulated in Article Two, Section Three, Paragraph 5.
+
+Pursuant to Article Two, Section Three, the FTC shall be able to certify, in conjunction with Event Organizers and the CCC, the ability of members to safely handle firearms prior to each event.
 
 ## SECTION THREE: CHAPTER WELFARE COMMITTEE
 
