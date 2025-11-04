@@ -129,7 +129,11 @@ Members are expected to act as responsible stewards of the environment and the l
 
 ## SECTION FOUR: REPORTING PROCESS
 
-Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Member Welfare Committee (hereafter referred to as the CMWC). The CCC may appoint an ongoing CMWC Chair (or multiple co-chairs) to collect reports and assemble and facilitate the committee. Following the conclusion of the investigation, the CMWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CMWC's recommendation, or shall come to a consensus on a different recommendation, which the CMWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CMWC Chair(s), they have the right to speak directly and privately to the National Member Welfare Council.
+Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Member Welfare Committee (hereafter referred to as the CMWC).
+
+The CCC may appoint an ongoing CMWC Chair (or multiple co-chairs) with standing responsibility to collect reports and assemble and facilitate future CWMC(s).
+
+Following the conclusion of each investigation, the CMWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CMWC's recommendation, or shall come to a consensus on a different recommendation, which the CMWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CMWC Chair(s), they have the right to speak directly and privately to the National Member Welfare Council.
 
 ## SECTION FIVE: DISCIPLINARY MEASURES
 
@@ -164,7 +168,13 @@ The CCC may elect to gate some non-educational Chapter resources and discussion 
 
 The Chapter may enact further clarifying policies on the exploratory interview process by majority vote of the membership, as proposed by the Vetting Chair and Vetting Committee.
 
-A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group. Expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter MWC with majority approval from CCC after a discussion period of no less than 48 hours with chapter leadership; or expulsion may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears or removal from National roster.
+### SUBSECTION ONE: EXPULSION
+
+A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
+
+Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter MWC with majority approval from CCC after a discussion period of no less than 48 hours.
+
+Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events.
 
 If a national member is expelled from the chapter, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
@@ -182,13 +192,15 @@ Bylaws may be amended, added, or removed by a two-thirds majority vote by the me
 
 ## SECTION ONE: STATEMENT OF INTENT
 
-The following positions will form the core of the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Regional administrators and facilitators of subcommittees not enumerated in the Chapter Bylaws will be part of the CCC. Access to membership information from the Organization requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
+The following positions will form the core of the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Access to membership information from the Organization requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
 
 Chapter liaison, secretary, and treasurer must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization.
 
 Chapter liaison, secretary, and treasurer shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to step into the role. Elections shall be held within 30 days if more than one member wishes to take on the role at any time following the one year mark of the prior election for that role.
 
 If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members may themselves call for an election to become permanent, or other members may call for an election to replace them in the role, at any time.
+
+Regional administrators and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be National members or Local Comrades of the Chapter. They may be appointed or elected, and if elected, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
 ## SECTION TWO: LIAISON
 
