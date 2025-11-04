@@ -164,21 +164,21 @@ The CCC may elect to gate some non-educational Chapter resources and discussion 
 
 The Chapter may enact further clarifying policies on the exploratory interview process by majority vote of the membership, as proposed by the Vetting Chair and Vetting Committee.
 
-⚠️ pastoral note: this is as far as my edits got. the next item could probably use its own subsection
+A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group. Expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter MWC with a discussion period with chapter leadership of no less than 48 hours; or expulsion may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears or removal from National roster.
 
-A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group. Expulsion can take place if members of the Chapter come to a consensus that the member is guilty of gross misconduct. Alternatively, one fifth of the membership can petition in writing to remove a member for gross misconduct, followed by consensus of the membership. These discussions may be made at a regular Chapter meeting, or an emergency discussion may be held earlier if a member poses a threat to another member's physical or emotional safety, or is engaged in wrecking (see Article One, Section Two of the Chapter Bylaws).
-
-If a member is expelled from the chapter, the Liaison shall recommend the member's expulsion from the Organization to the Welfare Council, requiring a second from the Secretary.
+If a national member is expelled from the chapter, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
 ## **SECTION SEVEN: VOTING**
 
-Voting may take place for any matter ranging from daily business of the chapter to the amending of the constitution. Votes may take place publicly or confidentially. All votes concerning leadership will be held confidentially. It is at the discretion of the leadership on how to hold a vote, however any member can request a confidential vote for any reason, at which time the leadership will provide a mechanism for it.
+Voting may take place for (a) installation of chapter officers, or (b) amendments to chapter bylaws. Votes may take place publicly or confidentially. All votes concerning leadership will be held confidentially. It is at the discretion of the leadership on how to hold a vote, however any member can request a confidential vote for any reason, at which time the leadership will provide a mechanism for it.
 
-A sufficient quorum shall be not less than 33% of the full membership of the chapter or 80% of the number of attendees at the previous month's meeting. A sufficient quorum may enact any business of the chapter.
+There shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
 # **ARTICLE THREE: AMENDMENTS**
 
-Bylaws may be amended, added, or removed by a two thirds majority vote by the membership. A period of at least two weeks will be given for this to be completed.
+Bylaws may be amended, added, or removed by a two-thirds majority vote by the membership, with quorum of no less than 25% of active vetted members. A period of at least two weeks will be given for this to be completed, and all available communication methods shall be utilized to solicit responses.
+
+⚠️ pastoral note: this is as far as my edits got
 
 # **ARTICLE FOUR: ORGANIZERS**
 
