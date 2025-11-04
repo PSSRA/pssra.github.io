@@ -162,11 +162,11 @@ Individuals falling within the geographic boundaries of the Chapter who do not w
 
 To become a full member or full local comrade of the Organization and the Chapter, a provisional member or provisional local comrade shall undergo a vetting process. A provisional member or provisional local comrade shall be contacted by the Secretary and provided with the ability to attend a vetting interview, either in-person or virtual call with video for the provisional member or provisional local comrade. The Chapter Vetting Chair will assign three or more members of the Vetting Committee to attend the interview. The Secretary or Vetting Chair may serve on the Vetting Committee.
 
-This interview shall consist, at minimum, questions regarding the provisional member or provisional local comrade's reasons for joining the SRA; what brought them to a leftist understanding; their goals for their participation in the SRA; their previous involvement in leftist organizing, mutual aid and/or direct action; and confirmation that they are not subject to any membership prohibitions of the Chapter or Organization. The Vetting Chair will maintain an up-to-date Standard Operating Procedure with questions to ask the new provisional member or provisional local comrade. Other full members or full local comrades of the Chapter may, at times, suggest new questions.
+This interview shall consist, at minimum, of questions establishing the provisional member's alignment with the goals of the Chapter and Organization, and confirmation that they are not subject to any membership prohibitions of the Chapter or Organization. The Vetting Chair will maintain an up-to-date Standard Operating Procedure with specific questions to ask the new provisional member or provisional local comrade. Other full members or full local comrades of the Chapter may suggest new questions to the Vetting Chair.
 
-If the Committee members agree that no suspicious or otherwise questionable responses were given, the provisional member or provisional local comrade will gain access to Chapter educational resources, Chapter general meetings, and Chapter in-person events. After vetting, provisional members and provisional local comrades become full members and full local comrades, respectively, of the Chapter. Members (not local comrades) shall be nominated for ascension with the national Organization, vouched for by the Secretary and the Vetting Chair.
+If the Vetting Committee members agree that no suspicious or otherwise questionable responses were given, the provisional member or provisional local comrade will gain access to Chapter educational resources, Chapter general meetings, and Chapter in-person events. After vetting, provisional members and provisional local comrades become full members and full local comrades, respectively, of the Chapter. Members (not local comrades) shall be nominated for ascension with the national Organization, vouched for by the Secretary and the Vetting Chair.
 
-The Chapter may enact further clarifying policies on the exploratory interview process by majority vote of the membership, as proposed by the Vetting Chair and Vetting Committee.
+The Chapter may enact further clarifying policies on the vetting process by majority vote of the CCC, as proposed by the Vetting Chair or Chapter Secretary.
 
 ### SUBSECTION TWO: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
 
@@ -204,13 +204,13 @@ Bylaws may be amended, added, or removed by a two-thirds majority vote by the me
 
 The following positions will form the core of the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Access to membership information from the Organization requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
 
-Chapter liaison, secretary, and treasurer must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization.
+Chapter liaison, secretary, and treasurer are the National offices of the CCC. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or National records, or National communication platforms.
 
 Chapter liaison, secretary, and treasurer shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to step into the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
 
-If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
+If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members are subject to the same requirements as permanent members. Interim CCC members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
 
-Chapter members may hold more than one interim CCC role, or one interim and one permanent role, but not more than one permanent role.
+Chapter members may hold more than one interim National office CCC role, or one interim and one permanent role, but not more than one permanent role.
 
 ## SECTION TWO: LIAISON
 
@@ -220,7 +220,7 @@ They shall distribute all significant updates and news from the Organization to 
 
 ## SECTION THREE: SECRETARY
 
-The Secretary shall maintain the Chapter member roster. They shall maintain the processes for new chapter membership. They shall oversee monitoring of the National Forum and Chapter email inbox for new members. They shall certify votes of the Chapter and ensure members receive sufficient correspondence regarding events and votes of the Chapter. They shall ensure that all Chapter members will have access to the Washington section of the National Forum.
+The Secretary shall maintain the Chapter member roster. They shall maintain the processes for new chapter membership. They shall oversee monitoring of the National communications platforms and Chapter email inbox for new members. They shall certify votes of the Chapter and ensure members receive sufficient correspondence regarding events and votes of the Chapter. They shall ensure that all Chapter members will have access to the Washington section of the National Forum.
 
 ## SECTION FOUR: TREASURER
 
@@ -256,9 +256,9 @@ The Liaison shall publish the proposed agenda of the Chapter meeting on internal
 
 ## SECTION TWO: EVENT PLANNING
 
-For each Event, there shall be one Sponsor. There shall not be Events without Sponsors. Sponsors shall be members willing to take on the responsibility of managing logistics, communication, coordination and safety for the Event. The Sponsor shall also be responsible for concluding the event.
+For each Event, there shall be one Event Organizer. There shall not be Events without Event Organizers. Event Organizers shall be members willing to take on the responsibility of managing logistics, communication, coordination and safety for the Event. The Event Organizer shall also be responsible for concluding the event.
 
-The Sponsor may appoint volunteers for event roles as needed, e.g. greeter, instructor, medic, etc.
+The Event Organizer may appoint volunteers for event roles as needed, e.g. greeter, instructor, medic, etc.
 
 ## SECTION THREE: SPECIAL EVENTS
 
@@ -283,7 +283,7 @@ Following the interview, the members of the Committee that conducted the intervi
 
 The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members with advanced, professional knowledge of firearms safety. Examples of this include, but are not limited to firearms instructors, firearms competitors, and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
 
-The FTC shall provide at least one Representative for each Range Day. This shall be distinct from the Sponsor of the Event (see Article Two, Section Two, Paragraph Two); the purpose of the Representative is to offer guidance and oversight to the Sponsor, in the interest of member welfare.
+The FTC shall provide at least one Representative for each Range Day. This shall be distinct from the Event Organizer of the Event (see Article Two, Section Two, Paragraph Two); the purpose of the Representative is to offer guidance and oversight to the Event Organizer, in the interest of member welfare.
 
 The FTC shall also approve the guests of members attending a Range Day, as stipulated in Article Two, Section Two, Subsection One.
 
