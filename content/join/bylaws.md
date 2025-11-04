@@ -113,7 +113,7 @@ Members should understand that the Socialist Rifle Association advocates for the
 
 Members must be aware of local firearm regulations and applicable laws. The Chapter will work to provide resources on these topics.
 
-At the time of these bylaws' writing, convicted felons, people convicted of certain misdemeanors, and those who have been served with a restraining order are prohibited from possessing handguns in the State of Washington until a court restores their rights. Those convicted of domestic violence also have their right to possess firearms restricted. It is the responsibility of the member to ensure they may lawfully possess a firearm and disclose to the CCC or CMWC Chair(s) (see Article Two, Second Four) if this status changes.
+At the time of these bylaws' writing, convicted felons, people convicted of certain misdemeanors, and those who have been served with a restraining order are prohibited from possessing handguns in the State of Washington until a court restores their rights. Those convicted of domestic violence also have their right to possess firearms restricted. It is the responsibility of the member to ensure they may lawfully possess a firearm and disclose to the CCC or CMWC Chair(s) (see Article Two, Section Four) if this status changes.
 
 Should any member of the CCC learn that a member is in possession of a firearm unlawfully, that member will report to the remainder of the CCC and/or CMWC Chair(s), who will restrict the member from participating in firearm-related activities until the situation can be discussed with the member and resolved.
 
