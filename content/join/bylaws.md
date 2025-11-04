@@ -297,7 +297,7 @@ Pursuant to Article Two, Section Three, the FTC shall be able to certify, in con
 
 ## SECTION THREE: CHAPTER WELFARE COMMITTEE
 
-The Chapter Welfare Committee (CWC) shall be formed as stipulated in Article One, Section Four. The CCC may appoint a CWC chair (or multiple co-chairs) tasked with fielding CWC reports and coordinating formation of CWC(s) as needed. Aside from the CWC chair(s), the committee shall be dissolved when it is determined by the CWC or the affected person that the situation is stable.
+The Chapter Welfare Committee (CWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. Prior to or concurrent with CWC formation, the CCC may appoint a CWC chair (or multiple co-chairs) tasked with fielding CWC reports and coordinating formation of CWC(s) as needed. Aside from the CWC chair(s), the committee shall be dissolved when it is determined by the CWC or the affected person that the situation is stable.
 
 ## SECTION FOUR: OTHER COMMITTEES
 
