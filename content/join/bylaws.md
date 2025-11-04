@@ -81,13 +81,13 @@ Members will not violate the privacy of any members by committing acts such as, 
 
 ### SUBSECTION ONE: DISCRIMINATION, HARASSMENT, AND VIOLENCE
 
-The Socialist Rifle Association is an inclusive organization. Discrimination on the grounds of ethnicity, race, religion, sex, gender, sexual orientation, political beliefs, or disability is not allowed. Due to the fact that some political beliefs are incompatible with this rule, members who voice support for fascism or other discriminatory political ideologies will be sanctioned appropriately, up to and including expulsion.
+The Socialist Rifle Association is an inclusive organization. Discrimination on the grounds of ethnicity, race, religion, sex, gender, sexual orientation, political beliefs, or disability is not allowed. Due to the fact that some political or religious beliefs are incompatible with this rule, members who voice support for fascism or other discriminatory ideologies will be sanctioned appropriately, up to and including expulsion.
 
 Not adhering to a purely socialistic ideology is not grounds for expulsion from the membership. Any individual may be a member if they agree with the core mission statement of advocating for the working class to possess arms for defense of self and the community. It should be understood, however, that the purpose of this is for socialistic ends.
 
 Harassing, menacing, violent, or retaliatory behaviors of any kind will not be tolerated. Sexual harassment is defined as unwelcome conduct of a sexual nature which makes a person feel offended, humiliated, or intimidated and will not be tolerated. Any expression of sexual harassment and/or violence whether it be physical, verbal, or nonverbal will not be tolerated.
 
-The Chapter encourages confidential reporting of all perceived incidents of discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of discrimination, harassment, menacing, retaliation or sexual harassment to any member of the CCC or CMWC Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CMWC Chair(s), they have the right to speak directly and privately to the National Member Welfare Council. As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
+The Chapter encourages confidential reporting of all perceived incidents of discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of discrimination, harassment, menacing, retaliation or sexual harassment to any member of the CCC or CWC Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council (NWC). As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
 
 Any individual found to be an abuser or to have engaged in harassment or expressed racist, sexist, fascist, reactionary, or exclusionary social ideologies outside of the organization will be considered for expulsion from the organization.
 
@@ -113,9 +113,9 @@ Members should understand that the Socialist Rifle Association advocates for the
 
 Members must be aware of local firearm regulations and applicable laws. The Chapter will work to provide resources on these topics.
 
-At the time of these bylaws' writing, convicted felons, people convicted of certain misdemeanors, and those who have been served with a restraining order are prohibited from possessing handguns in the State of Washington until a court restores their rights. Those convicted of domestic violence also have their right to possess firearms restricted. It is the responsibility of the member to ensure they may lawfully possess a firearm and disclose to the CCC or CMWC Chair(s) (see Article Two, Section Four) if this status changes.
+At the time of these bylaws' writing, convicted felons, people convicted of certain misdemeanors, and those who have been served with a restraining order are prohibited from possessing handguns in the State of Washington until a court restores their rights. Those convicted of domestic violence also have their right to possess firearms restricted. It is the responsibility of the member to ensure they may lawfully possess a firearm and disclose to the CCC or CWC Chair(s) (see Article Two, Section Four) if this status changes.
 
-Should any member of the CCC learn that a member is in possession of a firearm unlawfully, that member will report to the remainder of the CCC and/or CMWC Chair(s), who will restrict the member from participating in firearm-related activities until the situation can be discussed with the member and resolved.
+Should any member of the CCC learn that a member is in possession of a firearm unlawfully, that member will report to the remainder of the CCC and/or CWC Chair(s), who will restrict the member from participating in firearm-related activities until the situation can be discussed with the member and resolved.
 
 Guests of members (limited to 2 guests per member) and/or members of guest organizations may be permitted to attend range days or other firearms related trainings or events, at the discretion of the event organizer and FTC (firearms training committee), provided that they have not been barred by the chapter due to misconduct.
 
@@ -129,11 +129,11 @@ Members are expected to act as responsible stewards of the environment and the l
 
 ## SECTION FOUR: REPORTING PROCESS
 
-Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Member Welfare Committee (hereafter referred to as the CMWC).
+Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Welfare Committee (hereafter referred to as the CWC).
 
-The CCC may appoint an ongoing CMWC Chair (or multiple co-chairs) with standing responsibility to collect reports and assemble and facilitate future CWMC(s).
+The CCC may appoint an ongoing CWC Chair (or multiple co-chairs) with standing responsibility to collect reports and assemble and facilitate future CWMC(s).
 
-Following the conclusion of each investigation, the CMWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CMWC's recommendation, or shall come to a consensus on a different recommendation, which the CMWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CMWC Chair(s), they have the right to speak directly and privately to the National Member Welfare Council.
+Following the conclusion of each investigation, the CWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CWC's recommendation, or shall come to a consensus on a different recommendation, which the CWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council.
 
 ## SECTION FIVE: DISCIPLINARY MEASURES
 
@@ -234,7 +234,7 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 
 ## SECTION FIVE: OTHER LEADERSHIP ROLES
 
-Regional administrators, CMWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+Regional administrators, CWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
 ## SECTION SIX: REMOVAL
 
@@ -291,9 +291,9 @@ Pursuant to Article One, Section Four, Paragraph Six, the FTC shall be able to c
 
 Pursuant to Article One, Section Three, the FTC shall take attendance at each event they sponsor and provide the list of attendees to the Secretary.
 
-## SECTION THREE: CHAPTER MEMBER WELFARE COMMITTEE
+## SECTION THREE: CHAPTER WELFARE COMMITTEE
 
-The Chapter Member Welfare Committee shall be formed as stipulated in Article One, Section Four. The CCC may appoint a CMWC chair (or multiple co-chairs) tasked with fielding CMWC reports and coordinating formation of CMWC(s) as needed. Aside from the CMWC chair(s), the committee shall be dissolved when it is determined by the CMWC or the affected person that the situation is stable.
+The Chapter Welfare Committee (CWC) shall be formed as stipulated in Article One, Section Four. The CCC may appoint a CWC chair (or multiple co-chairs) tasked with fielding CWC reports and coordinating formation of CWC(s) as needed. Aside from the CWC chair(s), the committee shall be dissolved when it is determined by the CWC or the affected person that the situation is stable.
 
 ## SECTION FOUR: OTHER COMMITTEES
 
