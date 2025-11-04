@@ -69,7 +69,7 @@ At the point that all 5 regions described herein are able to form their own chap
 
 ## SECTION ONE: CODE OF CONDUCT
 
-Members are expected to follow basic rules of conduct while at meetings or at events being hosted or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
+Members are expected to follow basic rules of conduct while at events being hosted by or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
 
 ## SECTION TWO: MEMBERSHIP CONDUCT
 
@@ -156,9 +156,11 @@ These measures should not be considered mutually exclusive by default, and in al
 
 ## SECTION SIX: MEMBERSHIP
 
-Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to National SRA resources such as the Forum, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
+Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
 
-Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylways pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
+Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the CCC) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylways pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
+
+### SUBSECTION ONE: PROVISIONAL MEMBER ASCENSION
 
 To become a full member or full local comrade of the Organization and the Chapter, a provisional member or provisional local comrade shall undergo a vetting process. A provisional member or provisional local comrade shall be contacted by the Secretary and provided with the ability to attend a vetting interview, either in-person or virtual call with video for the provisional member or provisional local comrade. The Chapter Vetting Chair will assign three or more members of the Vetting Committee to attend the interview. The Secretary or Vetting Chair may serve on the Vetting Committee.
 
@@ -166,11 +168,19 @@ This interview shall consist, at minimum, questions regarding the provisional me
 
 If the Committee members agree that no suspicious or otherwise questionable responses were given, the provisional member or provisional local comrade will gain access to Chapter educational resources, Chapter general meetings, and Chapter in-person events. After vetting, provisional members and provisional local comrades become full members and full local comrades, respectively, of the Chapter. Members (not local comrades) shall be nominated for ascension with the national Organization, vouched for by the Secretary and the Vetting Chair.
 
-The CCC may elect to gate some non-educational Chapter resources and discussion fora behind attending an in-person educational event, requirements for which are at the CCC and firearms training committee's discretion. At the CCC and firearms training committees discretion, the CCC may choose an expiration period after a member's last in-person class attendance at which time the member loses access to these non-educational resources.
-
 The Chapter may enact further clarifying policies on the exploratory interview process by majority vote of the membership, as proposed by the Vetting Chair and Vetting Committee.
 
-### SUBSECTION ONE: EXPULSION
+### SUBSECTION TWO: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
+
+The CCC may elect to gate some non-educational Chapter resources and discussion fora behind attending an in-person educational event, requirements for which are at the CCC and firearms training committee's discretion. At the CCC and firearms training committees discretion, the CCC may choose an expiration period after a member's last in-person class attendance at which time the member loses access to these non-educational resources.
+
+### SUBSECTION THREE: GOOD STANDING
+
+All Chapter members must remain in good standing with the Organization, and continue to appear on rosters as provided from the Organization to the Chapter Secretary.
+
+Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer, or request waivers of same, with written procedures for doing so established by the Chapter Treasurer and available to all members.
+
+### SUBSECTION FOUR: EXPULSION
 
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
 
