@@ -125,11 +125,13 @@ Members are expected to act as responsible stewards of the environment and the l
 
 ## SECTION FOUR: REPORTING PROCESS
 
-Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Welfare Committee (hereafter referred to as the CWC).
+Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with expertise or experience in the issue in this temporary subcommittee, known as the Chapter Welfare Committee (hereafter referred to as the CWC).
 
 The CCC may appoint an ongoing CWC Chair (or multiple co-chairs) with standing responsibility to collect reports and assemble and facilitate future CWC(s).
 
 Following the conclusion of each investigation, the CWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CWC's recommendation, or shall come to a consensus on a different recommendation, which the CWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council.
+
+All reports of misconduct and outcomes of CWC investigations will be retained in Chapter records for a period no less than three years in a location/format inaccessible to members other than CCC members under a National Organization NDA. CCC may set a records retention policy for regular purge of these reports three or more years old.
 
 ## SECTION FIVE: DISCIPLINARY MEASURES
 
@@ -154,7 +156,7 @@ These measures should not be considered mutually exclusive by default, and in al
 
 Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
 
-Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the CCC) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylways pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
+Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the CCC) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylaws pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
 
 ### SUBSECTION ONE: PROVISIONAL MEMBER ASCENSION
 
