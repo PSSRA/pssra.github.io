@@ -178,8 +178,6 @@ There shall be no quorum on votes, but all votes must be open for a period of no
 
 Bylaws may be amended, added, or removed by a two-thirds majority vote by the membership, with quorum of no less than 25% of active vetted members. A period of at least two weeks will be given for this to be completed, and all available communication methods shall be utilized to solicit responses.
 
-⚠️ pastoral note: this is as far as my edits got
-
 # **ARTICLE FOUR: ORGANIZERS**
 
 ## **SECTION ONE: STATEMENT OF INTENT**
@@ -214,13 +212,15 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 
 ## **SECTION FIVE: REMOVAL**
 
-Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by 1) a petition from one fifth of the membership 2) a vote of no confidence from the Assembly of the Organization, or 3) removal by the Welfare Council of the Organization.
+Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by 1) a petition from one fifth of vetted membership 2) a vote of no confidence from the Assembly of the Organization, or 3) removal by the Welfare Council of the Organization.
 
 If the individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the membership.
 
 If the individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote.
 
 This section shall apply to roles as they pertain to this Chapter. Removal from any nationally elected position shall follow the Bylaws of the Organization.
+
+⚠️ pastoral note: this is as far as my edits got
 
 # **ARTICLE FIVE: MEETINGS**
 
