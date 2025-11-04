@@ -69,7 +69,7 @@ At the point that all 5 regions described herein are able to form their own chap
 
 ## SECTION ONE: CODE OF CONDUCT
 
-Members are expected to follow basic rules of conduct while at events being hosted by or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
+Members are expected to follow basic rules of conduct while at events being hosted or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
 
 ## SECTION TWO: MEMBERSHIP CONDUCT
 
