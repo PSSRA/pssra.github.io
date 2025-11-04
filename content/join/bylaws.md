@@ -73,9 +73,9 @@ Members are expected to follow basic rules of conduct while at events being host
 
 ## SECTION TWO: MEMBERSHIP CONDUCT
 
-Members are expected to be respectful to others at all times. Feuding and fighting does not benefit the organization or the movement.
+Members are expected to be respectful to others at all times. Feuding and fighting does not benefit the organization.
 
-Members will not make any public statement on behalf of the chapter as a whole without the consent of the CCC and/or unanimous consent of all Chapter members not serving on the CCC.
+Members will not make any public statement on behalf of the chapter as a whole without the consent of the Chapter Central Committee (hereafter referred to as CCC, defined in Article 4) and/or unanimous consent of all Chapter members not serving on the CCC.
 
 Members will not violate the privacy of any members by committing acts such as, but not limited to: sharing personal, identifying information of other members and posting or sharing photos or videos exposing the identity of other members. If members wish to share information about other members, they are expected to only act upon the explicit consent of the members to be identified.
 
@@ -273,7 +273,7 @@ Neither the Chapter nor the Organization need officially sanction membership inv
 
 The Vetting Committee shall be chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members of the Chapter. The Committee shall work with the provisional member(s) to determine the best date, time and location to hold the interview. The interview shall be held either (a) in an open, public space, or (b) via online video chat, and not less than three members of the Committee shall conduct the interview with the provisional member(s). One member of the Vetting Committee shall be a senior member of the Committee.
 
-A senior member of this Committee is defined as a Committee member who has attended at least five (5) onboarding meetings.
+A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
 
 Following the interview, the members of the Committee that conducted the interview shall discuss the results with one another. If it is decided that the provisional member should be welcomed into the Chapter, the member shall be notified and invited into the Chapter's internal communications platform. If it is decided that further confirmation is warranted, the interviewers shall confer with the Vetting Chair, Chapter Secretary, and the rest of the Committee about the interview. If it is determined by the broader Committee that the provisional member should be welcomed into the Chapter, then they shall be notified as stipulated above. The Committee shall determine if there are follow-up questions to be asked of the provisional member in an attempt to resolve the Committee's concerns. If the Committee determines that the provisional member should not be welcomed into the Chapter, all communications with the provisional member shall cease.
 
