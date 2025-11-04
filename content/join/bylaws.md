@@ -164,6 +164,8 @@ The CCC may elect to gate some non-educational Chapter resources and discussion 
 
 The Chapter may enact further clarifying policies on the exploratory interview process by majority vote of the membership, as proposed by the Vetting Chair and Vetting Committee.
 
+⚠️ pastoral note: this is as far as my edits got. the next item could probably use its own subsection
+
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group. Expulsion can take place if members of the Chapter come to a consensus that the member is guilty of gross misconduct. Alternatively, one fifth of the membership can petition in writing to remove a member for gross misconduct, followed by consensus of the membership. These discussions may be made at a regular Chapter meeting, or an emergency discussion may be held earlier if a member poses a threat to another member's physical or emotional safety, or is engaged in wrecking (see Article One, Section Two of the Chapter Bylaws).
 
 If a member is expelled from the chapter, the Liaison shall recommend the member's expulsion from the Organization to the Welfare Council, requiring a second from the Secretary.
