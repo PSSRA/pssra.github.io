@@ -212,8 +212,6 @@ Chapter liaison, secretary, and treasurer shall be elected by approval vote of t
 
 If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members may themselves call for an election to become permanent, or other members may call for an election to replace them in the role, at any time.
 
-Regional administrators and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be National members or Local Comrades of the Chapter. They may be appointed or elected, and if elected, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
-
 ## SECTION TWO: LIAISON
 
 The Liaison shall be the organizer of the Chapter, principally responsible for the organizing of meetings and the setting of agendas.
@@ -234,7 +232,11 @@ The Treasurer shall be responsible for recording and accounting for any property
 
 They shall fulfill the Treasurer role specified in the Organization Bylaws under Article Eight, Section Six, Subsection Three.
 
-## SECTION FIVE: REMOVAL
+## SECTION FIVE: OTHER LEADERSHIP ROLES
+
+Regional administrators, CMWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be National members or Local Comrades of the Chapter. They may be appointed or elected, and if elected, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+
+## SECTION SIX: REMOVAL
 
 Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by 1) a petition from one fifth of vetted membership, 2) a vote of no confidence from the Governing Body of the Organization, or 3) removal by the Welfare Council of the Organization.
 
