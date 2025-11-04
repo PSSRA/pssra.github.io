@@ -244,7 +244,7 @@ Any member in a leadership position may be removed from their position for misco
 2. a vote of no confidence from the Governing Body of the Organization, or 
 3. removal by the Welfare Council of the Organization.
 
-If the individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the CCC.
+If the individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the remainder of the CCC.
 
 If the individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote.
 
