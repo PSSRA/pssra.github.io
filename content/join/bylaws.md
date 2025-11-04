@@ -121,11 +121,7 @@ Guests of members (limited to 2 guests per member) and/or members of guest organ
 
 ### SUBSECTION ONE: ENVIRONMENTAL STEWARDSHIP
 
-Members are expected to act as responsible stewards of the environment and the lands on which they meet. This includes but is not limited to:
-
-1.  Always packing out all trash and targets from outdoor range days or other outdoor activities
-
-2.  Not using firearms under conditions or in a way that presents the risk of starting wildfires
+Members are expected to act as responsible stewards of the environment and the lands on which they meet. This includes but is not limited to packing out all trash and targets from outdoor range days or other outdoor activities, and not using firearms or setting campfires under conditions or in a way that presents the risk of starting wildfires.
 
 ## SECTION FOUR: REPORTING PROCESS
 
