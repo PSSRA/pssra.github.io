@@ -151,7 +151,7 @@ The measures available to the membership for addressing violations of the Chapte
 
 6.  Permanent expulsion from the Organization.
 
-These measures should not be considered mutually exclusive by default, and in all cases except permanent expulsion, the offender shall always have the ability to adhere to agreed-upon restorative measures to address their harm. This agreement may be mediated by the CWMC, the membership as a whole, by certain members selected by the affected person(s), or not at all, according to the express wishes of the affected person(s). However, completion of these measures shall in no way obligate a return to pre-existing relationships prior to the disciplinary measure(s) being implemented, and in no way does this imply that completing one measure means that another measure, being previously agreed on, does not need to be completed.
+These measures should not be considered mutually exclusive by default, and in all cases except permanent expulsion, the offender shall always have the ability to adhere to agreed-upon restorative measures to address their harm. This agreement may be mediated by the CWC, the membership as a whole, by certain members selected by the affected person(s), or not at all, according to the express wishes of the affected person(s). However, completion of these measures shall in no way obligate a return to pre-existing relationships prior to the disciplinary measure(s) being implemented, and in no way does this imply that completing one measure means that another measure, being previously agreed on, does not need to be completed.
 
 
 ## SECTION SIX: MEMBERSHIP
