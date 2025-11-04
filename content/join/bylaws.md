@@ -117,7 +117,7 @@ At the time of these bylaws' writing, convicted felons, people convicted of cert
 
 Should any member in a leadership role learn that a member is in possession of a firearm unlawfully, that leader will restrict the member from participating in firearm-related activities until the situation can be discussed with the member and resolved.
 
-Guests of members (limited to 2 guests per member) and/or members of guest organizations may be permitted to attend range days or other firearms related trainings or events, provided that they have not been barred by the chapter due to misconduct.
+Guests of members (limited to 2 guests per member) and/or members of guest organizations may be permitted to attend range days or other firearms related trainings or events, at the discretion of the event organizer, provided that they have not been barred by the chapter due to misconduct.
 
 ### **SUBSECTION ONE: ENVIRONMENTAL STEWARDSHIP**
 
@@ -234,8 +234,7 @@ The Liaison shall publish the proposed agenda of the Chapter meeting on internal
 
 For each Event, there shall be one Sponsor. There shall not be Events without Sponsors. Sponsors shall be members willing to take on the responsibility of managing logistics, communication, coordination and safety for the Event. The Sponsor shall also be responsible for concluding the event.
 
-\[Here's some suggested language from the TN chapter, edited by Jon\]  
-Events shall be planned by the appropriate committee with sufficient notice given to membership for their attendance and consideration. Due to the geographic size of the chapter, the appropriate committee shall make a concerted effort to ensure proportional and fair geographic representation.
+The Sponsor may appoint volunteers for event roles as needed, e.g. greeter, instructor, medic, etc.
 
 ## **SECTION THREE: SPECIAL EVENTS**
 
@@ -245,13 +244,6 @@ The Chapter may participate in an official capacity, in part or in whole, in eve
 
 Neither the Chapter nor the Organization need officially sanction membership involvement in ongoing projects that align with the overall mission of the Organization in their community as individuals, and therefore they shall not be conducted under either the Chapter or Organization's name. However, members should feel encouraged to seek out and assist with these projects, and should be encouraged to report on their experiences in General Meetings.
 
-### **SUBSECTION TWO: ENDORSEMENT OF UNAFFILIATED ACTION**
-
-\[Language by Rosa of the SF Bay Chapter and Gloria of the DFW chapter\] \[Optional\] If a full member of the Chapter would like to propose that we endorse/support an action or project, they must write up at least a few sentences of background of what the event is that they would be endorsing; as well as what the Chapters endorsement will mean, what resources the Chapter will be committing, and what specific tasks the Chapter will need to fulfill.
-
-The proposal must be shared on the Chapter's main communication platform and allow for comments, suggestions, and amendments by members. At the next chapter meeting, members will discuss the proposal, after which the Chapter will take it to a vote.
-
-For events that are time-sensitive, members will have 72 hours after the proposal is posted. The proposal must be posted in the Chapter's main communication platform and/or via email, with every member being notified. If there is significant controversy, then the endorsement must be postponed until a reasonable consensus has been reached. Events that are considered non-controversial can be voted on by request of the proposer after a discussion period is held.
 
 # **ARTICLE SIX: COMMITTEES**
 
@@ -267,7 +259,7 @@ Following the interview, the members of the Committee that conducted the intervi
 
 The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members with advanced, professional knowledge of firearms safety. Examples of this include, but are not limited to firearms instructors, firearms competitors, and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
 
-The FTC shall provide at least one Representative for each Range Day. This shall be distinct from the Sponsor of the Event (see Article Two, Section Two, Paragraph Two); the purpose of the Representative is to offer guidance and oversight to the Sponsor, in the interest of member welfare. At Camping Trips, due to the complicated and remote nature of the Event, the on-site members of the FTC as a whole shall fulfill the duties of the Sponsor and Representative.
+The FTC shall provide at least one Representative for each Range Day. This shall be distinct from the Sponsor of the Event (see Article Two, Section Two, Paragraph Two); the purpose of the Representative is to offer guidance and oversight to the Sponsor, in the interest of member welfare.
 
 The FTC shall also approve the guests of members attending a Range Day, as stipulated in Article Two, Section Two, Subsection One.
 
@@ -277,7 +269,7 @@ Pursuant to Article One, Section Three, the FTC shall take attendance at each ev
 
 ## **SECTION THREE: CHAPTER MEMBER WELFARE COMMITTEE**
 
-The Chapter Member Welfare Committee shall be formed as stipulated in Article One, Section Four. It shall be dissolved when it is determined by the CMWC or the affected person that the situation is stable.
+The Chapter Member Welfare Committee shall be formed as stipulated in Article One, Section Four. The CCC may appoint a CMWC chair (or multiple co-chairs) tasked with fielding CMWC reports and coordinating formation of CMWC as needed. Asids from the CMWC chair(s), the committee shall be dissolved when it is determined by the CMWC or the affected person that the situation is stable.
 
 ## **SECTION FOUR: OTHER COMMITTEES**
 
@@ -289,7 +281,7 @@ All policies and procedures not documented in the Bylaws, or which need further 
 
 # **ARTICLE EIGHT: INOPERABLE CLAUSE**
 
-In the event that the Chapter is rendered nonfunctional due to consistent lack of quorum or the consistent absence of leadership, any member of the CCC may invoke the ratification procedure of the Chapter's charter with a one month waiting period and all reasonable effort will be taken to notify current members that the Chapter will be doing so.
+In the event that the Chapter is rendered nonfunctional due to consistent lack of quorum or the consistent absence of leadership, any member of the CCC may invoke the deratification procedure of the Chapter's charter with a one month waiting period and all reasonable effort will be taken to notify current members that the Chapter will be doing so.
 
 # **ARTICLE NINE: RATIFICATION**
 
