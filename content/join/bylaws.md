@@ -13,7 +13,7 @@ hidden = true
 
 The Puget Sound Socialist Rifle Association is a chapter of the Socialist Rifle Association. References to the Socialist Rifle Association or "Organization" are to the national umbrella organization, whereas references to the Chapter refer to the Puget Sound Socialist Rifle Association. This Chapter recognizes the supremacy of the Socialist Rifle Association bylaws, as ratified by the Membership of Socialist Rifle Association, and pledges to act in accordance with the Bylaws of the Socialist Rifle Association.
 
-Unless otherwise specified, language referencing membership shall be interpreted to mean dues-paying or recognized dues waived members of the SRA within the jurisdiction of the chapter, or Local Comrades of the chapter.
+Unless otherwise specified, language referencing membership shall be interpreted to mean dues-paying or recognized dues waived members of the SRA within the jurisdiction of the Chapter, or Local Comrades of the Chapter.
 
 # ARTICLE ONE: CORE FUNCTIONS
 
@@ -37,13 +37,13 @@ We stand against the disarmament of the working class. We are dedicated to armin
 
 The Chapter will cover the State of Washington.
 
-Comrades in Clark County, Washington may choose to join the Portland chapter of the SRA instead of the Puget Sound chapter. Portland SRA vetting/ascension will not be reciprocal with Puget Sound SRA. Comrades on the Portland SRA roster may choose to become Local Comrade members of the Puget Sound SRA to gain access to Puget Sound SRA vetting, events, and resources.
+Comrades in Clark County, Washington may choose to join the Portland Chapter of the SRA instead of the Puget Sound chapter. Portland SRA vetting/ascension will not be reciprocal with Puget Sound SRA. Comrades on the Portland SRA roster may choose to become Local Comrade members of the Puget Sound SRA to gain access to Puget Sound SRA vetting, events, and resources.
 
 Comrades in the state of Idaho who lack a local SRA chapter may choose to join Puget Sound SRA.
 
 ### SUBSECTION TWO: REGIONAL JURISDICTION
 
-The chapter shall subdivide the state into 5 regions, which represent the greater geographically distinct areas of the state: Central, North, South, Peninsula, and East. Any of the 5 sections of the state may separate from the Puget Sound SRA and form their own regional chapter under 4 conditions: 1) The proposed regional chapter is able to create their own chapter with operational functionality which meets the needs of their distinct region, 2) the separation of the region into a separate chapter does not impede the function of the Puget Sound SRA as a whole 3) the Puget Sound SRA approves the separation by a vote with not less than 85% approval 4) The separation is approved by the Governing Body of the SRA.
+The Chapter shall subdivide the state into 5 regions, which represent the greater geographically distinct areas of the state: Central, North, South, Peninsula, and East. Any of the 5 rections of the Chapter may separate from the Puget Sound SRA and form their own regional chapter under 4 conditions: 1) The proposed regional chapter is able to create their own chapter with operational functionality which meets the needs of their distinct region, 2) the separation of the region into a separate chapter does not impede the function of the Chapter as a whole, 3) the Chapter membership approves the separation with a Bylaws amendment by a vote with not less than two-thirds approval, 4) The separation is approved by the Governing Body of the SRA.
 
 The jurisdiction of the five regions shall be as follows:
 
@@ -59,9 +59,9 @@ East region shall include the following counties: Okanogan, Chelan, Kittitas, Ya
 
 Comrades in Idaho will be associated with East region.
 
-Membership of the regions shall be established upon membership of the greater chapter.
+Membership of the regions shall be granted with membership of the greater chapter.
 
-In the event of a split, regions, which have not formed their own chapter, shall continue their relationship as members of the chapter at large.
+In the event of a split, regions which have not formed their own chapter shall continue their relationship as members of the Chapter.
 
 At the point that all 5 regions described herein are able to form their own chapters and have done so under the process described herein, the Puget Sound Chapter of the SRA shall dissolve and the individual chapters shall control their distinct regions under new bylaws according to and approved by the bylaws of the SRA.
 
@@ -69,13 +69,13 @@ At the point that all 5 regions described herein are able to form their own chap
 
 ## SECTION ONE: CODE OF CONDUCT
 
-Members are expected to follow basic rules of conduct while at meetings or at events being hosted or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to a vote to expel the member as outlined in these bylaws.
+Members are expected to follow basic rules of conduct while at meetings or at events being hosted or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
 
 ## SECTION TWO: MEMBERSHIP CONDUCT
 
 Members are expected to be respectful to others at all times. Feuding and fighting does not benefit the organization or the movement.
 
-Members will not make any public statement on behalf of the chapter as a whole without the unanimous consent of the CCC and/or unanimous consent of all Chapter members not serving on the CCC.
+Members will not make any public statement on behalf of the chapter as a whole without the consent of the CCC and/or unanimous consent of all Chapter members not serving on the CCC.
 
 Members will not violate the privacy of any members by committing acts such as, but not limited to: sharing personal, identifying information of other members and posting or sharing photos or videos exposing the identity of other members. If members wish to share information about other members, they are expected to only act upon the explicit consent of the members to be identified.
 
@@ -87,7 +87,7 @@ Not adhering to a purely socialistic ideology is not grounds for expulsion from 
 
 Harassing, menacing, violent, or retaliatory behaviors of any kind will not be tolerated. Sexual harassment is defined as unwelcome conduct of a sexual nature which makes a person feel offended, humiliated, or intimidated and will not be tolerated. Any expression of sexual harassment and/or violence whether it be physical, verbal, or nonverbal will not be tolerated.
 
-The Chapter encourages confidential reporting of all perceived incidents of discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of discrimination, harassment, menacing, retaliation or sexual harassment to any member of the CCC, who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC, they have the right to speak directly and privately to the National Member Welfare Council. As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
+The Chapter encourages confidential reporting of all perceived incidents of discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of discrimination, harassment, menacing, retaliation or sexual harassment to any member of the CCC or CMWC Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CMWC Chair(s), they have the right to speak directly and privately to the National Member Welfare Council. As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
 
 Any individual found to be an abuser or to have engaged in harassment or expressed racist, sexist, fascist, reactionary, or exclusionary social ideologies outside of the organization will be considered for expulsion from the organization by the consensus of the membership.
 
