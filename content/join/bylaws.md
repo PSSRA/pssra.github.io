@@ -87,7 +87,7 @@ Not adhering to a purely socialistic ideology is not grounds for expulsion from 
 
 Harassing, menacing, violent, or retaliatory behaviors of any kind will not be tolerated. Sexual harassment is defined as unwelcome conduct of a sexual nature which makes a person feel offended, humiliated, or intimidated and will not be tolerated. Any expression of sexual harassment and/or violence whether it be physical, verbal, or nonverbal will not be tolerated.
 
-The Chapter encourages confidential reporting of all perceived incidents of discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of discrimination, harassment, menacing, retaliation or sexual harassment to any member of the CCC or CWC Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council (NWC). As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
+The Chapter encourages confidential reporting of all perceived incidents of misconduct, including but not limited to discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of misconduct to any member of the CCC or CWC Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council (NWC). As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
 
 Any individual found to be an abuser or to have engaged in harassment or expressed racist, sexist, fascist, reactionary, or exclusionary social ideologies outside of the organization will be considered for expulsion from the organization.
 
@@ -131,7 +131,7 @@ Members are expected to act as responsible stewards of the environment and the l
 
 Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with particular expertise or experience in the issue in this temporary subcommittee, known as the Chapter Welfare Committee (hereafter referred to as the CWC).
 
-The CCC may appoint an ongoing CWC Chair (or multiple co-chairs) with standing responsibility to collect reports and assemble and facilitate future CWMC(s).
+The CCC may appoint an ongoing CWC Chair (or multiple co-chairs) with standing responsibility to collect reports and assemble and facilitate future CWC(s).
 
 Following the conclusion of each investigation, the CWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CWC's recommendation, or shall come to a consensus on a different recommendation, which the CWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council.
 
@@ -211,6 +211,8 @@ Chapter liaison, secretary, and treasurer must, at time of taking office, be mem
 Chapter liaison, secretary, and treasurer shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to step into the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
 
 If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
+
+Chapter members may hold more than one interim CCC role, or one interim and one permanent role, but not more than one permanent role.
 
 ## SECTION TWO: LIAISON
 
