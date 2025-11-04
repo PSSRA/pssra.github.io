@@ -262,7 +262,7 @@ The Event Organizer may appoint volunteers for event roles as needed, e.g. greet
 
 ## SECTION THREE: SPECIAL EVENTS
 
-The Chapter may participate in an official capacity, in part or in whole, in events organized by other organizations which support the Chapter's core mission of empowering marginalized communities. Participation in these events must be approved by the Chapter membership at a General Meeting. Said other organizations shall not have positions which run counter to the Organization or Chapter's mission; if it is determined that this is the case, the Chapter is empowered to cease involvement in the event immediately.
+The Chapter may participate in an official capacity, in part or in whole, in events organized by other organizations which support the Chapter's core mission of empowering marginalized communities. Participation in these events must be approved by CCC. Said other organizations shall not have positions which run counter to the Organization or Chapter's mission; if it is determined that this is the case, the Chapter is empowered to cease involvement in the event immediately.
 
 ### SUBSECTION ONE: UNAFFILIATED COALITION WORK
 
