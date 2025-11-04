@@ -95,9 +95,9 @@ When any member is expelled from the organization for misconduct, announcement o
 
 ### SUBSECTION TWO: USE OF MIND-ALTERING SUBSTANCES
 
-Use of, or being under the influence of, alcohol and/or other mind altering recreational substances is prohibited at in-person Chapter sponsored events including but not limited to general meetings, skills workshops, and range days. It is each member's own responsibility to ensure they are physically and mentally capable of safely operating a firearm.
+Use of, or being under the influence of, alcohol and/or other mind-altering recreational substances is prohibited at in-person Chapter-sponsored events including but not limited to general meetings, skills workshops, and range days. It is each member's own responsibility to ensure they are physically and mentally capable of safely operating a firearm.
 
-However, the presence and consumption of alcoholic drinks is allowed during Chapter sponsored social events only if the following criteria are met: (1) Absolutely no firearms, ammunition, or firearms parts are present, including concealed carry, (2) a general consensus is met by the attending members for the allowance of alcoholic drinks, and (3) the member(s) providing the alcoholic drink notifies the membership what they will be bringing prior to the event.
+However, the presence and consumption of alcoholic drinks are allowed during Chapter sponsored social events only if the following criteria are met: (1) Absolutely no firearms, ammunition, or firearms parts are present, including concealed carry, (2) a general consensus is met by the attending members for the allowance of alcoholic drinks, and (3) the member(s) providing the alcoholic drink notifies the membership what they will be bringing prior to the event.
 
 ## SECTION THREE: FIREARM CONDUCT
 
