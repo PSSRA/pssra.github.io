@@ -200,7 +200,7 @@ They shall distribute all significant updates and news from the Organization to 
 
 The Secretary shall maintain the Chapter member roster. They shall maintain the processes for new chapter membership. They shall oversee monitoring of the National Forum and Chapter email inbox for new members. They shall certify votes of the Chapter and ensure members receive sufficient correspondence regarding events and votes of the Chapter. They shall ensure that all Chapter members will have access to the Washington section of the National Forum.
 
-**SECTION FOUR: TREASURER**
+## **SECTION FOUR: TREASURER**
 
 The Treasurer shall submit receipts to the National Financial Director for all expenditures by the Chapter. They shall maintain a ledger of the Chapter's expenditures and revenues and submit an annual report thereof every January to the Financial Director. The Treasurer shall duly execute purchases authorized by the Chapter membership, as discussed at a Chapter meeting.
 
@@ -210,7 +210,7 @@ The Treasurer shall be responsible for recording and accounting for any property
 
 They shall fulfill the Treasurer role specified in the Organization Bylaws under Article Eight, Section Six, Subsection Three.
 
-**SECTION FIVE: REMOVAL**
+## **SECTION FIVE: REMOVAL**
 
 Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by 1) a petition from one fifth of the membership 2) a vote of no confidence from the Assembly of the Organization, or 3) removal by the Welfare Council of the Organization.
 
@@ -243,7 +243,7 @@ The Chapter may participate in an official capacity, in part or in whole, in eve
 
 Neither the Chapter nor the Organization need officially sanction membership involvement in ongoing projects that align with the overall mission of the Organization in their community as individuals, and therefore they shall not be conducted under either the Chapter or Organization's name. However, members should feel encouraged to seek out and assist with these projects, and should be encouraged to report on their experiences in General Meetings.
 
-**SUBSECTION TWO: ENDORSEMENT OF UNAFFILIATED ACTION**
+### **SUBSECTION TWO: ENDORSEMENT OF UNAFFILIATED ACTION**
 
 \[Language by Rosa of the SF Bay Chapter and Gloria of the DFW chapter\] \[Optional\] If a full member of the Chapter would like to propose that we endorse/support an action or project, they must write up at least a few sentences of background of what the event is that they would be endorsing; as well as what the Chapters endorsement will mean, what resources the Chapter will be committing, and what specific tasks the Chapter will need to fulfill.
 
