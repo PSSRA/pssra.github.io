@@ -5,7 +5,7 @@ title = 'PSSRA Bylaws'
 hidden = true
 +++ -->
 
-BYLAWS OF THE PUGET SOUND SOCIALIST RIFLE ASSOCIATION
+# BYLAWS OF THE PUGET SOUND SOCIALIST RIFLE ASSOCIATION
 
 *Amended through \[Insert Date Here\]*
 
