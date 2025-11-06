@@ -186,7 +186,7 @@ A member or local comrade may lose their role in the Chapter by resigning or by 
 
 Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter Welfare Committee with majority approval and 50% quorum from CCC after a discussion period of no less than 48 hours following CWC recommendation. Under emergency circumstances, including but not limited to threat to well-being of members, the Organization, or the Chapter, the CWC may remove access to Chapter resources during this discussion period.
 
-Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events. This expulsion shall be reversed when the situation is resolved.
+Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events. This expulsion shall be reversed when the situation is resolved. The CCC and Vetting Chair may institute a polycy whereby after a specified period of membership lapse the member must undergo re-vetting.
 
 If a national member is expelled from the chapter for disciplinary reasons, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
