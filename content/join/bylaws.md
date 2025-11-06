@@ -244,9 +244,15 @@ Local Officers of the CCC may only access Organization memebership records or Ch
 
 ## SECTION FOUR: REMOVAL
 
+This section shall apply to roles as they pertain to this Chapter. Removal from any nationally elected position shall follow the Bylaws of the Organization.
+
+### SUBSECTION ONE: ELECTED OFFICERS
+
+This subection applies to leadership roles filled by an election by Chapter full members and local comrades.
+
 Any member in a leadership position elected by the membership of the Chapter may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
 
-1. a petition from one fifth of vetted membership,
+1. a petition from one fifth of full Chapter membership,
 2. a vote of no confidence from the Chapter Central Committee,
 3. a vote of no confidence from the Governing Body of the Organization, or 
 4. removal by the Welfare Council of the Organization.
@@ -255,9 +261,11 @@ If the elected individual has lost eligibility to be in their position on ground
 
 If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote.
 
-Any member in a leadership position appointed by the CCC (including interim National Officers of the CCC) may be removed from their position for dereliction of duty, misconduct, or loss of eligibility. This removal shall be effective immediately upon majority approval of the remainder of the CCC.
+### SUBSECTION TWO: APPOINTED OFFICERS
 
-This section shall apply to roles as they pertain to this Chapter. Removal from any nationally elected position shall follow the Bylaws of the Organization.
+This subsection applies to leadership roles filled by appointment by a majority vote of the CCC.
+
+Any member in a leadership position appointed by the CCC (including interim National Officers of the CCC) may be removed from their position for dereliction of duty, misconduct, or loss of eligibility. This removal shall be effective immediately upon majority approval of the remainder of the CCC.
 
 # ARTICLE FIVE: MEETINGS
 
