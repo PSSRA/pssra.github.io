@@ -87,7 +87,7 @@ Not adhering to a purely socialistic ideology is not grounds for expulsion from 
 
 Harassing, menacing, violent, or retaliatory behaviors of any kind will not be tolerated. Sexual harassment is defined as unwelcome conduct of a sexual nature which makes a person feel offended, humiliated, or intimidated and will not be tolerated. Any expression of sexual harassment and/or violence whether it be physical, verbal, or nonverbal will not be tolerated.
 
-The Chapter encourages confidential reporting of all perceived incidents of misconduct, including but not limited to discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of misconduct to any member of the CCC or CWC Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council (NWC). As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
+The Chapter encourages confidential reporting of all perceived incidents of misconduct, including but not limited to discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of misconduct to any member of the CCC or to the Chapter Welfare Committee (hereafter, CWC) Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council (NWC). As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
 
 Any individual found to be an abuser or to have engaged in harassment or expressed racist, sexist, fascist, reactionary, or exclusionary social ideologies outside of the organization will be considered for expulsion from the organization.
 
@@ -178,7 +178,7 @@ The CCC may elect to gate some non-educational Chapter resources and discussion 
 
 All Chapter members must remain in good standing with the Organization, and continue to appear on rosters as provided from the Organization to the Chapter Secretary.
 
-Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer, or request waivers of same, with written procedures for doing so established by the Chapter Treasurer and available to all members.
+Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer and approved by the CCC, or request waivers of same, with written procedures for doing so established by the Chapter Treasurer and approved by the CCC and available to all members.
 
 ### SUBSECTION FOUR: EXPULSION
 
@@ -208,7 +208,7 @@ The following positions will form the Chapter Central Committee (hereafter refer
 
 ## SECTION TWO: NATIONAL OFFICES OF THE CCC
 
-Chapter liaison, secretary, and treasurer are the National offices of the CCC. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
+Chapter liaison, secretary, and treasurer are the National offices of the CCC, required by Organization bylaws for each chapter. If the Organization requires additional offices for a chapter, that position shall be added to the Chapter Central Committee and to this section. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
 
 If any of the National Office CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim National Office CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
 
