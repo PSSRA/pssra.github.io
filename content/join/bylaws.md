@@ -204,13 +204,13 @@ Bylaws may be amended, added, or removed by a two-thirds majority vote by the me
 
 ## SECTION ONE: STATEMENT OF INTENT
 
-The following positions will form the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Any deputies will become members of the CCC. Access to membership information from the Organization and any personally identifiable information (PII) collected by the Chapter requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
+The following positions will form the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and establish deputy roles as their position demands. Any deputies will become members of the CCC. Access to membership information from the Organization and any personally identifiable information (PII) collected by the Chapter requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
 
 ## SECTION TWO: NATIONAL OFFICES OF THE CCC
 
-Chapter liaison, secretary, and treasurer are the National offices of the CCC, required by Organization bylaws for each chapter. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
+Chapter liaison, secretary, and treasurer are the **National offices of the CCC**, those required by Organization bylaws for each chapter. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
 
-If any of the National Office CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim National Office CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
+If any of the National Offices of the CCC become vacant via resignation or expulsion, an interim member may be appointed to the office without election by remaining CCC members. Interim National Office CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may receive nominations or self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
 
 National offices of the CCC shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
 
@@ -224,7 +224,7 @@ They shall distribute all significant updates and news from the Organization to 
 
 ### SUBSECTION TWO: SECRETARY
 
-The Secretary shall maintain the Chapter member roster. They shall maintain the processes for new chapter membership. They shall oversee monitoring of the National communications platforms and Chapter email inbox for new members. They shall certify votes of the Chapter and ensure members receive sufficient correspondence regarding events and votes of the Chapter. They shall ensure that all Chapter members will have access to the Washington section of the National Forum.
+The Secretary shall maintain the Chapter member roster. They shall maintain the processes for new chapter membership. They shall oversee monitoring of the National communications platforms and Chapter email inbox for new members. They shall certify votes of the Chapter and ensure members receive sufficient correspondence regarding events and votes of the Chapter. They shall maintain records of vetting status of National members through correspondence with the Organization as the Organization requires.
 
 ### SUBSECTION THREE: TREASURER
 
@@ -238,9 +238,9 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 
 ## SECTION THREE: OTHER LEADERSHIP ROLES
 
-Regional administrators, CWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+Regional administrators, CWC Chair(s), facilitators of committees (both enumerated and not enumerated in the Chapter Bylaws), and their deputies will form the **Local Offices of the CCC** and constitute the remainder of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
-Other non-National-office members of the CCC may only access Organization memebership records or Chapter records containing member PII if the CCC member is a member of the Organization and has signed a non-disclosure agreement as described above.
+Local Officers of the CCC may only access Organization memebership records or Chapter records containing member PII if the Local Officer is a national member of the Organization and has signed a non-disclosure agreement as described above.
 
 ## SECTION FOUR: REMOVAL
 
@@ -266,7 +266,7 @@ The Liaison shall publish the proposed agenda of the Chapter meeting on internal
 
 ## SECTION TWO: EVENT PLANNING
 
-For each Event, there shall be one Event Organizer. There shall not be Events without Event Organizers. Event Organizers shall be members willing to take on the responsibility of managing logistics, communication, coordination and safety for the Event. The Event Organizer shall also be responsible for concluding the event.
+For each Chapter Event, there shall be one Event Organizer. There shall not be Events without Event Organizers. Event Organizers shall be members willing to take on the responsibility of managing logistics, communication, coordination and safety for the Event. The Event Organizer shall also be responsible for concluding the event.
 
 The Event Organizer may appoint volunteers for event roles as needed, e.g. greeter, instructor, medic, etc.
 
@@ -285,13 +285,13 @@ Neither the Chapter nor the Organization need officially sanction membership inv
 
 ## SECTION ONE: VETTING COMMITTEE
 
-The Vetting Committee shall be chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members of the Chapter. (See Article Two, Section Six, Subsection One.) One member of the Vetting Committee shall be a senior member of the Committee. A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
+The Vetting Committee shall be chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members of the Chapter. (See Article Two, Section Six, Subsection One.) One member of the Vetting Committee for each interview shall be a senior member of the Committee. A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
 
 ## SECTION TWO: FIREARMS TRAINING COMMITTEE
 
 The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members with advanced knowledge of firearms safety and proficiency. Examples of this include, but are not limited to, firearms instructors and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
 
-The FTC shall provide at least one Representative for each Chapter Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see Article Five, Section Two). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be range safety officer(s) for the event.
+The FTC shall provide at least one Representative for each Chapter Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see Article Five, Section Two). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be the lead range safety officer(s) for the event.
 
 The FTC representative(s) are responsible for monitoring for unsafe behavior at firearms classes and range days, and shall be tasked with preventing unsafe behavior and removing unsafe individuals to the best of their ability.
 
