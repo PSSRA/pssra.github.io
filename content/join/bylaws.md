@@ -204,27 +204,29 @@ Bylaws may be amended, added, or removed by a two-thirds majority vote by the me
 
 ## SECTION ONE: STATEMENT OF INTENT
 
-The following positions will form the core of the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Access to membership information from the Organization requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
+The following positions will form the core of the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Access to membership information from the Organization and any personally identifiable information (PII) collected by the Chapter requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
 
-Chapter liaison, secretary, and treasurer are the National offices of the CCC. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or National records, or National communication platforms.
+## SECTION TWO: NATIONAL OFFICES OF THE CCC
 
-Chapter liaison, secretary, and treasurer shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to step into the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
+Chapter liaison, secretary, and treasurer are the National offices of the CCC. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
 
-If any of the CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim CCC members are subject to the same requirements as permanent members. Interim CCC members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
+If any of the National Office CCC roles become vacant via resignation or expulsion, an interim CCC member may be appointed without election by remaining CCC members. Interim National Office CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
+
+National offices of the CCC shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
 
 Chapter members may hold more than one interim National office CCC role, or one interim and one permanent role, but not more than one permanent role.
 
-## SECTION TWO: LIAISON
+### SUBSECTION ONE: LIAISON
 
 The Liaison shall be the organizer of the Chapter, principally responsible for the organizing of meetings and the setting of agendas.
 
 They shall distribute all significant updates and news from the Organization to the Chapter, and attend any communicative meetings with national organizers.
 
-## SECTION THREE: SECRETARY
+### SUBSECTION TWO: SECRETARY
 
 The Secretary shall maintain the Chapter member roster. They shall maintain the processes for new chapter membership. They shall oversee monitoring of the National communications platforms and Chapter email inbox for new members. They shall certify votes of the Chapter and ensure members receive sufficient correspondence regarding events and votes of the Chapter. They shall ensure that all Chapter members will have access to the Washington section of the National Forum.
 
-## SECTION FOUR: TREASURER
+### SUBSECTION THREE: TREASURER
 
 The Treasurer shall submit receipts to the National Financial Director for all expenditures by the Chapter. They shall maintain a ledger of the Chapter's expenditures and revenues and submit an annual report thereof every January to the Financial Director. The Treasurer shall duly execute purchases authorized by the Chapter membership, as discussed at a Chapter meeting.
 
@@ -234,11 +236,11 @@ The Treasurer shall be responsible for recording and accounting for any property
 
 They shall fulfill the Treasurer role specified in the Organization Bylaws under Article Eight, Section Six, Subsection Three.
 
-## SECTION FIVE: OTHER LEADERSHIP ROLES
+## SECTION THREE: OTHER LEADERSHIP ROLES
 
 Regional administrators, CWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
-## SECTION SIX: REMOVAL
+## SECTION FOUR: REMOVAL
 
 Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
 
