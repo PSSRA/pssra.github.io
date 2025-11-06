@@ -316,11 +316,11 @@ The Chapter Welfare Committee (CWC) shall be formed on an as-needed basis as sti
 
 ## SECTION FOUR: OTHER COMMITTEES
 
-Other committees may be established or dissolved by the CCC at any time without amendment to the Bylaws.
+Other committees may be established or dissolved by simple majority vote of the CCC at any time without amendment to the Bylaws.
 
 # ARTICLE SEVEN: OTHER POLICIES AND PROCEDURES
 
-All policies and procedures not documented in the Bylaws, or which need further elaboration, may be decided upon by a simple majority vote of CCC and shall be documented internally. These policies and procedures of the Chapter shall be accessible to full members and the Governing Body of the Organization and its officers but will otherwise remain confidential.
+All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any CCC member, recorded internally, and enacted by a simple majority vote of CCC. These documented policies and procedures of the Chapter shall be accessible to full members, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or deprecated by simple majority votes of the CCC.
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE
 
@@ -328,6 +328,6 @@ In the event that the Chapter is rendered nonfunctional due to consistent lack o
 
 # ARTICLE NINE: RATIFICATION
 
-Pursuant to Article 10 of the revised Socialist Rifle Association Bylaws, the Puget Sound Socialist Rifle Association formally ratified these bylaws on [insert ratification date here]. With X ayes and X nays, were witnessed by the Chapter Secretary TBD. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on [insert recognition date here].
+Pursuant to Article Ten of the revised Socialist Rifle Association Bylaws, the Puget Sound Socialist Rifle Association formally ratified these bylaws on [insert ratification date here]. With X ayes and X nays, were witnessed by the Chapter Secretary TBD. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on [insert recognition date here].
 
 # ARTICLE TEN: AMENDMENTS
