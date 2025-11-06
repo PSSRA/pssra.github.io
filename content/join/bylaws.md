@@ -204,7 +204,7 @@ Bylaws may be amended, added, or removed by a two-thirds majority vote by the me
 
 ## SECTION ONE: STATEMENT OF INTENT
 
-The following positions will form the core of the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Access to membership information from the Organization and any personally identifiable information (PII) collected by the Chapter requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
+The following positions will form the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and deputy roles as their position demands. Any deputies will become members of the CCC. Access to membership information from the Organization and any personally identifiable information (PII) collected by the Chapter requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
 
 ## SECTION TWO: NATIONAL OFFICES OF THE CCC
 
@@ -239,6 +239,8 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 ## SECTION THREE: OTHER LEADERSHIP ROLES
 
 Regional administrators, CWC Chair(s), and facilitators of committees not enumerated in the Chapter Bylaws will be part of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+
+Other non-National-office members of the CCC may only access Organization memebership records or Chapter records containing member PII if the CCC member is a member of the Organization and has signed a non-disclosure agreement as described above.
 
 ## SECTION FOUR: REMOVAL
 
