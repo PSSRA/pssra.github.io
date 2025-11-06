@@ -244,15 +244,18 @@ Local Officers of the CCC may only access Organization memebership records or Ch
 
 ## SECTION FOUR: REMOVAL
 
-Any member in a leadership position may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
+Any member in a leadership position elected by the membership of the Chapter may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
 
 1. a petition from one fifth of vetted membership,
-2. a vote of no confidence from the Governing Body of the Organization, or 
-3. removal by the Welfare Council of the Organization.
+2. a vote of no confidence from the Chapter Central Committee,
+3. a vote of no confidence from the Governing Body of the Organization, or 
+4. removal by the Welfare Council of the Organization.
 
-If the individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the remainder of the CCC.
+If the elected individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the remainder of the CCC.
 
-If the individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote.
+If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote.
+
+Any member in a leadership position appointed by the CCC (including interim National Officers of the CCC) may be removed from their position for dereliction of duty, misconduct, or loss of eligibility. This removal shall be effective immediately upon majority approval of the remainder of the CCC.
 
 This section shall apply to roles as they pertain to this Chapter. Removal from any nationally elected position shall follow the Bylaws of the Organization.
 
