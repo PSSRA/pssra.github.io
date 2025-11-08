@@ -71,6 +71,8 @@ At the point that all 5 regions described herein are able to form their own chap
 
 Members are expected to follow basic rules of conduct while at events being hosted or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
 
+Detailed community guidelines shall be published publicly and made available to all members and local comrades of the Chapter. These may be amended by a majority vote of leadership.
+
 ## SECTION TWO: MEMBERSHIP CONDUCT
 
 Members are expected to be respectful to others at all times. Feuding and fighting does not benefit the organization.
