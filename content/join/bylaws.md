@@ -71,7 +71,7 @@ At the point that all 5 regions described herein are able to form their own chap
 
 Members are expected to follow basic rules of conduct while at events being hosted or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
 
-Detailed community guidelines shall be published publicly and made available to all members and local comrades of the Chapter. These may be amended by a majority vote of leadership.
+Detailed rules and community guidelines shall be published publicly and made available to all members and local comrades of the Chapter. These rules and guidelines may be amended by a majority vote of leadership. These rules shall not conflict with the code of conduct outlined in this Section of Chapter Bylaws or Article 3, Section 3 of the Organization Bylaws.
 
 ## SECTION TWO: MEMBERSHIP CONDUCT
 
@@ -159,6 +159,8 @@ These measures should not be considered mutually exclusive by default, and in al
 Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
 
 Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the CCC) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylaws pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
+
+The Chapter Central Committee may set forth additional membership requirements and prohibitions in the form of ongoing policy resolutions, to be approved by a majority vote of the CCC.
 
 ### SUBSECTION ONE: PROVISIONAL MEMBER ASCENSION
 
