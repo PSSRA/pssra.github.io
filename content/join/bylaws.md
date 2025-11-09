@@ -279,4 +279,4 @@ In the event that the Chapter is rendered nonfunctional due to consistent lack o
 
 Pursuant to Article Ten of the revised Socialist Rifle Association Bylaws, the Puget Sound Socialist Rifle Association formally ratified these bylaws on [insert ratification date here]. With X ayes and X nays, were witnessed by the Chapter Secretary TBD. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on [insert recognition date here].
 
-# ARTICLE TEN: AMENDMENTS
+# ARTICLE TEN: AMENDMENTS TO THE BYLAWS
