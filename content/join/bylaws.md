@@ -112,9 +112,9 @@ Members are empowered with certain rights within the Chapter. All members shall 
 2. To interact and participate in a harassment-free and inclusive environment.
 3. To participate in any organization or political party that does not violate any section of these bylaws.
 4. To not participate in any organization or political party that the member does not wish to be a part of or otherwise take actions with.
-5. To petition the Chapter Central Committee on any matter concerning the organization, anonymously or named, and to receive a response to the petition.
-6. To participate and vote in any Chapter-wide elections, or region-wide elections for regions in which they primarily reside.
-7. To hold office in the Chapter Central Committee for which they meet the administrative requirements.
+5. To petition the Chapter Central Committee on any matter concerning the Chapter, anonymously or named, and to receive a response to the petition.
+6. To participate and vote in any Chapter-wide elections, or region-wide elections for Chapter regions in which the member primarily resides.
+7. To hold office in the Chapter Central Committee for which the member meets the administrative requirements.
 8. To participate in any binding petition measures to pass a resolution or amendment to the Bylaws.
 
 ## SECTION FIVE: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
@@ -206,7 +206,7 @@ Any member in a leadership position elected by the membership of the Chapter may
 
 If the elected individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the remainder of the CCC.
 
-If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote.
+If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote. For National Offices of the CCC, only national organization members will participate in the removal vote.
 
 ### SUBSECTION TWO: APPOINTED OFFICERS
 
