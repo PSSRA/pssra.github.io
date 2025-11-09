@@ -106,7 +106,7 @@ All members are expected to comply with the following standards of conduct:
 
 ## SECTION FOUR: MEMBER RIGHTS 
 
-Members are empowered with certain rights within the Chapter and Organization. All members shall be entitled to the following rights:
+Members are empowered with certain rights within the Chapter. All members shall be entitled to the following rights:
 
 1. To know the outcomes of any formal votes of the Chapter, to include a summary of the measure as well as the number of yays, nays, and abstains on the measure.
 2. To interact and participate in a harassment-free and inclusive environment.
@@ -117,17 +117,17 @@ Members are empowered with certain rights within the Chapter and Organization. A
 7. To hold office in the Chapter Central Committee for which they meet the administrative requirements.
 8. To participate in any binding petition measures to pass a resolution or amendment to the Bylaws.
 
-## SECTION THREE: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
+## SECTION FIVE: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
 
 The CCC may elect to gate some non-educational Chapter resources and discussion fora behind attending an in-person educational event, requirements for which are at the CCC and firearms training committee's discretion. At the CCC and firearms training committees discretion, the CCC may choose an expiration period after a member's last in-person class attendance at which time the member loses access to these non-educational resources.
 
-## SECTION FOUR: GOOD STANDING
+## SECTION SIX: GOOD STANDING
 
 All Chapter members of the national Organization must remain in good standing with the Organization, and continue to appear on rosters as provided from the Organization to the Chapter Secretary.
 
 Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer and approved by the CCC, or request waivers of same, with written procedures for doing so established by the Chapter Treasurer and approved by the CCC and available to all members.
 
-## SECTION FIVE: EXPULSION
+## SECTION SEVEN: EXPULSION
 
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
 
@@ -137,15 +137,15 @@ Administrative expulsion (temporary or permanent) may be enacted by the Secretar
 
 If a national member is expelled from the chapter for disciplinary reasons, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
-## SECTION SIX: VOTING
+## SECTION EIGHT: VOTING
 
-Voting may take place for (a) installation or removal of chapter officers, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All votes concerning leadership will be held confidentially. It is at the discretion of the leadership on how to hold a vote, however any member can request a confidential vote for any reason, at which time the leadership will provide a mechanism for it.
+Voting may take place for (a) installation or removal of chapter officers, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All contested officer elections and any votes on elected officer removal will be held confidentially. It is otherwise at the discretion of the CCC on how to hold a vote.
 
 There shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
 # ARTICLE THREE: AMENDMENTS
 
-Bylaws may be amended, added, or removed by a two-thirds majority vote by the membership, with quorum of no less than 25% of active vetted members. A period of at least two weeks will be given for this to be completed, and all available communication methods shall be utilized to solicit responses.
+Bylaws may be amended, added, or removed by a two-thirds majority vote by the membership, with quorum of no less than 25% of active vetted members. A period of at least two weeks will be given for the vote to be completed, and all available communication methods shall be utilized to solicit responses.
 
 # ARTICLE FOUR: ORGANIZERS
 
@@ -159,7 +159,7 @@ Chapter liaison, secretary, and treasurer are the **National offices of the CCC*
 
 If any of the National Offices of the CCC become vacant via resignation or expulsion, an interim member may be appointed to the office without election by remaining CCC members. Interim National Office CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may receive nominations or self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
 
-National offices of the CCC shall be elected by approval vote of the Chapter, with the candidate who receives the most approvals obtaining the position for a term of no less than one year. They may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
+National offices of the CCC shall be elected by approval vote of national members of the Chapter (those in good standing with the Organization and appearing on the last Roster provided from the Organization to the Chapter Secretary). The candidate who receives the most approvals will obtain the position for a term of no less than one year. (Local comrades of the Chapter will not vote on these offices.) These officers may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
 
 Chapter members may hold more than one interim National office CCC role, or one interim and one permanent role, but not more than one permanent role.
 
@@ -185,9 +185,9 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 
 ## SECTION THREE: OTHER LEADERSHIP ROLES
 
-Regional administrators, CWC Chair(s), facilitators of committees (both enumerated and not enumerated in the Chapter Bylaws), and their deputies will form the **Local Offices of the CCC** and constitute the remainder of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+Regional administrators, CWC Chair(s), facilitators of committees (both enumerated and not enumerated in the Chapter Bylaws), and all deputies will form the **Local Offices of the CCC** and constitute the remainder of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
-Local Officers of the CCC may only access Organization memebership records or Chapter records containing member PII if the Local Officer is a national member of the Organization and has signed a non-disclosure agreement as described above.
+Local Officers of the CCC may only access Organization membership records or Chapter records containing member PII if the Local Officer is a national member of the Organization and has signed a non-disclosure agreement as described above.
 
 ## SECTION FOUR: REMOVAL
 
@@ -267,7 +267,9 @@ Other committees may be established or dissolved by simple majority vote of the 
 
 # ARTICLE SEVEN: OTHER POLICIES AND PROCEDURES
 
-All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any CCC member, recorded internally, and enacted by a simple majority vote of CCC. These documented policies and procedures of the Chapter shall be accessible to full members, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or deprecated by simple majority votes of the CCC.
+All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any CCC member, recorded internally, and enacted by a simple majority vote of CCC. These documented policies and procedures of the Chapter shall be accessible to full members, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the CCC.
+
+A Chapter policy or procedure may be enacted, amended, or removed bypassing the CCC by a two-thirds supermajority of vetted membership of the Chapter with greater than 50% quorum of full members and local comrades.
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE
 
