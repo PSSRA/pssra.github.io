@@ -65,96 +65,10 @@ In the event of a split, regions which have not formed their own chapter shall c
 
 At the point that all 5 regions described herein are able to form their own chapters and have done so under the process described herein, the Puget Sound Chapter of the SRA shall dissolve and the individual chapters shall control their distinct regions under new bylaws according to and approved by the bylaws of the SRA.
 
-# ARTICLE TWO: CONDUCT
 
-## SECTION ONE: CODE OF CONDUCT
+# ARTICLE TWO: MEMBERSHIP
 
-Members are expected to follow basic rules of conduct while at events being hosted or participated in by the Chapter. Failure to adhere to these rules can be grounds for disciplinary action, ranging from informal warnings up to expulsion as outlined in these bylaws.
-
-Detailed rules and community guidelines shall be published publicly and made available to all members and local comrades of the Chapter. These rules and guidelines may be amended by a majority vote of leadership. These rules shall not conflict with the code of conduct outlined in this Section of Chapter Bylaws or Article 3, Section 3 of the Organization Bylaws.
-
-## SECTION TWO: MEMBERSHIP CONDUCT
-
-Members are expected to be respectful to others at all times. Feuding and fighting does not benefit the organization.
-
-Members will not make any public statement on behalf of the chapter as a whole without the consent of the Chapter Central Committee (hereafter referred to as CCC, defined in Article 4) and/or unanimous consent of all Chapter members not serving on the CCC.
-
-Members will not violate the privacy of any members by committing acts such as, but not limited to: sharing personal, identifying information of other members and posting or sharing photos or videos exposing the identity of other members. If members wish to share information about other members, they are expected to only act upon the explicit consent of the members to be identified.
-
-### SUBSECTION ONE: DISCRIMINATION, HARASSMENT, AND VIOLENCE
-
-The Socialist Rifle Association is an inclusive organization. Discrimination on the grounds of ethnicity, race, religion, sex, gender, sexual orientation, political beliefs, or disability is not allowed. Due to the fact that some political or religious beliefs are incompatible with this rule, members who voice support for fascism or other discriminatory ideologies will be sanctioned appropriately, up to and including expulsion.
-
-Not adhering to a purely socialistic ideology is not grounds for expulsion from the membership. Any individual may be a member if they agree with the core mission statement of advocating for the working class to possess arms for defense of self and the community. It should be understood, however, that the purpose of this is for socialistic ends.
-
-Harassing, menacing, violent, or retaliatory behaviors of any kind will not be tolerated. Sexual harassment is defined as unwelcome conduct of a sexual nature which makes a person feel offended, humiliated, or intimidated and will not be tolerated. Any expression of sexual harassment and/or violence whether it be physical, verbal, or nonverbal will not be tolerated.
-
-The Chapter encourages confidential reporting of all perceived incidents of misconduct, including but not limited to discrimination, harassment, menacing, retaliation, or violence, regardless of the offender's identity or position within the organization. Any member may at any time present a grievance of misconduct to any member of the CCC or to the Chapter Welfare Committee (hereafter, CWC) Chair(s), who will keep it in strict confidence. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council (NWC). As such, any offending members facing allegations of misconduct both within and without the Organization will be sanctioned appropriately, up to and including expulsion.
-
-Any individual found to be an abuser or to have engaged in harassment or expressed racist, sexist, fascist, reactionary, or exclusionary social ideologies outside of the organization will be considered for expulsion from the organization.
-
-When any member is expelled from the organization for misconduct, announcement of membership termination of said member will be announced for security reasons. This announcement will be made on approval of any other involved members at the earliest opportunity.
-
-### SUBSECTION TWO: USE OF MIND-ALTERING SUBSTANCES
-
-Use of, or being under the influence of, alcohol and/or other mind-altering recreational substances is prohibited at in-person Chapter-sponsored events including but not limited to general meetings, skills workshops, and range days. It is each member's own responsibility to ensure they are physically and mentally capable of safely operating a firearm.
-
-However, the presence and consumption of alcoholic drinks are allowed during Chapter sponsored social events only if the following criteria are met: (1) Absolutely no firearms, ammunition, or firearms parts are present, including concealed carry, (2) a general consensus is met by the attending members for the allowance of alcoholic drinks, and (3) the member(s) providing the alcoholic drink notifies the membership what they will be bringing prior to the event.
-
-## SECTION THREE: FIREARM CONDUCT
-
-Members should understand that the Socialist Rifle Association advocates for the use and responsible proliferation of firearms for the defense of self and the community. When members are using firearms at Chapter events or in personal use, they must always observe the four rules of firearms:
-
-- ASSUME LOADED: Treat all firearms as if they are loaded until personally verifying otherwise.
-
-- CONTROL MUZZLE: Never point a firearm at anything you are not willing to kill or destroy.
-
-- AWAY FROM TRIGGER: Never place your finger on the trigger until you are ready to fire.
-
-- BEYOND TARGET: Be aware of your target and what is behind it.
-
-Members must be aware of local firearm regulations and applicable laws. The Chapter will work to provide resources on these topics.
-
-At the time of these bylaws' writing, convicted felons, people convicted of certain misdemeanors, and those who have been served with a restraining order are prohibited from possessing handguns in the State of Washington until a court restores their rights. Those convicted of domestic violence also have their right to possess firearms restricted. It is the responsibility of the member to ensure they may lawfully possess a firearm and disclose to the CCC or CWC Chair(s) (see Article Two, Section Four) if this status changes.
-
-Should any member of the CCC learn that a member is in possession of a firearm unlawfully, that CCC member will report to the remainder of the CCC and/or CWC Chair(s), who will restrict the member from participating in firearm-related activities until the situation can be discussed with the member and resolved.
-
-Guests of members (limited to 2 guests per member) and/or members of guest organizations may be permitted to attend range days or other firearms related trainings or events, at the discretion of the event organizer and FTC (firearms training committee), provided that they have not been barred by the chapter due to misconduct.
-
-### SUBSECTION ONE: ENVIRONMENTAL STEWARDSHIP
-
-Members are expected to act as responsible stewards of the environment and the lands on which they meet. This includes but is not limited to packing out all trash and targets from outdoor range days or other outdoor activities, and not using firearms or setting campfires under conditions or in a way that presents the risk of starting wildfires.
-
-## SECTION FOUR: REPORTING PROCESS
-
-Members may report violations of these codes of conduct to any member of the CCC, who shall then investigate the report by questioning relevant persons. The CCC shall be empowered to include any appropriate persons with expertise or experience in the issue in this temporary subcommittee, known as the Chapter Welfare Committee (hereafter referred to as the CWC).
-
-The CCC may appoint an ongoing CWC Chair (or multiple co-chairs) with standing responsibility to collect reports and assemble and facilitate future CWC(s).
-
-Following the conclusion of each investigation, the CWC shall present a recommendation to chapter leadership of restorative action. Chapter leadership shall come to a consensus whether to execute the CWC's recommendation, or shall come to a consensus on a different recommendation, which the CWC shall duly implement. Should the member not feel comfortable presenting this grievance to the CCC or CWC Chair(s), they have the right to speak directly and privately to the National Welfare Council.
-
-All reports of misconduct and outcomes of CWC investigations will be retained in Chapter records for a period no less than three years in a location/format inaccessible to members other than CCC members under a National Organization NDA. CCC may set a records retention policy for regular purge of these reports three or more years old.
-
-## SECTION FIVE: DISCIPLINARY MEASURES
-
-The measures available to the membership for addressing violations of the Chapter's Code of Conduct shall include, but should not be considered to be limited to the following:
-
-1.  A warning to the offending person.
-
-2.  One or more restorative measures, to be completed as promptly as possible.
-
-3.  A temporary ban from interaction with the affected person(s).
-
-4.  A temporary censure from Chapter Events.
-
-5.  Temporary expulsion from the Organization.
-
-6.  Permanent expulsion from the Organization.
-
-These measures should not be considered mutually exclusive by default, and in all cases except permanent expulsion, the offender shall always have the ability to adhere to agreed-upon restorative measures to address their harm. This agreement may be mediated by the CWC, the membership as a whole, by certain members selected by the affected person(s), or not at all, according to the express wishes of the affected person(s). However, completion of these measures shall in no way obligate a return to pre-existing relationships prior to the disciplinary measure(s) being implemented, and in no way does this imply that completing one measure means that another measure, being previously agreed on, does not need to be completed.
-
-
-## SECTION SIX: MEMBERSHIP
+## SECTION ONE: WHO MAY APPLY
 
 Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
 
@@ -162,7 +76,7 @@ Individuals falling within the geographic boundaries of the Chapter who do not w
 
 The Chapter Central Committee may set forth additional membership requirements and prohibitions in the form of ongoing policy resolutions, to be approved by a majority vote of the CCC.
 
-### SUBSECTION ONE: PROVISIONAL MEMBER ASCENSION
+## SECTION TWO: PROVISIONAL MEMBER ASCENSION
 
 To become a full member or full local comrade of the Organization and the Chapter, a provisional member or provisional local comrade shall undergo a vetting process. A provisional member or provisional local comrade shall be contacted by the Secretary and provided with the ability to attend a vetting interview, either in-person or virtual call with video for the provisional member or provisional local comrade. The Chapter Vetting Chair will assign three or more members of the Vetting Committee to attend the interview. The Secretary or Vetting Chair may serve on the Vetting Committee.
 
@@ -174,17 +88,46 @@ After successful vetting, provisional members and provisional local comrades bec
 
 The Chapter may enact further clarifying policies on the vetting process by majority vote of the CCC, as proposed by the Vetting Chair or Chapter Secretary.
 
-### SUBSECTION TWO: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
+## SECTION THREE: CONDUCT 
+
+Members of the Chapter are expected to adhere to certain rules, policies, and standards of conduct when acting within the Chapter and when representing the Chapter. Certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member is not representing the Chapter or Organization.
+
+The Chapter Central Committee may set forth additional standards of conduct in the form of ongoing policy resolutions, so long as they do not violate any enumerated member rights.
+
+All members are expected to comply with the following standards of conduct:
+
+1. Participating in harassment campaigns, threats of violence, or derogatory behavior is forbidden.
+2. Advocating for illegal actions and activities of any kind is forbidden.
+3. Working to intentionally and actively undermine the Chapter or Organization is forbidden.
+4. Participating in organizations that advocate or otherwise promote fascism, nazism, or neoconfederatism is forbidden.
+5. Any nature of sexual offenses, to include the intentional use of inappropriate sexual language, inappropriate sexual behavior, sexual harassment, and sexual assault, are forbidden.
+6. Any nature of domestic abuse, assault, violence, or other domestic offense, is forbidden.
+7. Intentional and/or ongoing unintentional unsafe firearms behavior is forbidden.
+
+## SECTION FOUR: MEMBER RIGHTS 
+
+Members are empowered with certain rights within the Chapter and Organization. All members shall be entitled to the following rights:
+
+1. To know the outcomes of any formal votes of the Chapter, to include a summary of the measure as well as the number of yays, nays, and abstains on the measure.
+2. To interact and participate in a harassment-free and inclusive environment.
+3. To participate in any organization or political party that does not violate any section of these bylaws.
+4. To not participate in any organization or political party that the member does not wish to be a part of or otherwise take actions with.
+5. To petition the Chapter Central Committee on any matter concerning the organization, anonymously or named, and to receive a response to the petition.
+6. To participate and vote in any Chapter-wide elections, or region-wide elections for regions in which they primarily reside.
+7. To hold office in the Chapter Central Committee for which they meet the administrative requirements.
+8. To participate in any binding petition measures to pass a resolution or amendment to the Bylaws.
+
+## SECTION THREE: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
 
 The CCC may elect to gate some non-educational Chapter resources and discussion fora behind attending an in-person educational event, requirements for which are at the CCC and firearms training committee's discretion. At the CCC and firearms training committees discretion, the CCC may choose an expiration period after a member's last in-person class attendance at which time the member loses access to these non-educational resources.
 
-### SUBSECTION THREE: GOOD STANDING
+## SECTION FOUR: GOOD STANDING
 
-All Chapter members must remain in good standing with the Organization, and continue to appear on rosters as provided from the Organization to the Chapter Secretary.
+All Chapter members of the national Organization must remain in good standing with the Organization, and continue to appear on rosters as provided from the Organization to the Chapter Secretary.
 
 Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer and approved by the CCC, or request waivers of same, with written procedures for doing so established by the Chapter Treasurer and approved by the CCC and available to all members.
 
-### SUBSECTION FOUR: EXPULSION
+## SECTION FIVE: EXPULSION
 
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
 
@@ -194,7 +137,7 @@ Administrative expulsion (temporary or permanent) may be enacted by the Secretar
 
 If a national member is expelled from the chapter for disciplinary reasons, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
-## SECTION SEVEN: VOTING
+## SECTION SIX: VOTING
 
 Voting may take place for (a) installation or removal of chapter officers, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All votes concerning leadership will be held confidentially. It is at the discretion of the leadership on how to hold a vote, however any member can request a confidential vote for any reason, at which time the leadership will provide a mechanism for it.
 
