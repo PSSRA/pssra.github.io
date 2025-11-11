@@ -72,9 +72,9 @@ At the point that all 5 regions described herein are able to form their own chap
 
 Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
 
-Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the CCC) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylaws pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
+Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the Chapter Central Committee) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylaws pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
 
-The Chapter Central Committee may set forth additional membership requirements and prohibitions in the form of ongoing policy resolutions, to be approved by a majority vote of the CCC.
+The Chapter Central Committee, hereafter CCC, may set forth additional membership requirements and prohibitions in the form of ongoing policy resolutions, to be approved by a majority vote of the CCC.
 
 ## SECTION TWO: PROVISIONAL MEMBER ASCENSION
 
@@ -119,7 +119,7 @@ Members are empowered with certain rights within the Chapter. All members shall 
 
 ## SECTION FIVE: IN-PERSON EVENT ATTENDANCE REQUIREMENTS
 
-The CCC may elect to gate some non-educational Chapter resources and discussion fora behind attending an in-person educational event, requirements for which are at the CCC and firearms training committee's discretion. At the CCC and firearms training committees discretion, the CCC may choose an expiration period after a member's last in-person class attendance at which time the member loses access to these non-educational resources.
+The CCC may elect to gate some non-educational Chapter resources and discussion channels behind attending an in-person educational event, requirements for which are at the CCC and firearms training committee's discretion. At the CCC and firearms training committees discretion, the CCC may choose an expiration period after a member's last in-person class attendance at which time the member loses access to these non-educational resources.
 
 ## SECTION SIX: GOOD STANDING
 
@@ -155,7 +155,7 @@ The following positions will form the Chapter Central Committee (hereafter refer
 
 ## SECTION TWO: NATIONAL OFFICES OF THE CCC
 
-Chapter liaison, secretary, and treasurer are the **National offices of the CCC**, those required by Organization bylaws for each chapter. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
+Chapter liaison, secretary, and treasurer are the **National offices of the Chapter Central Committee**, those required by Organization bylaws for each chapter. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
 
 If any of the National Offices of the CCC become vacant via resignation or expulsion, an interim member may be appointed to the office without election by remaining CCC members. Interim National Office CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may receive nominations or self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
 
@@ -260,6 +260,12 @@ Pursuant to Article Two, Section Three, the FTC shall be able to certify, in con
 ## SECTION THREE: CHAPTER WELFARE COMMITTEE
 
 The Chapter Welfare Committee (CWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. Prior to or concurrent with CWC formation, the CCC may appoint a CWC chair (or multiple co-chairs) tasked with fielding CWC reports and coordinating formation of CWC(s) as needed. Aside from the CWC chair(s), the committee shall be dissolved when it is determined by the CWC or the affected person that the situation is stable.
+
+CWC matters include, but are not limited to, issues between members, officers and members, and officers themselves that may affect organizational participation or the ability to provide instruction. The purpose of the CWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
+
+CWC involvement should be guided by an internal policy that is communicated publicly to the membership and grounded in the Organization’s mission and vision, specifically, commitments to carceral abolition, restorative and transformative justice, and an understanding of marginalization. The internal policy should outline what documentation for exclusionary and restorative actions should look like, as well as a plain language map of what escalated consequences can look like in the event of ongoing and egregious behavior.
+
+The CWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The CWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the CCC when larger actions are required, in accordance with the designated section and subsection. Members of the CWC can also be moderators or hold other roles and any actions in the role of CWC should be made clear (i.e. versus a conversation with an officer).
 
 ## SECTION FOUR: OTHER COMMITTEES
 
