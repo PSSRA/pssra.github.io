@@ -92,8 +92,6 @@ The Chapter may enact further clarifying policies on the vetting process by majo
 
 Members of the Chapter are expected to adhere to certain rules, policies, and standards of conduct when acting within the Chapter and when representing the Chapter. Certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member is not representing the Chapter or Organization.
 
-The Chapter Central Committee may set forth additional standards of conduct in the form of ongoing policy resolutions, so long as they do not violate any enumerated member rights.
-
 All members are expected to comply with the following standards of conduct:
 
 1. Participating in harassment campaigns, threats of violence, or derogatory behavior is forbidden.
@@ -103,6 +101,8 @@ All members are expected to comply with the following standards of conduct:
 5. Any nature of sexual offenses, to include the intentional use of inappropriate sexual language, inappropriate sexual behavior, sexual harassment, and sexual assault, are forbidden.
 6. Any nature of domestic abuse, assault, violence, or other domestic offense, is forbidden.
 7. Intentional and/or ongoing unintentional unsafe firearms behavior is forbidden.
+
+The Chapter Central Committee may set forth additional standards of conduct in the form of ongoing policy resolutions, so long as they do not violate any enumerated member rights.
 
 ## SECTION FOUR: MEMBER RIGHTS 
 
@@ -141,7 +141,7 @@ If a national member is expelled from the chapter for disciplinary reasons, the 
 
 Voting may take place for (a) installation or removal of chapter officers, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All contested officer elections and any votes on elected officer removal will be held confidentially. It is otherwise at the discretion of the CCC on how to hold a vote.
 
-There shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
+Unless otherwise specified, there shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
 # ARTICLE THREE: AMENDMENTS
 
