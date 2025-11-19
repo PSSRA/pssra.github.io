@@ -90,9 +90,7 @@ The Chapter may enact further clarifying policies on the vetting process by majo
 
 ## SECTION THREE: CONDUCT {#2-3}
 
-Members of the Chapter are expected to adhere to certain policies and standards of conduct when acting within the Chapter and when representing the Chapter. Certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member is not representing the Chapter or Organization.
-
-All members are expected to comply with the following standards of conduct:
+All members are expected to comply with the following standards of conduct within the Chapter and when representing the Chapter:
 
 1. Participating in harassment campaigns, threats of violence, or derogatory behavior is forbidden.
 2. Advocating for illegal actions and activities of any kind is forbidden.
@@ -101,6 +99,8 @@ All members are expected to comply with the following standards of conduct:
 5. Any nature of sexual offenses, to include the intentional use of inappropriate sexual language, inappropriate sexual behavior, sexual harassment, and sexual assault, are forbidden.
 6. Any nature of domestic abuse, assault, violence, or other domestic offense, is forbidden.
 7. Intentional and/or ongoing unintentional unsafe firearms behavior is forbidden.
+
+Additionally certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member is not representing the Chapter or Organization.
 
 The Chapter Central Committee may set forth additional standards of conduct in the form of ongoing policy resolutions, so long as they do not violate any enumerated member rights.
 
