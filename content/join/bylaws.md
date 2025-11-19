@@ -37,7 +37,7 @@ We stand against the disarmament of the working class. We are dedicated to armin
 
 The Chapter will cover the State of Washington.
 
-Comrades in Clark County, Washington may choose to join the Portland Chapter of the SRA instead of the Puget Sound chapter. Portland SRA vetting/ascension will not be reciprocal with Puget Sound SRA. Comrades on the Portland SRA roster may choose to become Local Comrade members of the Puget Sound SRA to gain access to Puget Sound SRA vetting, events, and resources.
+Comrades in Clark County, Washington may choose to join the Portland Chapter of the SRA instead of the Puget Sound chapter. Portland SRA vetting/ascension will not be reciprocal with Puget Sound SRA. Comrades located in Washington State who are on the Portland SRA national roster may choose to become Local Comrade members of the Puget Sound SRA to gain access to Puget Sound SRA vetting, events, and resources.
 
 Comrades in the state of Idaho who lack a local SRA chapter may choose to join Puget Sound SRA.
 
