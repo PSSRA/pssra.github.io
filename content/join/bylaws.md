@@ -43,7 +43,7 @@ Comrades in the state of Idaho who lack a local SRA chapter may choose to join P
 
 ### SUBSECTION TWO: REGIONAL JURISDICTION
 
-The Chapter shall subdivide the state into 5 regions, which represent the greater geographically distinct areas of the state: Central, North, South, Peninsula, and East. Any of the 5 rections of the Chapter may separate from the Puget Sound SRA and form their own regional chapter under 4 conditions: 1) The proposed regional chapter is able to create their own chapter with operational functionality which meets the needs of their distinct region, 2) the separation of the region into a separate chapter does not impede the function of the Chapter as a whole, 3) the Chapter membership approves the separation with a Bylaws amendment by a vote with not less than two-thirds approval, 4) The separation is approved by the Governing Body of the SRA.
+The Chapter shall subdivide the state into 5 regions, which represent the greater geographically distinct areas of the state: Central, North, South, Peninsula, and East. Any of the 5 regions of the Chapter may separate from the Puget Sound SRA and form their own regional chapter under 4 conditions: 1) The proposed regional chapter is able to create their own chapter with operational functionality which meets the needs of their distinct region, 2) the separation of the region into a separate chapter does not impede the function of the Chapter as a whole, 3) the Chapter membership approves the separation with a Bylaws amendment by a vote with not less than two-thirds approval, 4) The separation is approved by the Governing Body of the SRA.
 
 The jurisdiction of the five regions shall be as follows:
 
@@ -80,9 +80,9 @@ The Chapter Central Committee, hereafter CCC, may set forth additional membershi
 
 To become a full member or full local comrade of the Organization and the Chapter, a provisional member or provisional local comrade shall undergo a vetting process. A provisional member or provisional local comrade shall be contacted by the Secretary and provided with the ability to attend a vetting interview, either in-person or virtual call with video for the provisional member or provisional local comrade. The Chapter Vetting Chair will assign three or more members of the Vetting Committee to attend the interview. The Secretary or Vetting Chair may serve on the Vetting Committee.
 
-This interview shall consist, at minimum, of questions establishing the provisional member's alignment with the goals of the Chapter and Organization, and confirmation that they are not subject to any membership prohibitions of the Chapter or Organization. The Vetting Chair will maintain an up-to-date Standard Operating Procedure with specific questions to ask the new provisional member or provisional local comrade. Other full members or full local comrades of the Chapter may suggest new questions to the Vetting Chair.
+This interview shall consist, at minimum, of questions establishing the provisional member's alignment with the goals of the Chapter and Organization, and confirmation that they are not subject to any membership prohibitions of the Chapter or Organization. The Vetting Chair will maintain an up-to-date Standard Operating Procedure with specific questions to ask the new provisional member or provisional local comrade.
 
-Following the interview, the members of the Committee that conducted the interview shall discuss the results with one another. If it is decided that the provisional member should be welcomed into the Chapter, the member shall be notified and invited into the Chapter's internal communications platform. If it is decided that further confirmation is warranted, the interviewers shall confer with the Vetting Chair, Chapter Secretary, and the rest of the Committee about the interview. If it is determined by the broader Committee that the provisional member should be welcomed into the Chapter, then they shall be notified as stipulated above. The Committee shall determine if there are follow-up questions to be asked of the provisional member in an attempt to resolve the Committee's concerns. If the Committee determines that the provisional member should not be welcomed into the Chapter, all communications with the provisional member shall cease.
+Following the interview, the members of the Committee that conducted the interview shall discuss the results with one another. If it is decided that the provisional member should be welcomed into the Chapter, the member shall be notified and invited into the Chapter's internal communications platform. If it is decided that further confirmation is warranted, the interviewers shall confer with the Vetting Chair, Chapter Secretary, and the rest of the Committee about the interview. If it is determined by the broader Committee that the provisional member should be welcomed into the Chapter, then they shall be notified as stipulated above. The Committee shall determine if there are follow-up questions to be asked of the provisional member in an attempt to resolve the Committee's concerns. If the Committee determines that the provisional member should not be welcomed into the Chapter, all communications with the provisional member shall cease following notification of their denial.
 
 After successful vetting, provisional members and provisional local comrades become full members and full local comrades, respectively, of the Chapter. Members (not local comrades) shall be nominated for ascension with the national Organization, vouched for by the Secretary and the Vetting Chair.
 
@@ -90,7 +90,7 @@ The Chapter may enact further clarifying policies on the vetting process by majo
 
 ## SECTION THREE: CONDUCT 
 
-Members of the Chapter are expected to adhere to certain rules, policies, and standards of conduct when acting within the Chapter and when representing the Chapter. Certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member is not representing the Chapter or Organization.
+Members of the Chapter are expected to adhere to certain policies and standards of conduct when acting within the Chapter and when representing the Chapter. Certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member is not representing the Chapter or Organization.
 
 All members are expected to comply with the following standards of conduct:
 
@@ -195,7 +195,7 @@ This section shall apply to roles as they pertain to this Chapter. Removal from 
 
 ### SUBSECTION ONE: ELECTED OFFICERS
 
-This subection applies to leadership roles filled by an election by Chapter full members and local comrades.
+This subsection applies to leadership roles filled by an election by Chapter full members and local comrades.
 
 Any member in a leadership position elected by the membership of the Chapter may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
 
@@ -206,7 +206,7 @@ Any member in a leadership position elected by the membership of the Chapter may
 
 If the elected individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the remainder of the CCC.
 
-If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and committee to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote. For National Offices of the CCC, only national organization members will participate in the removal vote.
+If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and CCC to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote. For National Offices of the CCC, only national organization members will participate in the removal vote.
 
 ### SUBSECTION TWO: APPOINTED OFFICERS
 
@@ -220,7 +220,7 @@ Any member in a leadership position appointed by the CCC (including interim Nati
 
 Meetings will be held as often as the membership and/or CCC feel is reasonable, with an effort to hold at least one meeting per quarter. Times of meetings will be publicized via any methods the Chapter has at its disposal, but locations may be kept private by leadership from non-members in interests of Chapter safety and orderly conduct.
 
-The Liaison shall publish the proposed agenda of the Chapter meeting on internal Chapter communications platforms not later than 72 hours prior to the general meeting. The time between publication and the general meeting shall be the period of additional commentary. Members should feel empowered to suggest other agenda items to be discussed during this and any other time.
+The Liaison shall publish the proposed agenda of the Chapter meeting on internal Chapter communications platforms not later than 72 hours prior to the general meeting.
 
 ## SECTION TWO: EVENT PLANNING
 
