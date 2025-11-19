@@ -131,7 +131,7 @@ Chapter local comrades must maintain direct donations to the Chapter as determin
 
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
 
-Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Chapter Welfare Committee with majority approval and 50% quorum from CCC after a discussion period of no less than 48 hours following CWC recommendation. Under emergency circumstances, including but not limited to threat to well-being of members, the Organization, or the Chapter, the CWC may remove access to Chapter resources during this discussion period.
+Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Member Welfare Committee with majority approval and 50% quorum from CCC after a discussion period of no less than 48 hours following MWC recommendation. Under emergency circumstances, including but not limited to threat to well-being of members, the Organization, or the Chapter, the MWC may remove access to Chapter resources during this discussion period.
 
 Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events. This expulsion shall be reversed when the situation is resolved. The CCC and Vetting Chair may institute a policy whereby after a specified period of membership lapse the member must undergo re-vetting.
 
@@ -185,7 +185,7 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 
 ## SECTION THREE: OTHER LEADERSHIP ROLES
 
-Regional administrators, CWC Chair(s), facilitators of committees (both enumerated and not enumerated in the Chapter Bylaws), and all deputies will form the **Local Offices of the CCC** and constitute the remainder of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+Regional administrators, MWC Chair(s), facilitators of committees (both enumerated and not enumerated in the Chapter Bylaws), and all deputies will form the **Local Offices of the CCC** and constitute the remainder of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
 Local Officers of the CCC may only access Organization membership records or Chapter records containing member PII if the Local Officer is a national member of the Organization and has signed a non-disclosure agreement as described above.
 
@@ -257,15 +257,15 @@ The FTC shall approve the guests of members attending a Range Day, as stipulated
 
 Pursuant to Article Two, Section Three, the FTC shall be able to certify, in conjunction with Event Organizers and the CCC, the ability of members to safely handle firearms prior to each event.
 
-## SECTION THREE: CHAPTER WELFARE COMMITTEE
+## SECTION THREE: MEMBER WELFARE COMMITTEE
 
-The Chapter Welfare Committee (CWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. Prior to or concurrent with CWC formation, the CCC may appoint a CWC chair (or multiple co-chairs) tasked with fielding CWC reports and coordinating formation of CWC(s) as needed. Aside from the CWC chair(s), the committee shall be dissolved when it is determined by the CWC or the affected person that the situation is stable.
+The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. Prior to or concurrent with MWC formation, the CCC may appoint a MWC chair (or multiple co-chairs) tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. Aside from the MWC chair(s), the committee shall be dissolved when it is determined by the MWC or the affected person that the situation is stable.
 
-CWC matters include, but are not limited to, issues between members, officers and members, and officers themselves that may affect organizational participation or the ability to provide instruction. The purpose of the CWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
+MWC matters include, but are not limited to, issues between members, officers and members, and officers themselves that may affect organizational participation or the ability to provide instruction. The purpose of the MWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
 
-CWC involvement should be guided by an internal policy that is communicated publicly to the membership and grounded in the Organization’s mission and vision, specifically, commitments to carceral abolition, restorative and transformative justice, and an understanding of marginalization. The internal policy should outline what documentation for exclusionary and restorative actions should look like, as well as a plain language map of what escalated consequences can look like in the event of ongoing and egregious behavior.
+MWC involvement should be guided by an internal policy that is communicated publicly to the membership and grounded in the Organization’s mission and vision, specifically, commitments to carceral abolition, restorative and transformative justice, and an understanding of marginalization. The internal policy should outline what documentation for exclusionary and restorative actions should look like, as well as a plain language map of what escalated consequences can look like in the event of ongoing and egregious behavior.
 
-The CWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The CWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the CCC when larger actions are required, in accordance with the designated section and subsection. Members of the CWC can also be moderators or hold other roles and any actions in the role of CWC should be made clear (i.e. versus a conversation with an officer).
+The MWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The MWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the CCC when larger actions are required, in accordance with the designated section and subsection. Members of the MWC can also be moderators or hold other roles and any actions in the role of MWC should be made clear (i.e. versus a conversation with an officer).
 
 ## SECTION FOUR: OTHER COMMITTEES
 
