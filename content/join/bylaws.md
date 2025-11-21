@@ -72,9 +72,17 @@ At the point that all 5 regions described herein are able to form their own chap
 
 Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
 
-Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter. After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the Chapter Central Committee) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades. Except as otherwise explicitly stated, all provisions of the Chapter bylaws pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events. All membership disqualifications that apply to members also apply to local comrades.
-
 The Chapter Central Committee, hereafter CCC, may set forth additional membership requirements and prohibitions in the form of ongoing policy resolutions, to be approved by a majority vote of the CCC.
+
+### SUBSECTION ONE: LOCAL COMRADES {#2-1-1}
+
+Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter.
+
+After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the Chapter Central Committee) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades.
+
+Except as otherwise explicitly stated, all provisions of the Chapter bylaws pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events.
+
+All membership disqualifications, codes of conduct, and disciplinary procedures that apply to members also apply to local comrades.
 
 ## SECTION TWO: PROVISIONAL MEMBER ASCENSION {#2-2}
 
@@ -131,7 +139,7 @@ Chapter local comrades must maintain direct donations to the Chapter as determin
 
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
 
-Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Member Welfare Committee with majority approval and 50% quorum from CCC after a discussion period of no less than 48 hours following MWC recommendation. Under emergency circumstances, including but not limited to threat to well-being of members, the Organization, or the Chapter, the MWC may remove access to Chapter resources during this discussion period.
+Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Member Welfare Committee, following a Chapter Central Committee majority vote, with 50% quorum required, after a discussion period of no less than 48 hours following MWC recommendation. Under emergency circumstances (including but not limited to threat to well-being of members, the Organization, or the Chapter) the MWC may remove access to Chapter resources during this discussion period.
 
 Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events. This expulsion shall be reversed when the situation is resolved. The CCC and Vetting Chair may institute a policy whereby after a specified period of membership lapse the member must undergo re-vetting.
 
@@ -259,11 +267,11 @@ Pursuant to Article Two, Section Three, the FTC shall be able to certify, in con
 
 ## SECTION THREE: MEMBER WELFARE COMMITTEE {#6-3}
 
-The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. Prior to or concurrent with MWC formation, the CCC may appoint a MWC chair (or multiple co-chairs) tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. Aside from the MWC chair(s), the committee shall be dissolved when it is determined by the MWC or the affected person that the situation is stable.
+The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. Prior to or concurrent with MWC formation, the CCC may appoint a MWC chair tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. Aside from the MWC chair, the committee shall be dissolved when it is determined by the MWC, the CCC, or the affected person that the situation is stable.
 
 MWC matters include, but are not limited to, issues between members, officers and members, and officers themselves that may affect organizational participation or the ability to provide instruction. The purpose of the MWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
 
-MWC involvement should be guided by an internal policy that is communicated publicly to the membership and grounded in the Organization’s mission and vision, specifically, commitments to carceral abolition, restorative and transformative justice, and an understanding of marginalization. The internal policy should outline what documentation for exclusionary and restorative actions should look like, as well as a plain language map of what escalated consequences can look like in the event of ongoing and egregious behavior.
+MWC involvement and makeup should be guided by an internal policy that is communicated proactively to the membership and grounded in the Organization and Chapter's mission and vision, specifically, commitments to carceral abolition, restorative and transformative justice, and an understanding of marginalization. The internal policy should outline what documentation for exclusionary and restorative actions should look like, as well as a plain language map of what escalated consequences can look like in the event of ongoing and egregious behavior.
 
 The MWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The MWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the CCC when larger actions are required, in accordance with the designated section and subsection. Members of the MWC can also be moderators or hold other roles and any actions in the role of MWC should be made clear (i.e. versus a conversation with an officer).
 
@@ -275,7 +283,7 @@ Other committees may be established or dissolved by simple majority vote of the 
 
 All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any CCC member, recorded internally, and enacted by a simple majority vote of CCC. These documented policies and procedures of the Chapter shall be accessible to full members, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the CCC.
 
-A Chapter policy or procedure may be enacted, amended, or removed bypassing the CCC by a two-thirds supermajority of vetted membership of the Chapter with greater than 50% quorum of full members and local comrades.
+A Chapter policy or procedure may be enacted, amended, or removed bypassing the CCC by a two-thirds supermajority of vetted membership of the Chapter, with greater than 50% quorum of full members and local comrades.
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE {#8}
 
