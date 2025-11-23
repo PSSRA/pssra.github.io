@@ -155,21 +155,31 @@ Unless otherwise specified, there shall be no quorum on votes, but all votes mus
 
 Bylaws may be amended, added, or removed by a two-thirds majority vote by the membership, with quorum of no less than 25% of active vetted members. A period of at least two weeks will be given for the vote to be completed, and all available communication methods shall be utilized to solicit responses.
 
-# ARTICLE FOUR: ORGANIZERS {#4}
+# ARTICLE FOUR: CHAPTER LEADERSHIP {#4}
 
 ## SECTION ONE: STATEMENT OF INTENT {#4-1}
 
-The following positions will form the Chapter Central Committee (hereafter referred to as the CCC) and be responsible for continued functioning of the Chapter. Members of the CCC may facilitate subcommittees and establish deputy roles as their position demands. Any deputies will become members of the CCC. Access to membership information from the Organization and any personally identifiable information (PII) collected by the Chapter requires a Non-Disclosure Agreement be signed between the accessing member and the Organization. Pursuant to the Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
+The following positions will form the Leadership of the Chapter and be responsible for continued functioning of the Chapter. Leadership shall be divided into three groups:
 
-## SECTION TWO: NATIONAL OFFICES OF THE CCC {#4-2}
+1. Chapter Central Committee (CCC)
+2. Chapter Representative Committee (CRC)
+3. Chapter Organizing Committee (COC)
 
-Chapter liaison, secretary, and treasurer are the **National offices of the Chapter Central Committee**, those required by Organization bylaws for each chapter. They must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or Organization leadership communication platforms.
+Pursuant to the Chapter and Organization's mission of empowering marginalized people, all attempts shall be made to encourage queer, trans, indigenous, of color, disabled, and/or non-men members to step into leadership positions.
 
-If any of the National Offices of the CCC become vacant via resignation or expulsion, an interim member may be appointed to the office without election by remaining CCC members. Interim National Office CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may receive nominations or self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
+An individual may serve multiple roles among the various groups within Chapter leadership unless otherwise specified.
 
-National offices of the CCC shall be elected by approval vote of national members of the Chapter (those in good standing with the Organization and appearing on the last Roster provided from the Organization to the Chapter Secretary). The candidate who receives the most approvals will obtain the position for a term of no less than one year. (Local comrades of the Chapter will not vote on these offices.) These officers may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
+## SECTION TWO: CHAPTER CENTRAL COMMITTEE {#4-2}
 
-Chapter members may hold more than one interim National office CCC role, or one interim and one permanent role, but not more than one permanent role.
+Chapter liaison, secretary, and treasurer are the **Offices of the Chapter Central Committee**, and will also be referred to as the Chapter Officers. These positions are required for the Chapter by the bylaws of the Organization.
+
+Chapter Officers must, at time of taking office, be members of the national Organization, but may be nominated and undergo the election process before becoming members of the national Organization. The Chapter liaison will notify National Organizers of any change in these positions; if the Chapter liaison is changing, the Chapter secretary will inform National organizers. They must sign the Non-Disclosure agreement with the National Organization before gaining access to Chapter or Organization records, or to Organization leadership communication platforms.
+
+If any of the Offices of the CCC become vacant via resignation or expulsion, an interim member may be appointed to the office without election by remaining CCC members. Interim CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may receive nominations or self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
+
+Officers of the CCC shall be elected by approval vote of national members of the Chapter (those in good standing with the Organization and appearing on the last Roster provided from the Organization to the Chapter Secretary). The candidate who receives the most approvals will obtain the position for a term of no less than one year. (Local comrades of the Chapter will not vote on these offices.) These Officers may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
+
+Individuals may hold more than one interim CCC role, or one interim and one permanent role, but not more than one permanent role.
 
 ### SUBSECTION ONE: LIAISON {#4-2-1}
 
@@ -191,36 +201,62 @@ The Treasurer shall be responsible for recording and accounting for any property
 
 They shall fulfill the Treasurer role specified in the Organization Bylaws under Article Eight, Section Six, Subsection Three.
 
-## SECTION THREE: OTHER LEADERSHIP ROLES {#4-3}
+## SECTION THREE: CHAPTER REPRESENTATIVE COMMITTEE {#4-3}
 
-Regional administrators, MWC Chair(s), facilitators of committees (both enumerated and not enumerated in the Chapter Bylaws), and all deputies will form the **Local Offices of the CCC** and constitute the remainder of the CCC. They may be full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the CCC or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+The following individuals shall make up the Chapter Representative Committee (CRC), and will be referred to as Chapter Representatives: 
+1. Chapter Member Welfare Committee Chair
+2. One chair for each other Chapter committee (committees both enumerated and not enumerated in the Chapter Bylaws)
+3. Any Liaison between the Chapter and a group of associated advisors or experts
+4. One administrator per Chapter Region
 
-Local Officers of the CCC may only access Organization membership records or Chapter records containing member PII if the Local Officer is a national member of the Organization and has signed a non-disclosure agreement as described above.
+Unless otherwise stated in Bylaws or Policies, Representatives must be either full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the combined CCC and CRC, or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
 
-## SECTION FOUR: REMOVAL {#4-4}
+Chapter Representatives may only access Organization membership records or Chapter records containing member PII if the Representative is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
+
+## SECTION FOUR: CHAPTER ORGANIZING COMMITTEE {#4-4}
+
+The following individuals shall make up the Chapter Organizing Committee (COC), and will be referred to as Chapter Organizers:
+1. Deputies to any CCC or CRC role
+2. All members of any group of chapter-associated advisors or experts (see Article 4, Section 4, Subsection 1)
+
+Deputies must be either full National members or full Local Comrades of the chapter.
+
+Chapter Organizers may only access Organization membership records or Chapter records containing member PII if the Organizer is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
+
+### SUBSECTION ONE: CHAPTER-ASSOCIATED ADVISORS OR EXPERTS {#4-4-1}
+
+Chapter Officers and Chapter Representatives may establish formal association between the Chapter and individuals or groups representing advanced expertise, not otherwise found among the membership of the Chapter, that advances the mission of the Chapter. Each such association shall have a Liaison between the group and the Chapter, who shall serve as a member of the Chapter Representative Committee.
+
+Groups of chapter-associated advisors or experts need not be vetted Chapter members or local comrades, but may be, and may determine their own methods for self-appointment in consultation with Chapter Officers and Chapter Representatives.
+
+Chapter-associated advisors and experts must meet the same standards of conduct expected of Chapter members and local comrades, but may determine internal disciplinary procedures in consultation with Chapter Officers and the Member Welfare Committee Chair.
+
+Chapter leadership may elect to sever the association between the Chapter and any associated group by a supermajority (two-thirds) vote of the combined Chapter Central Committee and Chapter Representative Committee.
+
+## SECTION FOUR: REMOVAL {#4-5}
 
 This section shall apply to roles as they pertain to this Chapter. Removal from any nationally elected position shall follow the Bylaws of the Organization.
 
-### SUBSECTION ONE: ELECTED OFFICERS {#4-4-1}
+### SUBSECTION ONE: ELECTED LEADERS {#4-5-1}
 
 This subsection applies to leadership roles filled by an election by Chapter full members and local comrades.
 
 Any member in a leadership position elected by the membership of the Chapter may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
 
 1. a petition from one fifth of full Chapter membership,
-2. a vote of no confidence from the Chapter Central Committee,
+2. a vote of no confidence from the combined Chapter Central Committee and Chapter Representative Committee,
 3. a vote of no confidence from the Governing Body of the Organization, or 
 4. removal by the Welfare Council of the Organization.
 
-If the elected individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the remainder of the CCC.
+If the elected individual has lost eligibility to be in their position on grounds of a change in qualifications as determined by this Chapter or by the Socialist Rifle Association, their removal shall be effective immediately upon majority approval of the remainder of the combined CCC and CRC.
 
-If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and CCC to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote. For National Offices of the CCC, only national organization members will participate in the removal vote.
+If the elected individual is being charged with a violation of their office or the bylaws, at least two weeks will be given for the membership and Chapter leadership to prepare. During the next eligible meeting, the membership will review all evidence presented and vote on removal. Removal will require a two thirds affirmative vote. For Offices of the CCC, only national organization members will participate in the removal vote.
 
-### SUBSECTION TWO: APPOINTED OFFICERS {#4-4-2}
+### SUBSECTION TWO: APPOINTED LEADERS {#4-5-2}
 
 This subsection applies to leadership roles filled by appointment by a majority vote of the CCC.
 
-Any member in a leadership position appointed by the CCC (including interim National Officers of the CCC) may be removed from their position for dereliction of duty, misconduct, or loss of eligibility. This removal shall be effective immediately upon majority approval of the remainder of the CCC.
+Any member in a leadership position appointed by the Chapter Central Committee and Chapter Representative Committee (including interim Officers of the CCC) may be removed from their position for dereliction of duty, misconduct, or loss of eligibility. This removal shall be effective immediately upon majority approval of the remainder of the combined CCC and CRC.
 
 # ARTICLE FIVE: MEETINGS {#5}
 
@@ -267,23 +303,23 @@ Pursuant to Article Two, Section Three, the FTC shall be able to certify, in con
 
 ## SECTION THREE: MEMBER WELFARE COMMITTEE {#6-3}
 
-The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. Prior to or concurrent with MWC formation, the CCC may appoint a MWC chair tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. Aside from the MWC chair, the committee shall be dissolved when it is determined by the MWC, the CCC, or the affected person that the situation is stable.
+The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. The combined CCC and CRC shall appoint a MWC chair tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. At time of taking office, the MWC Chair must be a National Organization member with a non-disclosure agreement on file with the Organization. Aside from the MWC chair, the committee shall be dissolved when it is determined by the MWC, the CCC, or the affected person that the situation is stable.
 
 MWC matters include, but are not limited to, issues between members, officers and members, and officers themselves that may affect organizational participation or the ability to provide instruction. The purpose of the MWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
 
 MWC involvement and makeup should be guided by an internal policy that is communicated proactively to the membership and grounded in the Organization and Chapter's mission and vision, specifically, commitments to carceral abolition, restorative and transformative justice, and an understanding of marginalization. The internal policy should outline what documentation for exclusionary and restorative actions should look like, as well as a plain language map of what escalated consequences can look like in the event of ongoing and egregious behavior.
 
-The MWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The MWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the CCC when larger actions are required, in accordance with the designated section and subsection. Members of the MWC can also be moderators or hold other roles and any actions in the role of MWC should be made clear (i.e. versus a conversation with an officer).
+The MWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The MWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the combined CCC and CRC when larger actions are required, in accordance with the designated section and subsection. Members of the MWC can also be moderators or hold other roles, and any actions in the role of MWC should be made clear.
 
 ## SECTION FOUR: OTHER COMMITTEES {#6-4}
 
-Other committees may be established or dissolved by simple majority vote of the CCC at any time without amendment to the Bylaws.
+Other committees may be established or dissolved by simple majority vote of the combined CCC and CRC at any time without amendment to the Bylaws. Each committee shall have a Chair who will serve as a Chapter Representative.
 
 # ARTICLE SEVEN: OTHER POLICIES AND PROCEDURES {#7}
 
-All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any CCC member, recorded internally, and enacted by a simple majority vote of CCC. These documented policies and procedures of the Chapter shall be accessible to full members, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the CCC.
+All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any member of Chapter leadership, recorded internally, and enacted by a simple majority vote of the combined CCC and CRC. These documented policies and procedures of the Chapter shall be accessible to full members, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the combined CCC and CRC.
 
-A Chapter policy or procedure may be enacted, amended, or removed bypassing the CCC by a two-thirds supermajority of vetted membership of the Chapter, with greater than 50% quorum of full members and local comrades.
+A Chapter policy or procedure may be enacted, amended, or removed bypassing Chapter leadership by a two-thirds supermajority of vetted membership of the Chapter, with greater than 50% quorum of full members and local comrades.
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE {#8}
 
