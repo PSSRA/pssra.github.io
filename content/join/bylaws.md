@@ -293,11 +293,11 @@ Neither the Chapter nor the Organization need officially sanction membership inv
 
 ## SECTION ONE: VETTING COMMITTEE {#6-1}
 
-The Vetting Committee shall be chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members of the Chapter. (See Article Two, Section Six, Subsection One.) One member of the Vetting Committee for each interview shall be a senior member of the Committee. A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
+The Vetting Committee shall be composed of Chapter members and local comrades, and chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members of the Chapter. (See Article Two, Section Six, Subsection One.) One member of the Vetting Committee for each interview shall be a senior member of the Committee. A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
 
 ## SECTION TWO: FIREARMS TRAINING COMMITTEE {#6-2}
 
-The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members with advanced knowledge of firearms safety and proficiency. Examples of this include, but are not limited to, firearms instructors and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
+The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members and local comrades with advanced knowledge of firearms safety and proficiency. Examples of this include, but are not limited to, firearms instructors and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
 
 The FTC shall provide at least one Representative for each Chapter Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see Article Five, Section Two). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be the lead range safety officer(s) for the event.
 
@@ -309,7 +309,7 @@ Pursuant to Article Two, Section Three, the FTC shall be able to certify, in con
 
 ## SECTION THREE: MEMBER WELFARE COMMITTEE {#6-3}
 
-The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four. The combined CCC and CRC shall appoint a MWC chair tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. At time of taking office, the MWC Chair must be a National Organization member with a non-disclosure agreement on file with the Organization. Aside from the MWC chair, the committee shall be dissolved when it is determined by the MWC, the CCC, or the affected person that the situation is stable.
+The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four, composed of Chapter members and local comrades. The combined CCC and CRC shall appoint a MWC chair tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. At time of taking office, the MWC Chair must be a National Organization member with a non-disclosure agreement on file with the Organization. Aside from the MWC chair, the committee shall be dissolved when it is determined by the MWC, the CCC, or the affected person that the situation is stable.
 
 MWC matters include, but are not limited to, issues between members, officers and members, and officers themselves that may affect organizational participation or the ability to provide instruction. The purpose of the MWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
 
@@ -319,13 +319,13 @@ The MWC should not be considered a last resort; rather, it should be utilized pr
 
 ## SECTION FOUR: OTHER COMMITTEES {#6-4}
 
-Other committees may be established or dissolved by simple majority vote of the combined CCC and CRC at any time without amendment to the Bylaws. Each committee shall have a Chair who will serve as a Chapter Representative.
+Other committees may be established or dissolved by simple majority vote of the combined CCC and CRC at any time without amendment to the Bylaws. Each committee shall be composed of Chapter members and local comrades, and have a Chair who will serve as a Chapter Representative.
 
 # ARTICLE SEVEN: OTHER POLICIES AND PROCEDURES {#7}
 
-All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any member of Chapter leadership, recorded internally, and enacted by a simple majority vote of the combined CCC and CRC. These documented policies and procedures of the Chapter shall be accessible to full members, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the combined CCC and CRC.
+All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any member of Chapter leadership, recorded internally, and enacted by a simple majority vote of the combined CCC and CRC. These documented policies and procedures of the Chapter shall be accessible to full members and local comrades, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the combined CCC and CRC.
 
-A Chapter policy or procedure may be enacted, amended, or removed bypassing Chapter leadership by a two-thirds supermajority of vetted membership of the Chapter, with greater than 50% quorum of full members and local comrades.
+A Chapter policy or procedure may be enacted, amended, or removed bypassing Chapter leadership by a two-thirds supermajority of vetted membership of the Chapter, with greater than 50% quorum of combined full members and local comrades.
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE {#8}
 
