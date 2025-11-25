@@ -235,7 +235,7 @@ Chapter Officers and Chapter Representatives may establish formal association be
 
 Groups of chapter-associated advisors or experts need not be vetted Chapter members or local comrades, but may be, and may determine their own methods for self-appointment in consultation with Chapter Officers and Chapter Representatives.
 
-Chapter-associated advisors and experts must meet the same standards of conduct expected of Chapter members and local comrades, but may determine internal disciplinary procedures in consultation with Chapter Officers and the Member Welfare Committee Chair.
+Chapter-associated advisors and experts must meet the same standards of conduct expected of Chapter members and local comrades, but liaisons for these groups may determine internal disciplinary procedures in consultation with Chapter Officers and the Member Welfare Committee Chair.
 
 Chapter leadership may elect to sever the association between the Chapter and any associated group by a supermajority (two-thirds) vote of the combined Chapter Central Committee and Chapter Representative Committee.
 
@@ -260,7 +260,7 @@ If the elected individual is being charged with a violation of their office or t
 
 ### SUBSECTION TWO: APPOINTED LEADERS {#4-5-2}
 
-This subsection applies to leadership roles filled by appointment by a majority vote of the CCC.
+This subsection applies to leadership roles filled by appointment by an approval vote of the combined CCC and CRC.
 
 Any member in a leadership position appointed by the Chapter Central Committee and Chapter Representative Committee (including interim Officers of the CCC) may be removed from their position for dereliction of duty, misconduct, or loss of eligibility. This removal shall be effective immediately upon majority approval of the remainder of the combined CCC and CRC.
 
