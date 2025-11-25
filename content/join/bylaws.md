@@ -125,31 +125,29 @@ Members are empowered with certain rights within the Chapter. All members shall 
 7. To hold office in the Chapter Central Committee for which the member meets the administrative requirements.
 8. To participate in any binding petition measures to pass a resolution or amendment to the Bylaws.
 
-## SECTION FIVE: IN-PERSON EVENT ATTENDANCE REQUIREMENTS {#2-5}
+## SECTION FIVE: VOTING {#2-5}
 
-The CCC may elect to gate some non-educational Chapter resources and discussion channels behind attending an in-person educational event, requirements for which are at the CCC and firearms training committee's discretion. At the CCC and firearms training committees discretion, the CCC may choose an expiration period after a member's last in-person class attendance at which time the member loses access to these non-educational resources.
+Voting may take place for (a) installation or removal of chapter officers or representatives, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All contested elections and any votes on elected officer or representative removal will be held confidentially. It is otherwise at the discretion of the CCC on how to hold a vote.
+
+Unless otherwise specified, there shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
 ## SECTION SIX: GOOD STANDING {#2-6}
 
 All Chapter members of the national Organization must remain in good standing with the Organization, and continue to appear on rosters as provided from the Organization to the Chapter Secretary.
 
-Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer and approved by the CCC, or request waivers of same, with written procedures for doing so established by the Chapter Treasurer and approved by the CCC and available to all members.
+Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer and approved by the combined CCC and CRC, or request waivers of same. Written procedures for doing so shall be established by the Chapter Treasurer and approved by the combined CCC and CRC, and will be available to all members and local comrades.
 
 ## SECTION SEVEN: EXPULSION {#2-7}
 
 A member or local comrade may lose their role in the Chapter by resigning or by expulsion from the group.
 
-Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure decided upon by the Member Welfare Committee, following a Chapter Central Committee majority vote, with 50% quorum required, after a discussion period of no less than 48 hours following MWC recommendation. Under emergency circumstances (including but not limited to threat to well-being of members, the Organization, or the Chapter) the MWC may remove access to Chapter resources during this discussion period.
+Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure recommended by the Member Welfare Committee, enacted a majority vote of the combined Chapter Central Committee and Chapter Representative Committee, with 50% quorum required, after a discussion period of no less than 48 hours following MWC recommendation. Under emergency circumstances (including but not limited to threat to well-being of members, the Organization, or the Chapter) the MWC may remove access to Chapter resources during this discussion period.
 
 Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events. This expulsion shall be reversed when the situation is resolved. The CCC and Vetting Chair may institute a policy whereby after a specified period of membership lapse the member must undergo re-vetting.
 
 If a national member is expelled from the chapter for disciplinary reasons, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
-## SECTION EIGHT: VOTING {#2-8}
 
-Voting may take place for (a) installation or removal of chapter officers, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All contested officer elections and any votes on elected officer removal will be held confidentially. It is otherwise at the discretion of the CCC on how to hold a vote.
-
-Unless otherwise specified, there shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
 # ARTICLE THREE: AMENDMENTS {#3}
 
@@ -177,7 +175,7 @@ Chapter Officers must, at time of taking office, be members of the national Orga
 
 If any of the Offices of the CCC become vacant via resignation or expulsion, an interim member may be appointed to the office without election by remaining CCC members. Interim CCC members are subject to the same requirements as permanent members. Interim members may themselves call for an election to become permanent, or other full members of the Chapter may receive nominations or self-nominate and call for an election to replace them in the role, at any time, to be held within 30 days.
 
-Officers of the CCC shall be elected by approval vote of national members of the Chapter (those in good standing with the Organization and appearing on the last Roster provided from the Organization to the Chapter Secretary). The candidate who receives the most approvals will obtain the position for a term of no less than one year. (Local comrades of the Chapter will not vote on these offices.) These Officers may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
+Officers of the CCC shall be elected by **approval vote** of national members of the Chapter (those in good standing with the Organization and appearing on the last Roster provided from the Organization to the Chapter Secretary). The candidate who receives the most approvals will obtain the position for a term of no less than one year. (Local comrades of the Chapter will not vote on these offices.) These Officers may continue to serve past one year at their discretion if no other members wish to be nominated or self-nominate for the role. Elections shall be held within 30 days if more than one member wishes to serve in the role at any time following the one year mark of the prior election for that role.
 
 Individuals may hold more than one interim CCC role, or one interim and one permanent role, but not more than one permanent role.
 
@@ -209,9 +207,15 @@ The following individuals shall make up the Chapter Representative Committee (CR
 3. Any Liaison between the Chapter and a group of associated advisors or experts
 4. One administrator per Chapter Region
 
-Unless otherwise stated in Bylaws or Policies, Representatives must be either full National members or full Local Comrades of the Chapter. They may be appointed by majority vote of the combined CCC and CRC, or elected by a majority vote of Chapter membership. If an election takes place for a regional role, the voting base for regional administrators shall be members primarily residing in that region of the Chapter.
+Unless otherwise stated in Bylaws or Policies, Representatives must be either full National members or full Local Comrades of the Chapter.
 
 Chapter Representatives may only access Organization membership records or Chapter records containing member PII if the Representative is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
+
+### SUBSECTION ONE: REPRESENTATIVE APPOINTMENT {#4-3-1}
+
+1. **Regional administrators** will be elected by approval vote by the full members and full local comrades of that region following the same procedures as for CCC Officers, specified in Article 4, Section 2, paragraph 4. In the event of a vacancy before a vote can be held, an interim regional administrator may be appointed by an approval vote of the combined CCC and CRC. 
+2. **Liaisons for associated groups** will be chosen by members of the associated group.
+3. All other Representatives will be appointed by approval vote of the combined CCC and CRC.
 
 ## SECTION FOUR: CHAPTER ORGANIZING COMMITTEE {#4-4}
 
@@ -223,9 +227,11 @@ Deputies must be either full National members or full Local Comrades of the chap
 
 Chapter Organizers may only access Organization membership records or Chapter records containing member PII if the Organizer is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
 
+Chapter Organizers will be appointed by approval vote of the combined CCC and CRC.
+
 ### SUBSECTION ONE: CHAPTER-ASSOCIATED ADVISORS OR EXPERTS {#4-4-1}
 
-Chapter Officers and Chapter Representatives may establish formal association between the Chapter and individuals or groups representing advanced expertise, not otherwise found among the membership of the Chapter, that advances the mission of the Chapter. Each such association shall have a Liaison between the group and the Chapter, who shall serve as a member of the Chapter Representative Committee.
+Chapter Officers and Chapter Representatives may establish formal association between the Chapter and individuals or groups representing advanced expertise, not otherwise found among the membership of the Chapter, that advances the mission of the Chapter. Each such association shall have a Liaison between the group and the Chapter, who shall serve as a member of the Chapter Representative Committee. The Liaison may be elected by the group in whatever manner they choose.
 
 Groups of chapter-associated advisors or experts need not be vetted Chapter members or local comrades, but may be, and may determine their own methods for self-appointment in consultation with Chapter Officers and Chapter Representatives.
 
