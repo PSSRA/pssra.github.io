@@ -216,7 +216,8 @@ Chapter Representatives may only access Organization membership records or Chapt
 
 1. **Regional administrators** will be elected by approval vote by the full members and full local comrades of that region following the same procedures as for CCC Officers, specified in Article 4, Section 2, paragraph 4. In the event of a vacancy before a vote can be held, an interim regional administrator may be appointed by an approval vote of the combined CCC and CRC. 
 2. **Liaisons for associated groups** will be chosen by members of the associated group.
-3. All other Representatives will be appointed by approval vote of the combined CCC and CRC.
+3. Members working in organizing or administrative capacities with the National level of the Organization will be selected according to the relevant procedures of the Organization. If the Chapter is to nominate members to serve in these positions, nominations will be determined by an approval vote of the combined CCC and CRC.
+4. Committee Chairs and other Representatives will be appointed by approval vote of the combined CCC and CRC.
 
 ## SECTION FOUR: CHAPTER ORGANIZING COMMITTEE {#4-4}
 
