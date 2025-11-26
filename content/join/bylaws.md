@@ -206,6 +206,7 @@ The following individuals shall make up the Chapter Representative Committee (CR
 2. One chair for each other Chapter committee (committees both enumerated and not enumerated in the Chapter Bylaws)
 3. Any Liaison between the Chapter and a group of associated advisors or experts
 4. One administrator per Chapter Region
+5. Any member working in an organizing or administrative capacity with the National level of the Organization
 
 Unless otherwise stated in Bylaws or Policies, Representatives must be either full National members or full Local Comrades of the Chapter.
 
