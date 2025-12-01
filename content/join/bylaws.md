@@ -204,9 +204,8 @@ They shall fulfill the Treasurer role specified in the Organization Bylaws under
 The following individuals shall make up the Chapter Representative Committee (CRC), and will be referred to as Chapter Representatives: 
 1. Chapter Member Welfare Committee Chair
 2. One chair for each other Chapter committee (committees both enumerated and not enumerated in the Chapter Bylaws)
-3. Any Liaison between the Chapter and a group of associated advisors or experts
-4. One administrator per Chapter Region
-5. Any member working in an organizing or administrative capacity with the National level of the Organization
+3. One administrator per Chapter Region
+4. Any member working in an organizing or administrative capacity with the National level of the Organization
 
 Unless otherwise stated in Bylaws or Policies, Representatives must be either full National members or full Local Comrades of the Chapter.
 
@@ -215,31 +214,19 @@ Chapter Representatives may only access Organization membership records or Chapt
 ### SUBSECTION ONE: REPRESENTATIVE APPOINTMENT {#4-3-1}
 
 1. **Regional administrators** will be elected by approval vote by the full members and full local comrades of that region following the same procedures as for CCC Officers, specified in Article 4, Section 2, paragraph 4. In the event of a vacancy before a vote can be held, an interim regional administrator may be appointed by an approval vote of the combined CCC and CRC. 
-2. **Liaisons for associated groups** will be chosen by members of the associated group.
-3. Members working in organizing or administrative capacities with the National level of the Organization will be selected according to the relevant procedures of the Organization. If the Chapter is to nominate members to serve in these positions, nominations will be determined by an approval vote of the combined CCC and CRC.
-4. Committee Chairs and other Representatives will be appointed by approval vote of the combined CCC and CRC.
+2. Members working in organizing or administrative capacities with the National level of the Organization will be selected according to the relevant procedures of the Organization. If the Chapter is to nominate members to serve in these positions, nominations will be determined by an approval vote of the combined CCC and CRC.
+3. Committee Chairs and other Representatives will be appointed by approval vote of the combined CCC and CRC.
 
 ## SECTION FOUR: CHAPTER ORGANIZING COMMITTEE {#4-4}
 
 The following individuals shall make up the Chapter Organizing Committee (COC), and will be referred to as Chapter Organizers:
 1. Deputies to any CCC or CRC role
-2. All members of any group of chapter-associated advisors or experts (see Article 4, Section 4, Subsection 1)
 
 Deputies must be either full National members or full Local Comrades of the chapter.
 
 Chapter Organizers may only access Organization membership records or Chapter records containing member PII if the Organizer is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
 
 Chapter Organizers will be appointed by approval vote of the combined CCC and CRC.
-
-### SUBSECTION ONE: CHAPTER-ASSOCIATED ADVISORS OR EXPERTS {#4-4-1}
-
-Chapter Officers and Chapter Representatives may establish formal association between the Chapter and individuals or groups representing advanced expertise, not otherwise found among the membership of the Chapter, that advances the mission of the Chapter. Each such association shall have a Liaison between the group and the Chapter, who shall serve as a member of the Chapter Representative Committee. The Liaison may be elected by the group in whatever manner they choose.
-
-Groups of chapter-associated advisors or experts need not be vetted Chapter members or local comrades, but may be, and may determine their own methods for self-appointment in consultation with Chapter Officers and Chapter Representatives.
-
-Chapter-associated advisors and experts must meet the same standards of conduct expected of Chapter members and local comrades, but liaisons for these groups may determine internal disciplinary procedures in consultation with Chapter Officers and the Member Welfare Committee Chair.
-
-Chapter leadership may elect to sever the association between the Chapter and any associated group by a supermajority (two-thirds) vote of the combined Chapter Central Committee and Chapter Representative Committee.
 
 ## SECTION FOUR: REMOVAL {#4-5}
 
