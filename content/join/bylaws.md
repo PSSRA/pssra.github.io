@@ -98,7 +98,7 @@ The Chapter may enact further clarifying policies on the vetting process by majo
 
 ## SECTION THREE: CONDUCT {#2-3}
 
-All members are expected to comply with the following standards of conduct within the Chapter and when representing the Chapter:
+All members and local comrades are expected to comply with the following standards of conduct within the Chapter and when representing the Chapter:
 
 1. Participating in harassment campaigns, threats of violence, or derogatory behavior is forbidden.
 2. Advocating for illegal actions and activities of any kind is forbidden.
@@ -108,7 +108,7 @@ All members are expected to comply with the following standards of conduct withi
 6. Any nature of domestic abuse, assault, violence, or other domestic offense, is forbidden.
 7. Intentional and/or ongoing unintentional unsafe firearms behavior is forbidden.
 
-Additionally certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member is not representing the Chapter or Organization.
+Additionally certain forms of misconduct may be considered so egregious as to be grounds for discipline even if a member or local comrade is not representing the Chapter or Organization.
 
 The Chapter Central Committee may set forth additional standards of conduct in the form of ongoing policy resolutions, so long as they do not violate any enumerated member rights.
 
@@ -119,19 +119,19 @@ Members and local comrades are empowered with certain rights within the Chapter.
 1. To know the outcomes of any formal votes of the Chapter, to include a summary of the measure as well as the number of yays, nays, and abstains on the measure.
 2. To interact and participate in a harassment-free and inclusive environment.
 3. To participate in any organization or political party that does not violate any section of these bylaws.
-4. To not participate in any organization or political party that the member does not wish to be a part of or otherwise take actions with.
+4. To not participate in any organization or political party that the member or local comrade does not wish to be a part of or otherwise take actions with.
 5. To petition the Chapter Central Committee on any matter concerning the Chapter, anonymously or named, and to receive a response to the petition.
-6. To participate and vote in Chapter-wide elections other than those for the Chapter Central Committee, or region-wide elections for Chapter regions in which the member primarily resides.
+6. To participate and vote in Chapter-wide elections other than those for the Chapter Central Committee, or region-wide elections for Chapter regions in which the member or local comrade primarily resides.
 
 Additionally, members of the Chapter who are members of the National organization shall be entitled to the following additional rights:
 
-1. To hold office in the Chapter Central Committee for which the member meets the administrative requirements.
+1. To hold an office in the Chapter Central Committee for which the member meets the administrative requirements.
 2. To participate in any binding petition measures to pass a resolution or amendment to the Bylaws.
 3. To participate and vote in elections for the Chapter Central Committee.
 
 ## SECTION FIVE: VOTING {#2-5}
 
-Voting may take place for (a) installation or removal of chapter officers or representatives, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All contested elections and any votes on elected officer or representative removal will be held confidentially. It is otherwise at the discretion of the CCC on how to hold a vote. Eligibility for some votes may be limited to national members of the Organization.
+Voting may take place for (a) installation or removal of chapter officers or representatives, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All contested elections and any votes on elected officer or representative removal will be held confidentially. It is otherwise at the discretion of the CCC on how to hold a vote. Eligibility for some votes may be limited to Chapter members who are national members of the Organization.
 
 Unless otherwise specified, there shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
