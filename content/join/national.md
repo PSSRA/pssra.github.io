@@ -13,7 +13,7 @@ We recommend making this decision based primarily on your comfort being on Natio
 
 ## Both National Members and Local Comrades
 - Allowed to participate in any chapter range day or event, as long as prerequisites met
-- Access to all channels open to any vetted member
+- Access to all Discord channels open to any vetted member
 - Full vetting process prior to getting access to events and Discord
 - Appear on local chapter roster (doesn't have to be under a legal name)
 
@@ -28,7 +28,10 @@ We recommend making this decision based primarily on your comfort being on Natio
 ## Local Comrades
 - Member of the public as far as National SRA is concerned
 - Yearly donation: $25, may be waived by Chapter Treasurer
-- Only allowed to vote in elections for some chapter officers, and not on bylaws amendments
+- Only allowed to vote in elections for some chapter officers
+- Not allowed to vote on bylaws amendments
 - Allowed to serve in local-chapter-only leadership roles
 
 Please email [join@pugetsoundsra.org](mailto:join@pugetsoundsra.org) if you have any questions about the difference between these options!
+
+If you are interested in joining as a Local Comrade, please inquire over email and we'll send instructions.
