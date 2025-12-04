@@ -16,6 +16,8 @@ We recommend making this decision based primarily on your comfort being on Natio
 - Access to all Discord channels open to any vetted member
 - Full vetting process prior to getting access to events and Discord
 - Appear on local chapter roster (doesn't have to be under a legal name)
+- Subject to PSSRA Codes of Conduct
+- Access to PSSRA's Member Welfare Committee to address grievances and violations of chapter codes of conduct
 
 ## National Members
 - Appear on National SRA's roster (doesn't have to be under a legal name)
@@ -24,6 +26,7 @@ We recommend making this decision based primarily on your comfort being on Natio
 - Allowed to vote in elections for all chapter officers, and National's organizing committee
 - Allowed to vote on chapter bylaws amendments
 - Allowed to serve in any leadership role
+- Have access to the National Welfare Committee to address grievances and violations of chapter and National SRA codes of conduct
 
 ## Local Comrades
 - Member of the public as far as National SRA is concerned
