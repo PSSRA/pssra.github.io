@@ -27,6 +27,7 @@ We recommend making this decision based primarily on your comfort being on Natio
 
 ## Local Comrades
 - Member of the public as far as National SRA is concerned
+- NOT technically a "member" of either SRA or PSSRA
 - Yearly donation: $25, may be waived by Chapter Treasurer
 - Only allowed to vote in elections for some chapter officers
 - Not allowed to vote on bylaws amendments
