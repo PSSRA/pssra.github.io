@@ -1,16 +1,34 @@
 +++
 date = '2025-03-29T16:05:56-07:00'
 draft = false
-title = 'Joining National SRA'
+title = 'Joining National vs local-only'
 tags = ['join info']
 +++
 
-If you'd like, you can go ahead and join our parent organization at [this link](https://socialistra.org/membership), but please know that *we will not be able to provide you vetting into the local chapter* for some time; you will still be part of the same queue.
+PSSRA has two options for joining us. You can either [join and become a member of National SRA](https://app.joinit.com/o/socialist-rifle-association), or you can join as a chapter-only "Local Comrade". Both allow vetted individuals to join our range days and participate in our Discord, but there are some important differences.
 
 <!--more-->
 
-If you do join national, please reply back on your email or forum thread (however you've been in touch with us) with your membership number so we can keep an eye out for you on our local roster.
+We recommend making this decision based primarily on your comfort being on National SRA's roster.
 
-Once you join national, you'll have access to the forum at [talk.socialistra.org](https://talk.socialistra.org); feel free to post an [introduction](https://talk.socialistra.org/c/introductions/113) but if you do please mention that you've already been in touch with us so we don't add you to the intake pipeline twice.
+## Both National Members and Local Comrades
+- Allowed to participate in any chapter range day or event, as long as prerequisites met
+- Access to all channels open to any vetted member
+- Full vetting process prior to getting access to events and Discord
+- Appear on local chapter roster (doesn't have to be under a legal name)
 
-If you'd prefer to wait, there are other options for more direct, local-only membership. We will tell you about those options when you're off the [backlog](backlog) and we're ready to start your intake.
+## National Members
+- Appear on National SRA's roster (doesn't have to be under a legal name)
+- Yearly membership: $36, may be waived by application to National
+- Yearly dues benefit National SRA infrastructure, which provides legal, administrative, insurance, and public relations help to PSSRA
+- Allowed to vote in elections for all chapter officers, and National's organizing committee
+- Allowed to vote on chapter bylaws amendments
+- Allowed to serve in any leadership role
+
+## Local Comrades
+- Member of the public as far as National SRA is concerned
+- Yearly donation: $25, may be waived by Chapter Treasurer
+- Only allowed to vote in elections for some chapter officers, and not on bylaws amendments
+- Allowed to serve in local-chapter-only leadership roles
+
+Please email [join@pugetsoundsra.org](mailto:join@pugetsoundsra.org) if you have any questions about the difference between these options!
