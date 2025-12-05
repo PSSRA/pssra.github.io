@@ -70,15 +70,15 @@ At the point that all 5 regions described herein are able to form their own chap
 
 ## SECTION ONE: WHO MAY APPLY {#2-1}
 
-Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in Article 3, Section 1 of the national bylaws may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
+Any individual who agrees with this Chapter's purpose and is not disqualified by the limitations listed in [Article 3, Section 1 of the national bylaws](https://socialistra.org/bylaws/#section-one-who-may-apply) may join as a provisional member by paying dues to the Socialist Rifle Association. Provisional members shall have access to any extant National SRA resources, but will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full members.
 
-The Chapter Central Committee, hereafter CCC, may set forth additional membership requirements and prohibitions in the form of ongoing policy resolutions, to be approved by a majority vote of the CCC.
+The combined [Chapter Central Committee (hereafter CCC)](#4-2) and [Chapter Representative Committee (hereafter CRC)](#4-3) may set forth additional membership requirements and prohibitions in the form of ongoing policy resolutions, to be approved by a majority vote of the combined CCC and CRC.
 
 ### SUBSECTION ONE: LOCAL COMRADES {#2-1-1}
 
 Individuals falling within the geographic boundaries of the Chapter who do not wish to join the National level Organization may elect to become a **Local Comrade** of the Chapter.
 
-After providing a donation to the Chapter (with annual or monthly amount determined by the Treasurer in consultation with the remaining members of the Chapter Central Committee) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades.
+After providing a donation to the Chapter (with annual or monthly amount determined by the [Chapter Treasurer]{#4-2-3} in consultation with the remaining members of the combined [CCC](#4-2) and [CRC](#4-3)) they become a provisional local comrade of the chapter. Provisional local comrades will not have access to Chapter resources, Chapter general meetings, or Chapter in-person events until becoming full local comrades.
 
 Except as otherwise explicitly stated, all provisions of the Chapter bylaws pertaining to Chapter members also pertain to Chapter local comrades, including but not limited to: access to internal communications; ability to serve on committees or in leadership roles other than Liaison, Secretary, and Treasurer; and access to in-person range days and events.
 
@@ -94,7 +94,7 @@ Following the interview, the members of the Committee that conducted the intervi
 
 After successful vetting, provisional members and provisional local comrades become full members and full local comrades, respectively, of the Chapter. Members (not local comrades) shall be nominated for ascension with the national Organization, vouched for by the Secretary and the Vetting Chair.
 
-The Chapter may enact further clarifying policies on the vetting process by majority vote of the CCC, as proposed by the Vetting Chair or Chapter Secretary.
+The Chapter may enact further clarifying [policies](#7) on the vetting process by majority vote of the combined [CCC](#4-2) and [CRC](#4-3), as proposed by the Vetting Chair or Chapter Secretary.
 
 ## SECTION THREE: CONDUCT {#2-3}
 
@@ -131,7 +131,7 @@ Additionally, members of the Chapter who are members of the National organizatio
 
 ## SECTION FIVE: VOTING {#2-5}
 
-Voting may take place for (a) installation or removal of chapter officers or representatives, (b) changes to non-bylaws policies and procedures (see Article Seven), or (c) amendments to chapter bylaws. Votes may take place publicly or confidentially. All contested elections and any votes on elected officer or representative removal will be held confidentially. It is otherwise at the discretion of the CCC on how to hold a vote. Eligibility for some votes may be limited to Chapter members who are national members of the Organization.
+Voting may take place for (a) installation or [removal](#4-5) of chapter officers or representatives, (b) changes to non-bylaws [policies and procedures (see Article Seven)](#7), or (c) [amendments to chapter bylaws](#3). Votes may take place publicly or confidentially. All contested elections and any votes on elected officer or representative removal will be held confidentially. It is otherwise at the discretion of the [CCC](#4-2) on how to hold a vote. Eligibility for some votes may be limited to Chapter members who are national members of the Organization.
 
 Unless otherwise specified, there shall be no quorum on votes, but all votes must be open for a period of no less than one week, with all available communication methods utilized to solicit responses.
 
@@ -139,7 +139,7 @@ Unless otherwise specified, there shall be no quorum on votes, but all votes mus
 
 All Chapter members of the national Organization must remain in good standing with the Organization, and continue to appear on rosters as provided from the Organization to the Chapter Secretary.
 
-Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer and approved by the combined CCC and CRC, or request waivers of same. Written procedures for doing so shall be established by the Chapter Treasurer and approved by the combined CCC and CRC, and will be available to all members and local comrades.
+Chapter local comrades must maintain direct donations to the Chapter as determined by the Chapter Treasurer and approved by the combined [CCC](#4-2) and [CRC](#4-3), or request waivers of same. Written procedures for doing so shall be established by the Chapter Treasurer and approved by the combined CCC and CRC, and will be available to all members and local comrades.
 
 ## SECTION SEVEN: EXPULSION {#2-7}
 
@@ -147,15 +147,13 @@ A member or local comrade may lose their role in the Chapter by resigning or by 
 
 Disciplinary expulsion (temporary or permanent) can take place as part of a disciplinary procedure recommended by the Member Welfare Committee, and must be enacted a majority vote of the combined Chapter Central Committee and Chapter Representative Committee, with 50% quorum required, after a discussion period of no less than 48 hours following MWC recommendation. Under emergency circumstances (including but not limited to threat to well-being of members, the Organization, or the Chapter) the MWC may remove access to Chapter resources during this discussion period.
 
-Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events. This expulsion shall be reversed when the situation is resolved. The CCC and Vetting Chair may institute a policy whereby after a specified period of membership lapse the member must undergo re-vetting.
+Administrative expulsion (temporary or permanent) may be enacted by the Secretary and/or Treasurer for administrative reasons such as dues arrears, removal from National roster, or being legally unable to attend Chapter events. This expulsion shall be reversed if/when the situation is resolved. The [CCC](#4-2) and Vetting Chair may institute a policy whereby after a specified period of membership lapse the member must undergo re-vetting.
 
 If a national member is expelled from the chapter for disciplinary reasons, the Liaison shall recommend the member's expulsion from the Organization to the National Welfare Council, requiring a second from the Secretary.
 
-
-
 # ARTICLE THREE: AMENDMENTS {#3}
 
-Bylaws may be amended, added, or removed by a two-thirds majority vote by the membership, with quorum of no less than 25% of active vetted members. A period of at least two weeks will be given for the vote to be completed, and all available communication methods shall be utilized to solicit responses.
+Bylaws may be amended, added, or removed by a two-thirds majority vote by full Chapter national members, with quorum of no less than 25% of active full national members. A period of at least two weeks will be given for the vote to be completed, and all available communication methods shall be utilized to solicit responses.
 
 # ARTICLE FOUR: CHAPTER LEADERSHIP {#4}
 
@@ -201,8 +199,6 @@ The Treasurer shall make an itemized report of the incoming and outgoing funds t
 
 The Treasurer shall be responsible for recording and accounting for any property purchased by the Chapter.
 
-They shall fulfill the Treasurer role specified in the Organization Bylaws under Article Eight, Section Six, Subsection Three.
-
 ## SECTION THREE: CHAPTER REPRESENTATIVE COMMITTEE {#4-3}
 
 The following individuals shall make up the Chapter Representative Committee (CRC), and will be referred to as Chapter Representatives: 
@@ -238,9 +234,9 @@ This section shall apply to roles as they pertain to this Chapter. Removal from 
 
 ### SUBSECTION ONE: ELECTED LEADERS {#4-5-1}
 
-This subsection applies to leadership roles filled by an election by Chapter full members and local comrades.
+This subsection applies to leadership roles filled by an election by Chapter full members and/or local comrades.
 
-Any member or local comrade in a leadership position elected by the members and local comrades of the Chapter may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
+Any member or local comrade in a leadership position elected by the members and/or local comrades of the Chapter may be removed from their position for misconduct or loss of eligibility. This may be initiated by:
 
 1. a petition from one fifth of combined full Chapter members and full Chapter local comrades,
 2. a vote of no confidence from the combined Chapter Central Committee and Chapter Representative Committee,
@@ -261,7 +257,7 @@ Any member or local comrade in a leadership position appointed by the Chapter Ce
 
 ## SECTION ONE: GENERAL MEETINGS {#5-1}
 
-Meetings will be held as often as the CCC and/or Chapter members and local comrades feel is reasonable, with an effort to hold at least one meeting per quarter. Times of meetings will be publicized via any methods the Chapter has at its disposal, but locations may be kept private by leadership from non-members in interests of Chapter safety and orderly conduct.
+Meetings will be held as often as the Chapter leadership and/or Chapter members and local comrades feel is reasonable, with an effort to hold at least one meeting per quarter. Times of meetings will be publicized via any methods the Chapter has at its disposal, but locations may be kept private by leadership from non-members in interests of Chapter safety and orderly conduct.
 
 The Liaison shall publish the proposed agenda of the Chapter meeting on internal Chapter communications platforms not later than 72 hours prior to the general meeting.
 
@@ -271,11 +267,11 @@ For each Chapter Event, there shall be one Event Organizer. There shall not be E
 
 The Event Organizer may appoint volunteers for event roles as needed, e.g. greeter, instructor, medic, etc.
 
-Pursuant to Article One, Section Three, the Event Organizer shall take attendance at each event and provide the list of attendees to the Secretary.
+The Event Organizer shall take attendance at each event and provide the list of attendees to the Secretary.
 
 ## SECTION THREE: SPECIAL EVENTS {#5-3}
 
-The Chapter may participate in an official capacity, in part or in whole, in events organized by other organizations which support the Chapter's core mission of empowering marginalized communities. Participation in these events must be approved by CCC. Said other organizations shall not have positions which run counter to the Organization or Chapter's mission; if it is determined that this is the case, the Chapter is empowered to cease involvement in the event immediately.
+The Chapter may participate in an official capacity, in part or in whole, in events organized by other organizations which support the Chapter's core mission of empowering marginalized communities. Participation in these events must be approved by the combined [CCC](#4-2) and [CRC](#4-3). Said other organizations shall not have positions which run counter to the Organization or Chapter's mission; if it is determined that this is the case, the Chapter is empowered to cease involvement in the event immediately.
 
 ### SUBSECTION ONE: UNAFFILIATED COALITION WORK {#5-3-1}
 
@@ -286,46 +282,48 @@ Neither the Chapter nor the Organization need officially sanction members' or lo
 
 ## SECTION ONE: VETTING COMMITTEE {#6-1}
 
-The Vetting Committee shall be composed of Chapter members and local comrades, and chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members and local comrades of the Chapter. (See Article Two, Section Six, Subsection One.) One member of the Vetting Committee for each interview shall be a senior member of the Committee. A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
+The Vetting Committee shall be composed of Chapter members and local comrades, and chaired by the Chapter Vetting Chair and overseen by the Secretary of the Chapter, and shall be responsible for conducting interviews with provisional members and local comrades of the Chapter (see [Article Two, Section Two](#2-2)). One member of the Vetting Committee for each interview shall be a senior member of the Committee. A senior member of this Committee is defined as a Committee member who has attended at least five (5) vetting meetings.
 
 ## SECTION TWO: FIREARMS TRAINING COMMITTEE {#6-2}
 
 The Firearms Training Committee (hereafter the FTC) shall be composed of Chapter members and local comrades with advanced knowledge of firearms safety and proficiency. Examples of this include, but are not limited to, firearms instructors and range safety officers. FTC members should be intensely aware that they are taking the safety of the larger membership in their hands, and should make their decisions accordingly.
 
-The FTC shall provide at least one Representative for each Chapter Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see Article Five, Section Two). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be the lead range safety officer(s) for the event.
+The FTC shall provide at least one Representative for each Chapter Range Day and firearms class. This shall be distinct from the Event Organizer of the Event (see [Article Five, Section Two](#5-2)). For firearms safety/proficiency classes, the FTC representative(s) shall be the class instructor(s). For non-class range days, the FTC representative(s) shall be the lead range safety officer(s) for the event.
 
 The FTC representative(s) are responsible for monitoring for unsafe behavior at firearms classes and range days, and shall be tasked with preventing unsafe behavior and removing unsafe individuals to the best of their ability.
 
-The FTC shall approve the guests of members and local comrades attending a Range Day, as stipulated in Article Two, Section Three, Paragraph 5.
+The FTC shall approve the guests of members and local comrades attending a Range Day.
 
-Pursuant to Article Two, Section Three, the FTC shall be able to certify, in conjunction with Event Organizers and the CCC, the ability of members and local comrades to safely handle firearms prior to each event.
+The FTC shall be able to certify, in conjunction with Event Organizers and the [CCC](#4-2), the ability of members and local comrades to safely handle firearms prior to each event.
 
 ## SECTION THREE: MEMBER WELFARE COMMITTEE {#6-3}
 
-The Member Welfare Committee (MWC) shall be formed on an as-needed basis as stipulated in Article One, Section Four, composed of Chapter members and local comrades. The combined CCC and CRC shall appoint a MWC chair tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. At time of taking office, the MWC Chair must be a National Organization member with a non-disclosure agreement on file with the Organization. Aside from the MWC chair, the committee shall be dissolved when it is determined by the MWC, the CCC, or the affected person that the situation is stable.
+The Member Welfare Committee (MWC) shall be formed on an as-needed basis, composed of Chapter members and local comrades. The combined [CCC](#4-2) and [CRC](#4-3) shall appoint a MWC chair tasked with fielding MWC reports and coordinating formation of MWC(s) as needed. At time of taking office, the MWC Chair must be a National Organization member with a non-disclosure agreement (NDA) on file with the Organization. Aside from the MWC chair, the committee shall be dissolved when it is determined by the MWC, the CCC, or the affected person that the situation is stable.
 
-MWC matters include, but are not limited to, issues between members/local comrades, officers and members/local comrades, and officers themselves that may affect organizational participation or the ability to provide instruction. The purpose of the MWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
+MWC matters include, but are not limited to, issues between members/local comrades, between chapter leaders and members/local comrades, and among leadership that may affect organizational participation or the ability to provide instruction. The purpose of the MWC should align with the chapter’s established expectations for conduct, which include principles such as engaging in good faith.
 
 MWC involvement and makeup should be guided by an internal policy that is communicated proactively to the membership and grounded in the Organization and Chapter's mission and vision, specifically, commitments to carceral abolition, restorative and transformative justice, and an understanding of marginalization. The internal policy should outline what documentation for exclusionary and restorative actions should look like, as well as a plain language map of what escalated consequences can look like in the event of ongoing and egregious behavior.
 
-The MWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The MWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the combined CCC and CRC when larger actions are required, in accordance with the designated section and subsection. Members of the MWC can also be moderators or hold other roles, and any actions in the role of MWC should be made clear.
+The MWC should not be considered a last resort; rather, it should be utilized proactively to address issues early whenever possible. The MWC has the authority to make recommendations, lead investigations, gather relevant evidence, and present findings to the combined CCC and CRC when larger actions are required, in accordance with the designated section and subsection.
+
+The MWC Chair shall also hold primary responsibility for setting and coordinating policy related to community moderation. All actions they or other moderators take in their respective role of MWC Chair/moderator (as opposed to as a peer member/local comrade) shall be made clear to the affected person(s).
 
 ## SECTION FOUR: OTHER COMMITTEES {#6-4}
 
-Other committees may be established or dissolved by simple majority vote of the combined CCC and CRC at any time without amendment to the Bylaws. Each committee shall be composed of Chapter members and local comrades, and have a Chair who will serve as a Chapter Representative.
+Other committees may be established or dissolved by [policy documents](#7) enacted by majority vote of the combined CCC and CRC at any time without amendment to the Bylaws. Each committee shall be composed of Chapter members and local comrades, and have a Chair who will serve as a Chapter Representative.
 
 # ARTICLE SEVEN: OTHER POLICIES AND PROCEDURES {#7}
 
-All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any member of Chapter leadership, recorded internally, and enacted by a simple majority vote of the combined CCC and CRC. These documented policies and procedures of the Chapter shall be accessible to full members and local comrades, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the combined CCC and CRC.
+All policies and procedures not documented in the Bylaws, or which need further elaboration, may be drafted by any member of Chapter leadership, recorded internally, and enacted by a simple majority vote of the combined [CCC](#4-2) and [CRC](#4-3). These documented policies and procedures of the Chapter shall be accessible to full members and local comrades, and, upon request, the Governing Body of the Organization and its officers, but will otherwise remain confidential. Effective date of each policy or procedure will be recorded. These policies and procedures may be amended or removed by simple majority votes of the combined CCC and CRC.
 
 A Chapter policy or procedure may be enacted, amended, or removed bypassing Chapter leadership by a two-thirds supermajority of vetted membership of the Chapter, with greater than 50% quorum of combined full members and local comrades.
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE {#8}
 
-In the event that the Chapter is rendered nonfunctional due to consistent lack of quorum or the consistent absence of leadership, any member of the CCC may invoke the deratification procedure of the Chapter's charter with a one month waiting period and all reasonable effort will be taken to notify current members and local comrades that the Chapter will be doing so.
+In the event that the Chapter is rendered nonfunctional due to consistent lack of quorum or the consistent absence of leadership, any member of the [CCC](#4-2) may invoke the deratification procedure of the Chapter's charter with a one month waiting period and all reasonable effort will be taken to notify current members and local comrades that the Chapter will be doing so.
 
 # ARTICLE NINE: RATIFICATION {#9}
 
-Pursuant to Article Ten of the revised Socialist Rifle Association Bylaws, the Puget Sound Socialist Rifle Association formally ratified these bylaws on [insert ratification date here]. With X ayes and X nays, were witnessed by the Chapter Secretary TBD. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on [insert recognition date here].
+Pursuant to [Article Ten of the revised Socialist Rifle Association Bylaws](https://socialistra.org/bylaws/#article-ten-continuity), the Puget Sound Socialist Rifle Association formally ratified these bylaws on [insert ratification date here], with X ayes and X nays, witnessed by Interim Chapter Secretary TBD. The Organizing Committee of the Socialist Rifle Association granted recognition of this ratification on [insert recognition date here].
 
 # ARTICLE TEN: AMENDMENTS TO THE BYLAWS {#10}
