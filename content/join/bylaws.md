@@ -1,9 +1,9 @@
-<!-- +++
-date = '2025-07-11T16:05:14-07:00'
-draft = true
++++
+date = '2025-03-29T15:04:39-07:00'
+draft = false
 title = 'PSSRA Bylaws'
-hidden = true
-+++ -->
+tags = ['join info']
++++
 
 # BYLAWS OF THE PUGET SOUND SOCIALIST RIFLE ASSOCIATION
 
