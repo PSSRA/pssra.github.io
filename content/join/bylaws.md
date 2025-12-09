@@ -320,7 +320,12 @@ A Chapter policy or procedure may be enacted, amended, or removed bypassing Chap
 
 # ARTICLE EIGHT: INOPERABLE CLAUSE [🔗](#8) {#8}
 
-In the event that the Chapter is rendered nonfunctional due to consistent lack of quorum or the consistent absence of leadership, any member of the [CCC](#4-2) may invoke the deratification procedure of the Chapter's charter with a one month waiting period and all reasonable effort will be taken to notify current members and local comrades that the Chapter will be doing so.
+In the event that the Chapter is rendered nonfunctional due to consistent lack of quorum or the consistent absence of leadership, any member of the [CCC](#4-2) may invoke the delisting procedure of the Chapter's bylaws with a one month waiting period and all reasonable effort will be taken to notify current members and local comrades that the Chapter will be doing so.
+
+## SECTION ONE: DELISTING PROCEDURE
+
+In the event that a member of the CCC has invoked the delisting procedure all possible efforts to get new leadership will be made. If no new leadership can be gained then the invoking CCC member will notify the chapters department that they are invoking the delisting procedure and make all effort to gather all chapter assets and contact the finance department for instruction on next steps for asset reabsorption or donation. Delisting does not entail loss of membership, and any possible membership cancelations need to be done individually.
+
 
 # ARTICLE NINE: RATIFICATION [🔗](#9) {#9}
 
