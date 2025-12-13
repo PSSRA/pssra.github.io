@@ -209,7 +209,7 @@ The following individuals shall make up the Chapter Representative Committee (CR
 
 Representatives must be either full National members or full Local Comrades of the Chapter.
 
-Chapter Representatives may only access Organization membership records or Chapter records containing member PII if the Representative is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
+Chapter Representatives may only access Organization membership records or Chapter records containing member personally identifiable information (PII) if the Representative is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
 
 ### SUBSECTION ONE: REPRESENTATIVE APPOINTMENT [🔗](#4-3-1) {#4-3-1}
 
@@ -224,7 +224,7 @@ The following individuals shall make up the Chapter Organizing Committee (COC), 
 
 Deputies must be either full National members or full Local Comrades of the chapter.
 
-Chapter Organizers may only access Organization membership records or Chapter records containing member PII if the Organizer is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
+Chapter Organizers may only access Organization membership records or Chapter records containing member personally identifiable information (PII) if the Organizer is a national member of the Organization and has signed a non-disclosure agreement with the Organization as described above.
 
 Chapter Organizers will be appointed by approval vote of the combined CCC and CRC.
 
@@ -275,7 +275,7 @@ The Chapter may participate in an official capacity, in part or in whole, in eve
 
 ### SUBSECTION ONE: UNAFFILIATED COALITION WORK [🔗](#5-3-1) {#5-3-1}
 
-Neither the Chapter nor the Organization need officially sanction members' or local comrades' involvement in ongoing projects that align with the overall mission of the Organization in their community as individuals, and therefore they shall not be conducted under either the Chapter or Organization's name. However, members and local comrades should feel encouraged to seek out and assist with these projects, and should be encouraged to report on their experiences in General Meetings.
+Neither the Chapter nor the Organization need officially give approval for members' or local comrades' involvement in ongoing projects that align with the overall mission of the Organization in their community as individuals, and therefore they shall not be conducted under either the Chapter or Organization's name. However, members and local comrades should feel encouraged to seek out and assist with these projects, and should be encouraged to report on their experiences in General Meetings.
 
 
 # ARTICLE SIX: COMMITTEES [🔗](#6) {#6}
