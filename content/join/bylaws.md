@@ -29,8 +29,6 @@ We are dedicated to Liberation and Freedom of ALL people and therefore oppose al
 
 We are a party to our local communities and act as such. We volunteer in various ways to further the connections between leftist political radicals and the unorganized communities in which we live. We aim to improve the material and social conditions of other working class and marginalized folks.
 
-We stand against the disarmament of the working class. We are dedicated to arming the working class, both physically and mentally.
-
 ## SECTION THREE: JURISDICTION [🔗](#1-3) {#1-3}
 
 ### SUBSECTION ONE: CHAPTER JURISDICTION [🔗](#1-3-1) {#1-3-1}
