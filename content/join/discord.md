@@ -24,7 +24,7 @@ Our use of Discord is the result of balancing ease of use and familiarity to man
 
 We are aware of changes coming to Discord related to age verification and are actively monitoring the situation. We are not able to move to another platform at this time.
 
-While there is an age requirement to join PSSRA, PSSRA Discord servers do not have age verification turned on, so at this time there is no requirement to provide age verification to Discord to use PSSRA Discord servers.
+While there is an age requirement to join PSSRA, PSSRA Discord servers do not have age verification turned on, so at this time you should not be required to provide age verification to Discord to use PSSRA Discord servers.
 {{< /box >}}
 
 While the server is not public and requires an invitation to join, server messages are not end to end encrypted and should be treated like public posting. We do not engage or endorse any illegal behaviors or actions so this is not a problem for our org.
