@@ -1,3 +1,10 @@
++++
+date = '2026-04-21T16:06:58-07:00'
+draft = false
+title = 'pssbot Spec'
+tags = ['temp pages']
++++
+
 # pssbot
 
 Discord bot for PSSRA — slash commands that read/write the Grist roster database. Deployed on a DigitalOcean droplet. Grist handles data storage and formula logic; the bot is purely an interface layer on top of the Grist API.
