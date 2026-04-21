@@ -11,9 +11,9 @@ No! In fact, while we do offer occasional practical rifle training classes at a 
 
 <!--more-->
 
-The Washington Assault Weapons Ban that became effective in April 2023 made it impossible to buy our only previously-recommended semiautomatic rifle platform, the AR-15. Individuals who owned those rifles prior to the ban are allowed to keep and train with them, but given our focus on training new shooters, we are de-emphasizing practical rifle use.
+Handguns are far more likely to be used in realistic defensive scenarios, and most of the training we provide for practical pistol use is directly applicable to practical rifle. (The reverse is less true.) In other words, a person who wants to improve their skills with a semiautomatic rifle is well-served by improving their pistol skills (and given the ammo cost differential, will save money doing so), whether they already own a rifle, or should the laws change in the future. For this reason, **attending a pistol class and starting to learn those practical firearms skills is a prerequisite for attending any rifle class we offer**.
 
-Handguns are far more likely to be used in realistic defensive scenarios, and most of the training we provide for practical pistol use is directly applicable to practical rifle. (The reverse is less true.) In other words, a person who wants to improve their skills with a semiautomatic rifle is well-served by improving their pistol skills (and given the ammo cost differential, will save money doing so), whether they already own a rifle, or should the laws change in the future.
+The Washington Assault Weapons Ban that became effective in April 2023 made it impossible to buy our only previously-recommended semiautomatic rifle platform, the AR-15. Individuals who owned those rifles prior to the ban are allowed to keep and train with them, but given our focus on training new shooters, we are de-emphasizing practical rifle use.
 
 We welcome new shooters who do not yet own a handgun to our intro pistol courses, where they will be able to participate fully. We are not able to do the same for new shooters who do not own a rifle for our practical rifle courses.
 
